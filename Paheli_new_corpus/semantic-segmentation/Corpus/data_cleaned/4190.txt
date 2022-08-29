@@ -1,0 +1,49 @@
+           - 1 -                                                              R	PREAMBLE
+IN THE HIGH COURT OF KARNATAKA AT BENGALURUDATED THIS THE 19TH DAY OF NOVEMBER, 2015	PREAMBLE
+           PRESENT       THE HON'BLE MR.JUSTICE VINEET SARAN           AND	PREAMBLE
+THE HON'BLE MR.JUSTICE MOHAN M. SHANTANAGOUDAR       S.T.R.P.NOS.216/2015 & 242-252/2015	PREAMBLE
+BETWEEN :M/s. Nandi Constructions	PREAMBLE
+TIN: 29370707569125, 3rd MainJayalakshmipuram	PREAMBLE
+Mysuru-570012	PREAMBLE
+(by its proprietor T.N.Hemanth, 53 years)	PREAMBLE
+                                     ...Petitioner(By Sri T.N. Keshavamurthy, Adv.,)	PREAMBLE
+AND :The State of Karnataka	PREAMBLE
+Represented byThe Commissioner of Commercial TaxesGandhinagarBengaluru-560009	PREAMBLE
+...Respondent(By Sri K.M. Shivayogiswamy, AGA.,)         	PREAMBLE
+These petitions are filed under Section 65(1) ofKarnataka Value Added Tax Act, 2003 against thejudgment and order dated 16.01.2015 passed in STANos.660 to 663/2014 and STA Nos.664 to 671/2014 on thefile of the Karnataka Appellate Tribunal at Bangalore.         	PREAMBLE
+These petitions coming on for admission, this day,VINEET SARAN J., made the following:-                                     O R D E R        	PREAMBLE
+These revision petitions are filed by the assessee challenging the order of the Tribunal dated 16.1.2015 whereby the appeals of the assessee have been dismissed.	FAC
+2. The brief facts of this case are that the assessee is a builder and civil works contractor, carrying on the business of construction and sale of apartments.	FAC
+For the relevant tax periods, the assessee had sold some apartments, for which it had disclosed the sale consideration, out of which the cost of the land was disclosed in the returns at 45% and consequently paid tax on the sale consideration minus the land cost.	FAC
+The assessing authority did not accept the land cost at 45%, but instead assessed it at 40% and assessed the tax.	FAC
+The assessee challenged the assessment order by filing the appeals, where it claimed the land cost to be 50% of the sale consideration, instead of 45% as had been claimed in the returns.	FAC
+ 3. The appellate authority considered the matter on merits and, though on facts it came to the conclusion that the land cost was over 50%, but as the claim made in the returns filed by the assessee was for only 45% of the sale consideration, the land cost, for the purpose of calculation of tax, was taken at 45% only.	FAC
+While passing the said order, the first appellate authority relied on a decision of the Division Bench of this Court rendered in the case of Infinite Builders and Developers, Bangalore vs. The Additional Commissioner of Commercial Taxes, Zone II, Bangalore, reported in 2013(76) Kar. L.J 390.	FAC
+Challenging the said order, the assessee filed appeals before the Tribunal claiming the land cost be allowed at 50% of the sale consideration.	FAC
+The appeals have been dismissed by a common reasoned order, which is under challenge in these revision petitions.	FAC
+ 4. We heard Sri T.N.Keshava Murthy, learned advocate for the petitioner as well as Sri K.M.Shivayogiswamy, learned Government Advocate appearing for the respondent and perused the records.	NONE
+ 5. Although several questions of law are raised in these petitions, learned counsel for the petitioner has, today condensed the same and placed before us only two questions of law for determination by this Court, which are as follows:- a) Whether the appellate Tribunal is legally justified in holding that land cost at 50% that is not claimed in the returns cannot be considered in view of the decisions of this Court in the case of State of Karnataka vs. Centum Industries Pvt. Ltd., and Infinite Builders & Developers vs. Additional CCT., Zone II, Bangalore?	ARG_PETITIONER
+ b) Whether appellate Tribunal is legally justified in confirming the land cost allowed by the first appellate authority at 45% of the contract receipts, even after noticing the finding of the first appellate authority that land cost as per registered sale deeds and the certificate of the Chartered Accountant worked out to 54% of the contract receipts, merely for the reason that the same is not claimed in the returns filed?	ARG_PETITIONER
+6. The main issue to be decided by this Court is as to whether the petitioner can be granted benefit over and above that what has been claimed in the returns filed by the assessee for the relevant tax periods.	ISSUE
+Admittedly, the claim of the petitioner, in its returns filed for the relevant tax periods, was at 45% towards land cost.	FAC
+Though Assessing Officer allowed only 40%, the first appellate authority granted the benefit of 45% towards land cost.	FAC
+The question now to be decided is whether unless a claim is made by the assessee in its return (and without the same being revised or modified by filing a revised return), any benefit beyond the benefit claimed in the return can be considered and allowed by the authorities.	ISSUE
+ 7. In our view the answer would be a clear no.	ANALYSIS
+The Division Bench of this Court in the case of Infinite Builders and Developers, Bangalore (supra) was considering a case where the first appellate authority had granted a benefit more than what was claimed by the assessee.	PRE_RELIED
+The same was denied by this Court, with the following observations: "43.	ANALYSIS
+The assessee never filed any revised return in respect of the period from April 2005 to March 2006 nor claimed any input credit return, but, on the other hand only filed nil tax liability return.	ANALYSIS
+The assessee persisted and did not file any revised return or anything at all even after inspection, notice etc.	ANALYSIS
+In this view of the matter, there was nothing at all before the Assessing Authority to provide any input tax deduction in favour of the assessee for the entire period from April 2005 to March 2006.	ANALYSIS
+ So it is urged by the appellant/assessee that even long after the expiry of the period in which the revised return could have been filed, the fact remains that there is no response by filing any revised returns.	ANALYSIS
+In such a position, we are of the view that the First Appellate Authority did go out of its duties and responsibilities and acted out of its jurisdiction to entertain a claim for deduction of input tax rebate in favour of the assessee by accepting some material, purporting it to be based on the books of accounts and the purchase invoices etc.        and in granting reliefs to the assessee.	ANALYSIS
+We find, it is a case of the First Appellate Authority acting more loyal than the king, even though a claim had not been put forth by the assessee through the returns, the First Appellate Authority has ventured to allow the appeals and grant relief to the assessee, contrary to statutory provisions!" 8.	ANALYSIS
+Similar view has been taken by another Division Bench of this Court in the case of State of Karnataka vs. Centum Industries Private Limited, Bangalore, reported in 2014(80) Kar.L.J.65. 9.	PRE_RELIED
+We have no reason to differ with the opinion of the two Division Benches.	RATIO
+Learned counsel for the petitioner has submitted that the question in the aforesaid cases was regarding grant of input tax rebate as a deduction, whereas in the present case, according to the petitioner, the claim is exclusion of land cost and as once the authority has accepted it to be higher than 50%, no tax could be levied on such amount which was beyond 50% of the sale consideration.	RATIO
+We are unable to accept such submission made by the learned counsel for the petitioner as nothing more than what is claimed by the assessee in its return can be given by the authorities, and if it is permitted, then the assessing authority or the appellate authorities would be given unfettered powers to grant any such relief which may not even have been claimed by the assessee in its returns.	RATIO
+The Act provides for filing a revised return under Section 35(4) of the Karnataka Value Added Tax Act, 2003.	RATIO
+If the assessee fails to avail the benefit of filing revised return, then it is only the return which is filed, which has to be considered by the assessing officer or other authorities and nothing more than what is claimed in the return that can be granted by the authorities in favour of the assessee.	RATIO
+ For the foregoing reasons, we answer the questions in favour of the revenue and against the assessee.	RPC
+Petitions are dismissed accordingly.	RPC
+No order as to costs.	RPC
+ Sd/- JUDGE Sd/- JUDGE *ck/-	NONE

@@ -1,0 +1,73 @@
+*      	PREAMBLE
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+                                          	PREAMBLE
+Date of decision : September 3, 2007
+R-1	PREAMBLE
+
++                                   ITR 553 of 1983	PREAMBLE
+COMMISSIONER OF INCOME TAX                 .....	PREAMBLE
+Petitioner	PREAMBLE
+Through Mr. J.R. Goel, Advocate
+
+                       versus
+
+
+       M	PREAMBLE
+/S KWALITY ICE CREAM                       	PREAMBLE
+..... Respondent
+                	PREAMBLE
+Through Mr. Ajay Vohra with Ms. Kavita Jha and Mr.	PREAMBLE
+Rahul Yadavi, Advocates	PREAMBLE
+CORAM:
+       HON'BLE MR. JUSTICE MADAN B. LOKUR
+       HON'BLE DR. JUSTICE S.MURALIDHAR
+
+         1.	PREAMBLE
+Whether Reporters of local papers may be allowed
+            to see the judgment?	PREAMBLE
+                            YES
+         2.	PREAMBLE
+To be referred to the Reporter or not?	PREAMBLE
+          YES
+          3.	PREAMBLE
+Whether the judgment should be reported in Digest?	PREAMBLE
+YES
+
+                              ORDER
+ 	PREAMBLE
+In this reference, relevant to the Assessment Year 1976-77, the following question of law has been referred for our opinion under Section 256 (1) of the Income Tax Act, 1961('Act'): “	ISSUE
+Whether on the facts and in the circumstances of the case, the liability to pay the sales tax of Rs.4,24,029/- made up of Rs.3,22,482/- being refund of sales tax received by the assessee during the relevant year and Rs.1,01,507/- being provision for sales tax made in the accounting period relevant to the assessment year 1976-77, was chargeable to tax to the total income of the assessee?”	ISSUE
+In so far as the first part of the question is concerned, whether the liability to pay sales tax of Rs.3,22,482/- being refund of sales tax received by the assessee during the relevant year was chargeable to tax, learned counsel for the parties are agreed that in view of the decision in Polyflex (India) Pvt. Limited v. Commissioner of Income Tax [2002] 257 ITR 343 (SC) this part of the question is required to be answered in the affirmative, that is in favour of the Revenue and against the assessee.	PRE_RELIED
+
+ The second part of the question is whether the liability to pay sales tax on the amount of Rs.1,01,507/- being provision for sales tax made in the accounting period relevant to the assessment year 1976-77 is chargeable to tax.	ANALYSIS
+The admitted position is that the assessee is following the mercantile system of accounting.	ANALYSIS
+Initially there was some dispute whether the ice cream sold by the assessee was exigible to tax or not.	ANALYSIS
+This Court in its judgment dated 27th March, 1974 held that the ice cream manufactured and sold by the assessee was not exigible to sales tax.	ANALYSIS
+The Revenue was not satisfied with the decision rendered by this Court and preferred an appeal which remained pending before the Supreme Court.	FAC
+Ultimately it was decided by the Supreme Court on 6 th September, 1995.	FAC
+It is common ground that the decision of the Supreme Court affirmed the decision of this Court that the assessee was not liable to pay sales tax on the ice cream sold by it.	FAC
+During the pendency of the the appeal preferred by the Revenue in the Supreme Court, the assessee made a provision of Rs.1,01,507/- for sales tax in the previous year relevant to the assessment year 1976-77.	ANALYSIS
+According to learned counsel for the Revenue, this provision was not required to be made since this Court had declared that no sales tax was payable on the sale of ice cream and further the Supreme Court also did not grant a stay of the operation of the judgment of this Court.	ARG_PETITIONER
+Learned counsel for the Revenue submitted that since the assessee did not in fact pay any sales tax on the sale of ice cream in the relevant previous year, there was no question of any provision for sales tax being made.	ARG_PETITIONER
+
+ Learned counsel for the Assessee has drawn our attention to the decision of the Supreme Court in Kedarnath Jute Manufacturing Co.
+ Limited v. Commissioner of Income Tax [1971] 82 ITR 363 wherein it has been held that the moment a dealer makes either a purchase or sale of any commodity subject to sales tax, the obligation to pay the tax arises.	ARG_RESPONDENT
+
+ Although that liability could not be enforced till quantification was effected by assessment proceedings, the liability for payment of tax was independent of the assessment.	ANALYSIS
+Since the assessee was following the mercantile system of accounting, it was entitled to make a provision for and therefore deduct from the profits and gains of its business the liability to pay sales tax.	ANALYSIS
+The liability did not cease to be a liability merely because the assessee had disputed it.	ANALYSIS
+So long as the appeal filed by the Revenue was pending before the Supreme Court, the liability had accrued in so far as the assessee was concerned.	ANALYSIS
+
+ The Allahabad High Court in J.K. Synthetics Limited v. O.S. Bajpai, ITO, Central Circle-V, Kanpur [1976] 105 ITR 864 has held that an assessee is entitled to claim deduction in respect of the liability of excise duty for which it had made a provision in its account books.	PRE_RELIED
+This view was upheld by the Hon'ble Supreme Court in Union of India v. J.K. Synthetics Limited [1993] 199 ITR 14.	PRE_RELIED
+The Supreme Court held that since under Section 41 of the Act the liability to tax would depend on the outcome of the appeal, there would be no prejudice to the department if the provision is made and the assessment is made on that basis.	PRE_RELIED
+Section 41 (1) Act envisages that where the assessee has obtained some benefit in respect of a trading liability by way of remission or cessation thereof, the amount obtained by the assessee or the value of benefit accruing to him shall be deemed to be profits and gains of business for that year in which such remission or cessation occurs and would accordingly be chargeable to income tax as the income of that relevant previous year.	STA
+There would be no loss of tax in so far as the Revenue is concerned.	ANALYSIS
+It can now tax in the Assessment Year 1996-97, the entire amount provided for by the assessee towards sales tax liability.	ANALYSIS
+
+ Under the circumstances, we answer the second part of the question in the negative that is in favour of the assessee and against the revenue.	RPC
+
+ The reference is disposed of accordingly.	RPC
+
+ MADAN B. LOKUR,J S.MURALIDHAR, J SEPTEMBER 03, 2007 rk	NONE

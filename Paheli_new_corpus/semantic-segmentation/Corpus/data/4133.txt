@@ -1,0 +1,102 @@
+     IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+          ORDINARY ORIGINAL CIVIL JURISDICTION
+
+            INCOME TAX APPEAL NO.5615 OF 2010
+
+The Commissioner of Income Tax-12,  ...Appellant.	PREAMBLE
+
+Aayakar Bhavan, M.K.Road,           ...	PREAMBLE
+Respondent.	PREAMBLE
+
+Mumbai- 400 020.	PREAMBLE
+Vs.
+
+M/s.Fernhill Laboratories and
+Industrial Establishment,
+Fernill House, 254,
+Perin Nariman Street,Fort,
+Mumbai-400 001.
+Pan No.AAAFF0209Q.
+
+Mr. Suresh Kumar for the Appellant.	PREAMBLE
+
+
+Mr. K.B. Bhujle along with Mr. Padmanabh Bhujle for the
+Respondent.	PREAMBLE
+CORAM : S.J.VAZIFDAR &
+                    M.S. SANKLECHA, JJ.
+
+     DATE : 12th June, 2012	PREAMBLE
+ORAL JUDGMENT 	PREAMBLE
+: ( Per M.S. SANKLECHA, J.)	NONE
+This is an appeal by the Revenue under Section 260A of the Income Tax Act, 1961 (hereinafter referred to as the "said Act") challenging the order dated 6/7/2009 passed by Income Tax Appellate Tribunal (hereinafter referred to as "the Tribunal).
+ 2)   	FAC
+In this appeal, the Revenue has formulated the following questions as substantial questions of law: a) Whether on the facts and circumstances of the case and in law, the Tribunal was correct in confirming the order of CIT(A) in holding that the receipt of Rs.15,20,00,000/- on account of consideration for trade mark and design were not taxable?	ISSUE
+
+ b) Whether on the facts and circumstance of the case and in law, the Tribunal was correct in confirming the order of CIT (A) in holding that the provisions for the computation of capital gains in the case of the assessee will fail, since there was no specific provision in the Act about the cost of acquisition of such self generated assets?	ISSUE
+
+ c) Whether on the facts and circumstance of the case and in law, the Tribunal was correct in holding that the sale proceeds in respect of self generated assets like trade mark or brand name associated with a business cannot be taxed in the A.Y. 1999-2000 as the amendment to Section-55(2) of the Act became effective only from 1/4/2002 without appreciating the fact that in the absence of specific provision in the Act, specifying how the cost of self generated assets should be calculated, the cost of such self generated assets are always deemed to be NIL?	ISSUE
+
+ 3.   To bring out the real controversy between the parties the question of law arising in the present appeal is re-	ISSUE
+framed as under: Whether on the facts and circumstances of the case and in law was the Tribunal justified in holding that the consideration received by the respondent on transfer of trade mark and design are not chargeable to capital gains tax in view of the fact that the transfer took place prior to 1/4/2002?	ISSUE
+
+ 4.   The appeal is admitted on the aforesaid re- framed question of law.	FAC
+However, at the request of the Advocates for the appellant and the Advocate for the respondent, the appeal itself is taken up for final disposal.	NONE
+
+ 5)   Briefly, the facts leading to the present appeal are as under: a)   	FAC
+The respondent-assessee was the owner of trade mark "Colin".	FAC
+On 21/10/1998 the respondent- assessee under an agreement sold to M/s. Reckitt & Colman ltd. the following rights: i) Transfer of ownership and assignment    Rs.1500 lakhs of the trade mark.                     Rs. 50 lakhs Rs.20 lakhs ii) Transfer of ownership in the goodwill  Rs.200 lakhs of the relating to the trade mark iii) Transfer of ownership and and assignment of the designs iv) Transfer of ownership and assignment of technical know how b)   	FAC
+The respondent filed its return of income for the Assessment Year 1999-2000 (previous year ending 31/3/1999).	FAC
+However, the respondent did not offer to tax on the amount of Rs.15.00crores received on account of trade mark and Rs.20.00lakhs on account of sale of design on the ground that they are capital receipts not chargeable to tax.	FAC
+
+ c)   On 30/3/2005, the Assessing Officer by Order for the Assessment Year 1999-2000 held that the sale of trade mark as well as the sale of design aggregating to Rs.15.20crores is liable to capital gains tax.	FAC
+
+ d)   Being aggrieved by the order dated 30/3/2005, the respondent preferred an appeal to the CIT (A).	FAC
+By an order dated 6/3/2006, the CIT (A) allowed the respondent's appeal by inter alia holding that the consideration received on transfer of trademark and design aggregating to Rs.15.20 crores are not chargeable to capital gains tax as they are self generated assest.	FAC
+
+ This conclusion was reached on the principles laid down by the Apex Court in the matter of CIT V/s. B.C. Srinivasa Shetty reported in 128 ITR Page 294.
+ e)   Being aggrieved by the order of CIT (A) the appellant preferred an appeal to the Tribunal.	FAC
+On 6/7/2009 the Tribunal by its order held that it was an admitted fact that the trade mark "Colin" belonging to the Respondent/Assessee was a self generated asset and consequently its costs was Nil.	FAC
+In view thereof it was not possible to compute the capital gains under Section 48 of the said Act resulting in the charge of tax also failing as held by the Apex Court in the matter of B. C. Srinivasa Shetty (supra).	FAC
+Further, the Tribunal also held that the trade mark became chargeable to tax with effect from 1/4/2002 by virtue of amendment to Section-55(2)(a) of the said Act with effect from 1/4/2002.	FAC
+However, the aforesaid amendment according to the Tribunal was only prospective.	FAC
+f)   Being aggrieved by the order of the Tribunal dated 6/7/2009 the revenue-appellant is in appeal before this Court.	FAC
+
+ 6.   In support of the appeal Mr. Suresh Kumar, Advocate for the Appellant submits that the sale of trademark and designs would be subject to capital gains tax.	ARG_PETITIONER
+This is so, as according to him the cost of acquisition of such self generated assets is to be taken as Nil.	ARG_PETITIONER
+
+ Consequently, the entire consideration received by the Respondent-Assessee would be subject to capital gains tax.	ARG_PETITIONER
+The amendment to Section 55(2) of the said Act with effect from 1/4/2002 introducing trade marks amongst the capital asset whose cost of acquisition in case of self generated being taken at nil would not make any difference as even for the period prior to 1/4/2002 the costs of acquisition of self generated assets like trademark has to be taken as Nil for the purpose of computing capital tax.	ARG_PETITIONER
+
+ 7.   On the other hand, Mr. K.B. Bhujale appearing for the Respondent submits that i) that the costs of self generated assets such as trademark are not liable to capital gains tax prior to 1/4/2002 as computation provision itself falls resulting in failure of the charging provision as held by the Supreme Court in the matter of B.
+ C. Srinivasa Sheety (supra), ii) the sale of trademark was made chargeable to capital gains tax only with effect from 1/4/2002 consequent to the amendment made to Section 55(2) of the said Act by Finance Act,2001.	ARG_RESPONDENT
+The amendment to Section 55(2) of the said Act with effect from 1/4/2002 declaring that the costs of acquisition of self generated trademark will be Nil is not retrospective and would be effective only in respect of sales of Trade Marks post 1/4/2002 and iii) in any view of the matter the sale of design by the respondent-assessee is not subject to capital gains tax as the cost of acquisition of self generated designs have not been defraud under Section- 55 of the said Act even today.	ARG_RESPONDENT
+We have considered the rival submissions.	NONE
+
+ Section 45 of the Act is a charging section for the purpose of levying capital gains.	ANALYSIS
+However to impose the charge, parliament has enacted provision to compute profits or gains under that head.	ANALYSIS
+Section 48 of the said Act provides the manner in which the income chargeable under the head capital gains is to be computed i.e. by deducting costs of acquisition of the capital asset from the full consideration received on the transfer of the capital asset.	STA
+The Supreme Court in the matter of B. C. Srinivasa Shetty (supra) was dealing with the issue whether the transfer of the goodwill by partnership firm can give rise to a capital gain tax under Section 45 of the said Act.	PRE_RELIED
+The Apex Court held that where the cost of acquisition of the capital asset is nil then the computation provision fails and the transfer of goodwill not give rise to capital gains tax.	PRE_RELIED
+Prior to the amendment made to Section 55(2) by the Finance Act, 2001 effective from 1/4/2002 by adding the words "trade mark or brand name associated with the business" self generated assets such as trademark did not have any cost of acquisition.	PRE_RELIED
+Therefore for the period under consideration the computation provision under Section 48 of the said Act fails resulting in such transfer of trade marks not being chargeable to capital gains tax.	PRE_RELIED
+Consequent to amendment made to Section 55(2) with effect from 1/4/2002 by which the words trade mark or brand name associated with the business was introduced into it, the computation provision becomes workable and the consideration received for the sale of trade mark would be subject to capital gains tax.	ANALYSIS
+However, for the period prior to 1/4/2002 the sale of self generated trademark is not liable to capital gains tax.	ANALYSIS
+In fact, when the amendment was made to Section 55 by Finance Act, 2001 the Central Board of Excise and Customs had issued a circular bearing No.14/2001 explaining the provision of the Finance Act, 2011 relating to direct taxes provided as under: "42- Providing for cost of acquisition of certain intangible capital asserts under section 55 42.1 Under the existing provisions of sub- section (2) of section 55 of the Income tax Act, the cost of acquisition of an intangible capital asset, being goodwill of a business or a right to manufacture, produce or process any article or thing, tenancy rights, stage carriage permits or loom hours, is the purchase price in case the asset is purchased by the assessee from a previous owner, and nil in any other case.	ANALYSIS
+It was pointed out that certain similar self generated intangible assets like brand name or a trademark may not be considered to form part of the goodwill of a business and consequently it may not be possible to compute capital gains arising from the transfer of such assets.	ANALYSIS
+
+ 42.2-  The Act has therefore amended clause (a) of sub-section (2) to provide that the cost of acquisition in relation to trademark or brand name associated with a business shall also be taken to be the purchase price in case the asset is purchased from a previous owner and nil in any other case.	ANALYSIS
+
+ 42.3- This amendment will take effect from 1st April, 2002, and will, accordingly, apply in relation to the assessment year 2002-2003 and subsequent years."
+ 9.   From the above circular, it would be clear that the amendment bringing self generated intangible assets such as trademark to capital gains tax only with effect from Assessments Year 2002-03 onwards.	ANALYSIS
+In this case, we are concerned with Assessment Year 1999-2000 and therefore, the amendment would not have any effect.	ANALYSIS
+Further as held by the Supreme Court in the matter of Dy. CIT v/s. Core Health Care ltd. reported in 298 ITR 194 that a provision introduced with effect from a particular date would not have retrospective effect unless it is expressly stated to be so.	PRE_RELIED
+Consequently, the sale of self generated trade marks during the Assessment year 1999-2000 are not chargeable to capital gains tax.	ANALYSIS
+So far as the sale of self generated designs (i.e. not acquired) the same is also not chargeable to capital gains tax not only for the reasons applicable to trade marks but for the fact that even till this date, no amendment has been made to Section 55(2) of the said Act defining cost of acquisition of design as in the case of trademark goodwill etc.	RATIO
+
+ 10.  In the circumstances, the aforesaid re-framed question is answered in the affirmative i.e. in favour of the respondent/assessee and against the appellant/revenue.	RPC
+
+ 11.  Appeal is disposed of in the above terms.	RPC
+No order as to costs.	RPC
+
+ ( M.S. SANKLECHA, J. )      ( S.J. VAZIFDAR,J.)	NONE

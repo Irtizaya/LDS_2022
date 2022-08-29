@@ -1,0 +1,76 @@
+###24293578
+OBJECTIVE	To investigate the efficacy of 6 weeks of daily low-dose oral prednisolone in improving pain , mobility , and systemic low-grade inflammation in the short term and whether the effect would be sustained at 12 weeks in older adults with moderate to severe knee osteoarthritis ( OA ) .
+METHODS	A total of 125 patients with primary knee OA were randomized 1:1 ; 63 received 7.5 mg/day of prednisolone and 62 received placebo for 6 weeks .
+METHODS	Outcome measures included pain reduction and improvement in function scores and systemic inflammation markers .
+METHODS	Pain was assessed using the visual analog pain scale ( 0-100 mm ) .
+METHODS	Secondary outcome measures included the Western Ontario and McMaster Universities Osteoarthritis Index scores , patient global assessment ( PGA ) of the severity of knee OA , and 6-min walk distance ( 6MWD ) .
+METHODS	Serum levels of interleukin 1 ( IL-1 ) , IL-6 , tumor necrosis factor ( TNF ) - , and high-sensitivity C-reactive protein ( hsCRP ) were measured .
+RESULTS	There was a clinically relevant reduction in the intervention group compared to the placebo group for knee pain , physical function , PGA , and 6MWD at 6 weeks .
+RESULTS	The mean difference between treatment arms ( 95 % CI ) was 10.9 ( 4.8-18 .0 ) , p < 0.001 ; 9.5 ( 3.7-15 .4 ) , p < 0.05 ; 15.7 ( 5.3-26 .1 ) , p < 0.001 ; and 86.9 ( 29.8-144 .1 ) , p < 0.05 , respectively .
+RESULTS	Further , there was a clinically relevant reduction in the serum levels of IL-1 , IL-6 , TNF - , and hsCRP at 6 weeks in the intervention group when compared to the placebo group .
+RESULTS	These differences remained significant at 12 weeks .
+RESULTS	The Outcome Measures in Rheumatology Clinical Trials-Osteoarthritis Research Society International responder rate was 65 % in the intervention group and 34 % in the placebo group ( p < 0.05 ) .
+CONCLUSIONS	Low-dose oral prednisolone had both a short-term and a longer sustained effect resulting in less knee pain , better physical function , and attenuation of systemic inflammation in older patients with knee OA ( ClinicalTrials.gov identifier NCT01619163 ) .
+
+###24854809
+BACKGROUND	Emotional eating is associated with overeating and the development of obesity .
+BACKGROUND	Yet , empirical evidence for individual ( trait ) differences in emotional eating and cognitive mechanisms that contribute to eating during sad mood remain equivocal .
+OBJECTIVE	The aim of this study was to test if attention bias for food moderates the effect of self-reported emotional eating during sad mood ( vs neutral mood ) on actual food intake .
+OBJECTIVE	It was expected that emotional eating is predictive of elevated attention for food and higher food intake after an experimentally induced sad mood and that attentional maintenance on food predicts food intake during a sad versus a neutral mood .
+METHODS	Participants ( N = 85 ) were randomly assigned to one of the two experimental mood induction conditions ( sad/neutral ) .
+METHODS	Attentional biases for high caloric foods were measured by eye tracking during a visual probe task with pictorial food and neutral stimuli .
+METHODS	Self-reported emotional eating was assessed with the Dutch Eating Behavior Questionnaire ( DEBQ ) and ad libitum food intake was tested by a disguised food offer .
+RESULTS	Hierarchical multivariate regression modeling showed that self-reported emotional eating did not account for changes in attention allocation for food or food intake in either condition .
+RESULTS	Yet , attention maintenance on food cues was significantly related to increased intake specifically in the neutral condition , but not in the sad mood condition .
+CONCLUSIONS	The current findings show that self-reported emotional eating ( based on the DEBQ ) might not validly predict who overeats when sad , at least not in a laboratory setting with healthy women .
+CONCLUSIONS	Results further suggest that attention maintenance on food relates to eating motivation when in a neutral affective state , and might therefore be a cognitive mechanism contributing to increased food intake in general , but maybe not during sad mood .
+
+###25165090
+BACKGROUND	Although working smoke alarms halve deaths in residential fires , many households do not keep alarms operational .
+BACKGROUND	We tested whether theory-based education increases alarm operability .
+METHODS	Randomised multiarm trial , with a single arm randomly selected for use each day , in low-income neighbourhoods in Maryland , USA .
+METHODS	Intervention arms : ( 1 ) Full Education combining a health belief module with a social-cognitive theory module that provided hands-on practice installing alarm batteries and using the alarm 's hush button ; ( 2 ) Hands-on Practice social-cognitive module supplemented by typical fire department education ; ( 3 ) Current Norm receiving typical fire department education only .
+METHODS	Four hundred and thirty-six homes recruited through churches or by knocking on doors in 2005-2008 .
+METHODS	Follow-up visits checked alarm operability in 370 homes ( 85 % ) 1-3 .5 years after installation .
+METHODS	number of homes with working alarms defined as alarms with working batteries or hard-wired and number of working alarms per home .
+METHODS	Regressions controlled for alarm status preintervention ; demographics and beliefs about fire risks and alarm effectiveness .
+RESULTS	Homes in the Full Education and Practice arms were more likely to have a functioning smoke alarm at follow-up ( OR = 2.77 , 95 % CI 1.09 to 7.03 ) and had an average of 0.32 more working alarms per home ( 95 % CI 0.09 to 0.56 ) .
+RESULTS	Working alarms per home rose 16 % .
+RESULTS	Full Education and Practice had similar effectiveness ( p = 0.97 on both outcome measures ) .
+CONCLUSIONS	Without exceeding typical fire department installation time , installers can achieve greater smoke alarm operability .
+CONCLUSIONS	Hands-on practice is key .
+CONCLUSIONS	Two years after installation , for every three homes that received hands-on practice , one had an additional working alarm .
+BACKGROUND	http://www.clinicaltrials.gov number NCT00139126 .
+
+###24633056
+OBJECTIVE	To evaluate the performance ( efficacy , safety and acceptability ) of a new micro-adherent absorbent dressing ( UrgoClean ) compared with a hydrofiber dressing ( Aquacel ) in the local management of venous leg ulcers , in the debridement stage .
+METHODS	A non-inferiority European randomised controlled clinical trial ( RCT ) was conducted in 37 centres , on patients presenting with venous or predominantly venous , mixed aetiology leg ulcers at their sloughy stage ( with more than 70 % of the wound bed covered with slough at baseline ) .
+METHODS	Patients were followed over a 6-week period and assessed weekly .
+METHODS	The primary judgement criteria was the relative regression of the wound surface area after the 6-week treatment period .
+METHODS	Secondary endpoints were the relative reduction of sloughy tissue and the percentage of patients presenting with a debrided wound .
+RESULTS	Altogether , 159 patients were randomised to either UrgoClean ( test group ; n = 83 ) or Aquacel ( control group ; n = 76 ) dressings .
+RESULTS	Regarding the wound healing process predictive factors ( wound area , duration , ABPI value , recurrence ) , at baseline , the two groups were well balanced , for both wound and patient characteristics .
+RESULTS	Compression therapy was administered to both groups and after a median 42-day treatment period , the percentage of relative reduction of the wound surface area was very similar ( -36.9 % vs -35.4 % in the UrgoClean and control groups , respectively ) .
+RESULTS	When considering the secondary criteria at week 6 , the relative reduction of sloughy tissue was significantly higher in the UrgoClean group than in the control group ( -65.3 % vs -42,6 % ; p = 0.013 ) .
+RESULTS	The percentage of debrided wounds was also significantly higher in the test group ( 52.5 % vs 35.1 % ; p = 0.033 ) .
+CONCLUSIONS	This ` EARTH ' RCT confirmed that the UrgoClean dressing has similar efficacy and safety compared to Aquacel .
+CONCLUSIONS	However , UrgoClean also showed better autolytic properties than the control group in the management of venous leg ulcers at the sloughy stage .
+CONCLUSIONS	The new UrgoClean dressing therefore represents a promising therapeutic option within the current range of autolytic dressings available .
+BACKGROUND	This study was sponsored by a grant from the pharmaceutical company Laboratoires Urgo .
+BACKGROUND	S. Bohbot and O. Tacca are employees of Laboratoires Urgo .
+BACKGROUND	S. Meaume , J. Dissemond and G. Perceau have received monetary compensation as presenters for Laboratoires Urgo .
+BACKGROUND	Data management and statistical analyses were conducted independently by Vertical ( Paris , France ) .
+
+###24814304
+OBJECTIVE	Eye movements ( EM ) during recall of an aversive memory is a treatment element unique to Eye Movement Desensitization and Reprocessing ( EMDR ) .
+OBJECTIVE	Experimental studies have shown that EM reduce memory vividness and/or emotionality shortly after the intervention .
+OBJECTIVE	However , it is unclear whether the immediate effects of the intervention reflect actual changes in memory .
+OBJECTIVE	The aim of this study was to test whether immediate reductions in memory vividness and emotionality persist at a 24h follow up and whether the magnitude of these effects is related to the duration of the intervention .
+METHODS	Seventy-three undergraduates recalled two negative autobiographical memories , one with EM ( `` recall with EM '' ) and one without ( `` recall only '' ) .
+METHODS	Half of participants recalled each memory for four periods of 24s , the other half for eight periods of 24s .
+METHODS	Memory vividness/emotionality were self-rated at a pre-test , an immediate post-test , and a 24h follow-up test .
+RESULTS	In both duration groups , recall with EM , but not recall only , caused an immediate decrease in memory vividness .
+RESULTS	There were no immediate reductions in memory emotionality .
+RESULTS	Furthermore , only the ` eight periods ' group showed that recall with EM , but not recall only , caused a decrease in both memory emotionality and memory vividness from the pre-test to the follow-up .
+CONCLUSIONS	Only self-report measures were used .
+CONCLUSIONS	The findings suggest that recall with EM causes 24-hchanges in memory vividness/emotionality , which may explain part of the EMDR treatment effect , and these effects are related to intervention duration .

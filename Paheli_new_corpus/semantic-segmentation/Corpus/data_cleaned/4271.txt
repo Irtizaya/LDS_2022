@@ -1,0 +1,82 @@
+          1/13	PREAMBLE
+IN THE HIGH COURT OF KARNATAKA, BENGALURU      DATED THIS THE 20TH DAY OF JULY 2018	PREAMBLE
+          PRESENTTHE HON'BLE Dr.JUSTICE VINEET KOTHARI          AND      THE HON'BLE Mrs.JUSTICE S.SUJATHA          I.T.A.No.671/2015	PREAMBLE
+BETWEEN:1. PRINCIPAL COMMISSIONER OF INCOME TAX-4,         C.R.BUILDING, QUEENS ROAD,         BANGALORE-560 001.2. THE INCOME TAX OFFICER,         ...APPELLANTS         WARD  11(2), BANGALORE.(By Mr.E.I.SANMATHI, ADV.)AND:M/S. LSI RESEARCH (INDIA) P.LTD,   ...RESPONDENT	PREAMBLE
+GLOBAL TECHNOLOGY PARK BLOCK C,	PREAMBLE
+MARATHAHALLI OUTER RING ROAD,	PREAMBLE
+DEVARABEESANAHALLI,	PREAMBLE
+BANGALORE-560 103.	PREAMBLE
+(RESPONDENT SERVED & UNREPRESENTED.)         THIS I.T.A IS FILED UNDER SECTION 260-A OF INCOMETAX ACT 1961, PRAYING TO DECIDE	PREAMBLE
+THE FOREGOINGQUESTION OF LAW AND OR SUCH OTHER QUESTIONS OF LAWAS MAY BE FORMULATED BY THE HON'BLE COURT ASDEEMED FIT AND SET ASIDE THE APPELLATE ORDER DATED26/05/2015 PASSED BY THE ITAT, `A' BENCH, BENGALURU, INAPPEAL PROCEEDINGS NO. I.T(TP)A NO.1048/BANG/2011ANNEXURE A, AS SOUGHT FOR IN THIS APPEAL; AND TOGRANT SUCH OTHER RELIEF AS DEEMED FIT, IN THEINTEREST OF JUSTICE.                                                                    M/	PREAMBLE
+s.LSI Research	PREAMBLE
+(India) P. Ltd.,	PREAMBLE
+                                                    2/13	PREAMBLE
+THIS I.T.A. COMING ON FOR ORDERS, THIS DAY S.SUJATHA J. DELIVERED THE FOLLOWING:-                                JUDGMENT	PREAMBLE
+Mr.E.I.Sanmathi, Adv. for Appellants - Revenue 1.	NONE
+The Appellants-Revenue have filed this appeal u/s.260A of the Income Tax Act, 1961, raising purportedly certain substantial questions of law arising from the order of the ITAT, Bangalore Bench `A', Bangalore, dated 26.05.2015 passed in IT(TP)A No.1048/Bang/2011 (M/s.LSI Research (India) P.Ltd., vs. Income-tax Officer ) for A.Y.2007-08.	FAC
+ 2. This appeal has been admitted on 10.08.2016 to consider the following substantial questions of law framed by the learned counsel for the Appellants- Revenue:- "1.	ISSUE
+Whether on the facts and in the circumstances of the case, the Tribunal is justified in allowing the assessee's appeal directing the assessing officer to exclusion of the companies such as Accel Transmatics Ltd., Celestial Labs Ltd, KALS Information Systems Ltd, Ishir Infotech M/s.LSI Research (India) P. Ltd., 3/13 Ltd, Lucid Software Ltd, Infosys Technologies Ltd, Wipro Ltd, Tata Elxsi Ltd, E-Zest Solutions Ltd, Thirdware Solutions Ltd(Segment), Persistent System Ltd, Quintegra Solutions Ltd, Helios & Matheson Information Technology Ltd, from the comparables companies selected by the TPO that they are functionally different from the assessee when the materials on record proved contrary?	ISSUE
+ 2. Whether on the facts and in the circumstances of the case, the Tribunal is justified in allowing the assessee's appeal directing the assessing officer to exclusion of the companies such as M/s.Infosys Technologies Ltd., Wipro Ltd., and Tata Elxsi from the 14 comparables companies selected by the TPO that they are functionally different from the assessee?"	ISSUE
+ 3. In so far as the first substantial question of law raised by the Revenue is concerned, learned counsel for the Revenue submitted that the learned ITAT in its Order dated 26.05.2015 has given the findings, the relevant portion of which is quoted below for ready reference:- "	ARG_PETITIONER
+14. In the appeal filed by the said assessee, vis-a-vis the comparability of various M/s.LSI Research (India) P. Ltd., 4/13 companies mentioned in the above list, it was held by the Tribunal at paras 18 to 30, as under : xxxxxxxxxxxxx Avani Cimcon Technologies Ltd.         xxxxxxxxxxx 41.	RLC
+We have given a careful consideration to the submissions made on behalf of the Assessee and are of the view that the same deserves to be accepted.	RLC
+The reasons given by the Assessee for excluding this company as comparable are found to be acceptable.	RLC
+The decision of ITAT (Mumbai) in the case of Telcordia Technologies Pvt. Ltd. v. ACIT (supra) also supports the plea of the assessee.	RLC
+We therefore accept the plea of the Assessee to reject this company as a comparable.	RLC
+ (c) Celestial Labs Ltd. xxxxxxxxx 45.	RLC
+From the material available on record, it transpires that the TPO has accepted that up to AY 06-07 this company was classified as a Research and Development company.	RLC
+According to the TPO in AY 07-08 this company has been classified as software development service provider in the Capitaline/Prowess database as M/s.LSI Research (India) P. Ltd., 5/13 well as in the annual report of this company.	RLC
+The TPO has relied on the response from this company to a notice u/s.133(6) of the Act in which it has said that it is in the business of providing software development services.	RLC
+The Assessee in reply to the proposal of the AO to treat this as a comparable has pointed out that this  company  provides  software products/services as well as bioinformatics services and that the segmental data for each activity is not available and therefore this company should not be treated as comparable.	RLC
+ Besides the above, the Assessee has point out to several references in the annual report for 31.3.2007 highlighting the fact that this company was develops biotechnology products and provides related software development services.	RLC
+ The TPO called for segmental data at the entity level from this company.	RLC
+The TPO also called for description of software development process.	RLC
+In response to the request of the TPO this company in its reply dated 29.3.2010 has given details of employees working in software development but it is not clear as to whether any segmental data was given or not.	RLC
+Besides the above there is no other detail in the TPO's order as to the nature of software development services performed by the M/s.LSI Research (India) P. Ltd., 6/13 Assessee.	RLC
+Celestial labs had come out with a public issue of shares and in that connection issued Draft Red Herring Prospectus (DRHP) in which the business of this company was explained as to clinical research.	RLC
+The TPO wanted to know as to whether the primary business of this company is software development services as indicated in the annual report for FY 06-07 or clinical research and manufacture of bio products and other products as stated in the DRHP.	RLC
+There is no reference to any reply by Celestial labs to the above clarification of the TPO.	RLC
+The TPO without any basis has however concluded that the business mentioned in the DRHP are the services or businesses that would be started by utilizing the funds garnered though the Initial Public Offer (IPO) and thus in no way connected with business operations of the company during FY 06-07.	RLC
+We are of the view that in the light of the submissions made by the Assessee and the fact that this company was basically/admittedly in clinical research and manufacture of bio products and other products, there is no clear basis on which the TPO concluded that this company was mainly in the business of providing software development services.	RLC
+We therefore accept the M/s.LSI Research (India) P. Ltd., 7/13 plea of the Assessee that this company ought not to have been considered as comparable.	RLC
+ (d) KALS Information Systems Ltd. xxxxxxxxxxxxxxx 47.	RLC
+We have given a careful consideration to the submission made on behalf of the Assessee.	RLC
+We find that the TPO has drawn conclusions on the basis of information obtained by issue of notice u/s.133(6) of the Act.	RLC
+This information which was not available in public domain could not have been used by the TPO, when the same is contrary to the annual report of this company as highlighted by the Assessee in its letter dated 21.6.2010 to the TPO.	RLC
+We also find that in the decision referred to by the learned counsel for the Assessee, the Mumbai Bench of ITAT has held that this company was developing software products and not purely or mainly software development service provider.	RLC
+We therefore accept the plea of the Assessee that this company is not comparable.	RLC
+4. For other comparable companies, the learned Tribunal has given the similar findings.	RLC
+ M/s.LSI Research (India) P. Ltd., 8/13	RLC
+ 5. In so far as the second substantial question of law raised by the Revenue is concerned, learned counsel for the Revenue submitted that the learned ITAT in its Order dated 26.05.2015 has given the findings, the relevant portion of which is quoted below for ready reference:- 	ARG_PETITIONER
+" 24. As far as comparable companies listed at Sl.No.10, 24 & 26 of the final list of comparable companies chosen by the TPO viz., M/S.Infosys Technologies Limited, Tata Elxsi Ltd. (Seg.) & Wipro Limited are concerned, this Tribunal in the case of M/S.Curam Software International Pvt.Ltd. Vs. ITO ITA No.1280/Bang/2012 for AY 08-09 order dated 31.7.2013 has held that the aforesaid companies are not comparable companies in the case of software development services provider.	RLC
+           The following were the relevant observations in the case of M/S.Curam Software International Pvt.Ltd.(supra): "12. (4) Infosys Technologies Ltd. xxxxxxxxxxxx M/s.LSI Research (India) P. Ltd., 9/13 12.4	RLC
+We have heard the rival submissions and perused and carefully considered the material on record.	RLC
+We find that the assessee has brought on record sufficient evidence to establish that this company is functionally dis- similar and different from the assessee and hence is not comparable and the finding rendered in the case of Trilogy E-Business Software India Pvt. Ltd. (supra) for Assessment Year 2007-08 is applicable to this year also.	RLC
+The argument put forth by assessee's is that Infosys Technologies Ltd is not functionally comparable since it owns significant intangible and has huge revenues from software products.	RLC
+It is also seen that the break up of revenue from software services and software products is not available.	RLC
+In this view of the matter, we hold that this company ought to be omitted from the set of comparable companies.	RLC
+It is ordered accordingly.	RLC
+ 13.0 (5) Wipro Limited 13.1	RLC
+This company was selected as a comparable by the TPO.	RLC
+Before the TPO, the assessee had objected to the inclusion of this company in the list of comparables or several grounds like functional dis-similarity, brand M/s.LSI Research (India) P. Ltd., 10/13 value, size, etc.	RLC
+The TPO, however, brushed aside the objections of the assessee and included this company in the set of comparables.	RLC
+13.2 Before us, the assessee contended that this company is functionally not comparable to the assessee for several reasons, which are as under : (i) This company owns significant intangibles in the nature of customer related intangibles and technology related intangibles and quoted extracts from the Annual Report of this company in the submissions made.	RLC
+ (ii) The TPO had adopted the consolidated financial statements for comparability purposes and for computing the margins, which contradicts the TPO's own filter of rejecting companies with consolidated financial statements".	RLC
+6. However, this Court in a recent judgment in ITA No.536/2015 C/w ITA No.537/2015 delivered on 25.06.2018 (Prl. Commissioner of Income Tax & Anr. Vs. M/s.	PRE_RELIED
+Softbrands	PRE_RELIED
+India Pvt	PRE_RELIED
+. Ltd.,)	PRE_RELIED
+has held that in these type of cases, unless an ex-facie perversity M/s.LSI Research (India) P. Ltd., 11/13 in the findings of the learned Income Tax Appellate Tribunal is established by the appellant, the appeal at the instance of an assessee or the Revenue under Section 260-A of the Act is not maintainable.	PRE_RELIED
+ The relevant portion of the said judgment is quoted below for ready reference: " Conclusion: 55.	PRE_RELIED
+A substantial quantum of international trade and transactions depends upon the fair and quick judicial dispensation in such cases.	PRE_RELIED
+Had it been a case of substantial question of interpretation of provisions of Double Taxation Avoidance Treaties (DTAA), interpretation of provisions of the Income Tax Act or Overriding Effect of the Treaties over the Domestic Legislations or the questions like Treaty Shopping, Base Erosion and Profit Shifting (BEPS), Transfer of Shares in Tax Havens (like in the case of Vodafone etc.), if based on relevant facts, such substantial questions of law could be raised before the High Court under Section 260-A of the Act, the Courts could have embarked upon such exercise of framing and answering such substantial question of law.	PRE_RELIED
+On M/s.LSI Research (India) P. Ltd., 12/13 the other hand, the appeals of the present tenor as to whether the comparables have been rightly picked up or not, Filters for arriving at the correct list of comparables have been rightly applied or not, do not in our considered opinion, give rise to any substantial question of law.	PRE_RELIED
+ 56. We are therefore of the considered opinion that the present appeals filed by the Revenue do not give rise to any substantial question of law and the suggested substantial questions of law do not meet the requirements of Section 260-A of the Act and thus the appeals filed by the Revenue are found to be devoid of merit and the same are liable to be dismissed.	PRE_RELIED
+ 57. We make it clear that the same yardsticks and parameters will have to be applied, even if such appeals are filed by the Assessees, because, there may be cases where the Tribunal giving its own reasons and findings has found certain comparables to be good comparables to arrive at an `Arm's Length Price' in the case of the assessees with which the assessees may not be satisfied and have filed such appeals before this Court.	PRE_RELIED
+Therefore we clarify that mere dissatisfaction with the findings of facts arrived at by the learned Tribunal is not M/s.LSI Research (India) P. Ltd., 13/13 at all a sufficient reason to invoke Section 260-A of the Act before this Court. 58.	PRE_RELIED
+The appeals filed by the Revenue are therefore dismissed with no order as to costs."	PRE_RELIED
+ 7. Having heard the learned counsel for the Appellants-Revenue, we are therefore of the opinion that no substantial question of law arises in the present case also.	RPC
+The appeal filed by the Appellants-Revenue is liable to be dismissed and it is dismissed accordingly.	RPC
+No costs.	RPC
+ Copy of this order be sent to the Respondent- Assessee forthwith.	NONE
+ Sd/- JUDGE Sd/- JUDGE Srl.	NONE

@@ -1,0 +1,94 @@
+$~
+*      IN THE HIGH COURT OF DELHI AT NEW DELHI	PREAMBLE
+
+
++      ITA 187/2020	PREAMBLE
+
+
+       THE PR. COMMISSIONER OF INCOME TAX -9 .....	PREAMBLE
+Appellant
+                     	PREAMBLE
+Through  Mr. Ruchir Bhatia, Sr. Standing
+                              Counsel	PREAMBLE
+with Ms. Madhura M.N.,
+                              Advocates	PREAMBLE
+
+                     versus
+
+       VALVOLINE CUMMINS PVT. LTD.      	PREAMBLE
+..... Respondent
+                   	PREAMBLE
+Through  Mr. Neeraj Jain with Mr. Aniket D.
+                            Agarwal, Advocates
+
+
+%                                      Date of Decision: 13th March, 2020	PREAMBLE
+
+
+CORAM:
+HON'BLE MR. JUSTICE MANMOHAN
+HON'BLE MR. JUSTICE SANJEEV NARULA
+
+                              JUDGMENT	PREAMBLE
+
+ MANMOHAN, J	NONE
+: (Oral) CM APPL. 9279/2020	NONE
+Keeping in view the averments in the application, delay in re-filing the appeal stands condoned.	RPC
+
+       Accordingly, the present application is allowed.	RPC
+
+ITA 187/2020 	NONE
+1.     Present appeal has been filed by the revenue under Section 260A of the Income Tax Act, 1961 challenging the order dated 26 th November, 2018 passed by the Income Tax Appellate Tribunal in ITA No.527/Del/2016 for the Assessment Year 2011-12.
+2.     	FAC
+Admittedly, the present case is covered by the Assessee’ own case decided by a coordinate Bench of this Court for the Assessment Year 2010- 2011 in ITA No. 158/2016.	FAC
+The relevant portion of the order in ITA No.
+158/2016 is reproduced hereinbelow:- “1. This is an appeal filed by the Assessee under Section 260A of the Income Tax Act, 1961 („Act‟) challenging the order dated 31stMarch, 2015 passed by the Income Tax Appellate Tribunal („ITAT‟) in ITA No.608/Del/2015 for the Assessment Year („AY‟) 2010-11.	FAC
+
+ 2. While admitting the appeal on 19 th February 2016, the following question was framed for determination by this Court: “Whether in light of the decision in Maruti Suzuki Ltd. v.
+               CIT (2016) 381 ITR 117 (Del) the ITAT was justified in holding that there was an international transaction between the Assessee and its Associated Enterprise with regard to advertising, marketing and publicity (AMP) expenses and in remanding the matter to the Assessing Officer/Transfer Pricing Officer for determining the arms length price of such transaction for the purposes of transfer pricing adjustment?” xxxx           xxxx        xxxx         xxxx 9.	ISSUE
+The Assessee drew the attention of the ITAT to the decision of this Court in Sony Ericsson India Pvt. Ltd. v. CIT (2015) 374 ITR 118 (Del) whereby the Court had declared that the BLT had no statutory mandate and considering the excess expenditure beyond the bright line as an international transaction was „unwarranted‟.
+ 10.	RLC
+In para 5 of the impugned order, the ITAT noted as under: “	RLC
+5. On enquiry from the Bench, Ld. Counsel of the assessee submitted that the facts and figures required for coming to the conclusion pleaded by him were not available on record and an opportunity may be given to him to present the same before the TPO.	RLC
+He further submitted that the Revenue is also required to verify the fresh data to be submitted by the assessee.” 11.	RLC
+Ultimately, the ITAT stated that it had, in view of the submissions of the counsel of both sides, “no other option, but to set aside the issuein dispute to the file of the AO/TPO on the above issue.”	RLC
+Further, the AO/TPO was directed to follow the binding judgment of this Court.	RLC
+12. It is the submission of Mr. Vohra that, as explained by this Court in Sony Ericsson India Pvt. Ltd. (supra) and later in Maruti Suzuki India Limited v. CIT (2016) 328 ITR 210 (Del), a basic requirement had to be fulfilled prior to commencing the exercise of determining the ALP of an international transaction.	ARG_PETITIONER
+The Revenue had to discharge its onus of showing that there was an international transaction involving the Assessee and its AE with regard to the AMP expenses.	ARG_PETITIONER
+If the Revenue failed to discharge this onus then the question of the further step of determining the ALP of such AMP expenses does not arise.	ARG_PETITIONER
+13. Mr Vohra submitted that there was in fact no concession made by the Assessee on this score.	ARG_PETITIONER
+He submitted that the ITAT ought not to have remanded the matter to the TPO as the material on record before the ITAT was sufficient to arrive at a conclusion on this issue.	ARG_PETITIONER
+
+ 14. Mr. Sanjay Kumar, on the other hand, submitted that it was the Assessee‟s own case before the ITAT that in the absence of facts and figures the matter should be sent back to the TPO for a fresh determination.	ARG_RESPONDENT
+He further submitted that when the TPO decided the issue in the present case, he did not have the benefit of the decision of this Court in Sony Ericsson India Pvt. Ltd.
+      (supra).	ARG_RESPONDENT
+He also submitted that if the matter went back to the TPO he would have to examine the issue afresh, de hors the BLT, and this was the reason why the entire matter, and not just the issue regarding determination of ALP, ought to be sent back to the TPO.	ARG_RESPONDENT
+Mr. Sanjay Kumar also placed reliance on this decision of this Court in Le Passage to India Tour & Travels (P) Ltd. v.
+      The Deputy Commissioner of Income Tax (2017) 391 ITR 207.	ARG_RESPONDENT
+
+ 15. The decision in Le Passage to India Tour & Travels (P) Ltd.
+      (supra) turned on the fact that there was no determination by the TPO in the first place whether there was an international transaction.	ANALYSIS
+In the present case, however, the TPO did apply his mind to the existence of an international transaction involving AMP expense.	ANALYSIS
+The only ground on which the conclusion was reached by the TPO was that the AMP expenditure incurred by the Assessee was in excess of that incurred by the comparables.	ANALYSIS
+
+      His conclusion was not based on any other factor.	ANALYSIS
+In other words, it was not as if the conclusion arrived by the TPO was based on two or three grounds, one of which was the BLT.	ANALYSIS
+16. This Court in Sony Ericsson India Pvt. Ltd. (supra) categorically found that the BLT was not an appropriate yardstick for determining the existence of an international transaction or for that matter for calculating the ALP of such transaction.	PRE_RELIED
+The decision of the Full Bench of the ITAT in L.G.
+      Electronics India Pvt. Ltd. v. ACIT (2013) 22 ITR (Trib.) 1 which sought to make BLT the basis was set aside by this Court.	PRE_NOT_RELIED
+
+ 17. Once the BLT has been declared by this Court in Sony Ericsson India Pvt. Ltd. (supra) to no longer be a valid basis for determining the existence of or the ALP of an international transaction involving AMP expenses, the order of the TPO was unsustainable in law.	ANALYSIS
+The mere fact that the Assessee was permitted to use the brand name „Valvoline‟ will not automatically lead to an inference that any expense that the Assessee incurred towards AMP was only to enhance the brand „Valvoline‟.	ANALYSIS
+The onus was on the Revenue to show the existence of any arrangement or agreement on the basis of which it could be inferred that the AMP expense incurred by the Assessee was not for its own benefit but for the benefit of its AE.	ANALYSIS
+That factual foundation has been unable to be laid by the Revenue in the present case.	ANALYSIS
+On the basis of the existing record, the TPO has found no basis other than by applying the BLT, to discern the existence of international transaction.	ANALYSIS
+Therefore, no purpose will be served if the matter is remanded to the TPO, or even the ITAT, for this purpose.	ANALYSIS
+18. This Court has in similar circumstances in a series of decisions including Maruti Suzuki Ltd. (supra); Bausch & Lomb Eye care (India) Pvt. Ltd. v. Additional CIT (2016) 381 ITR 227 (Del) and Honda Siel Power Products Ltd. v. Dy. CIT (2016) 237 Taxman 304 emphasized the importance of the Revenue having to first discharge the initial burden upon it with regard to showing the existence of an international transaction between the Assessee and the AE.	PRE_RELIED
+
+ 19. For the aforementioned reasons, this Court is of the view that the ITAT was not justified in remanding the matter to the AO/TPO for determining the ALP of the alleged international transaction involving AMP expenses, when in fact, the Revenue was unable to show that there existed an international transaction between the Assessee and its AE in the first place.	RATIO
+20. The question framed by this Court is, accordingly, answered in the negative, i.e., in favour of the Assessee and against the Revenue.	RPC
+The appeal is, accordingly, allowed.” 3.     	RPC
+Keeping in view the aforesaid judgment of the Division Bench of this Court, no substantial question of law arises for consideration in the present appeal.	RPC
+Accordingly, the present appeal stands dismissed.	RPC
+
+ MANMOHAN, J SANJEEV NARULA, J MARCH 13, 2020/rn	NONE

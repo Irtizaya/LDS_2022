@@ -1,0 +1,111 @@
+     IN THE HIGH COURT OF KARNATAKA AT BENGALURU     DATED THIS THE 19TH DAY OF JANUARY 2016	PREAMBLE
+PRESENT          	PREAMBLE
+THE HON'BLE MR.JUSTICE N K PATIL	PREAMBLE
+                                  AND	PREAMBLE
+THE HON'BLE MRS.JUSTICE S SUJATHA	PREAMBLE
+                          ITA No.902/2008BETWEEN:1.	PREAMBLE
+Commissioner of Income-tax        Central Circle        C R Building, Queens Road        Bangalore	PREAMBLE
+2. The Deputy Commissioner of Income-Tax     Central Circle-1(3)     C R Building, Queens Road     Bangalore	PREAMBLE
+....Appellants(By Sri. K.V.Aravind, Advocate )ANDM/s. Wipro GE Medical System Ltd.,     ....RespondentPlot No.4, Kadugodi PlantationIndustrial AreaSadaramangalaBangalore-560067.(By Smt. S.R. Anuradha, Advocates )        This Income-tax appeal is filed under Section 260-A ofIncome-tax Act, 1961, praying to set aside the order passed by theITAT, Bangalore in ITA No.810/Bang/2007, dated 16.05.2008confirming the order of the Appellate Commissioner and confirmthe order passed by the Deputy Commissioner of Income-tax,Central Circle-1(3), Bangalore, in the interest of justice and equity.        	PREAMBLE
+This appeal having been heard and reserved for orders on12TH January 2016, coming on for pronouncement of Judgmentthis day, S.Sujatha J., delivered the following                                         JUDGMENT        	PREAMBLE
+This appeal is filed by the revenue assailing the order passed by the Income Tax Appellate Tribunal (ITAT), Bangalore in ITA No.810/Bang/2007 dated 16.05.2008 for the assessment year 2002-03.	FAC
+ 2. Facts in brief are: The respondent/assessee is a private limited company engaged in the business of manufacturing of medical diagnostic equipments and accessories, software development, trading of various products and also providing services for various medical equipments.	FAC
+The return of income for the assessment year 2002- 03 was filed by the assessee declaring a loss of Rs.49,39,90,600/- on 31.10.2002.	FAC
+Assessee claimed: (i) provision for sale expenditure in the course of commission received in respect of sales in the agency business.(ii) provision for warranty of Rs.52,84,504/- (iii) exchange gain fluctuation (iv) Sale Proceeds not realized within time (v) Allocation of Royalty payment (vi) Reallocation of trading expenses-EHTP-I( Electronic hard ware Technology Part-1) (vii) Exclusion from export turnover of expenditure incurred in foreign currency in providing technical services (viii) Allowability of deduction u/s.10A for STPs located at Golden Enclave (ix) Adjustment of Prior Period exenses 3.	FAC
+The Assessing Officer proceeded to examine each of the claim made by the assessee.	FAC
+After consideration, the Assessing Officer concluded the assessment rejecting the claim made by the assessee.	FAC
+On appeal by the assessee, Appellate Commissioner allowed the appeal granting relief in favour of the assessee.	FAC
+Being aggrieved by the said order, the revenue preferred an appeal before the ITAT.	FAC
+The ITAT considering the various issues raised, proceeded to follow the view expressed by it in the assessee's own case relating to the earlier assessment years and granted relief in favour of the assessee, rejecting the appeal filed by the revenue against which, the revenue is in appeal under Section 260A of the Income Tax Act, 1961 (the "Act" for short) raising the following substantial questions of law:	ISSUE
+ 1. Whether the Appellate Authorities were correct in holding that the provision in respect of a percentage of sale to account for various expenses transferred to a separate account is an allowable expenditure even though the same is a contingent liability which has not accrued?	ISSUE
+2. Whether the Appellate Authorities were correct in holding that a provision for reserves for warranty is an allowable expenditure even though it is a contingent liability?	ISSUE
+3. Whether the Appellate Authorities were correct in holding that the gain in exchange rate i.e. due to fluctuation cannot be excluded when computing deduction u/s.10A of the Act even though this amount had not been directly arisen in the course of export?	ISSUE
+ 4. "Whether the Appellate Authorities were correct in holding that the sale proceeds not realized within the time of 6 months granted by the Reserve Bank of India without their being any extension cannot be excluded from the total turnover when computation deduction u/s.10A of the Act?.	ISSUE
+5. Whether the Appellate Authorities were correct in holding that allocation of expenditure towards royalty for use of trade mark and logo to Wipro Ltd., and Monogram Licencing International Incorporated at 50:50% by the assessee should be upheld and not as worked out by the Assessing Officer based on local sales?	ISSUE
+6. Whether the Appellate Authorities were correct in holding that allocation of expenditure as worked out by the assessee on account of consumables, salary etc., on the basis of sales based on percentage should be accepted without taking into account the fact that 31.2% of sales were made through franchisers which did not require the sale percentage of expenditure as worked out by the Assessing Officer?	ISSUE
+ 7. Whether the Appellate Authorities were correct in holding that the computation of export turnover as worked out by the Assessing Officer in accordance with Explanation 2 to Section 10A of the Act by excluding expenditure incurred in foreign currency in providing travel, salary, rent, M and B charges, Dialcom and others is not correct? 8.	ISSUE
+Whether the Appellate Authorities were correct in holding that the finding of the Assessing Officer that the deduction claimed u/s.10A of the Act in respect of its unit at Golden Enclave which has commenced business prior to 01.04.1993 in respect of one floor and after 01.04.1993 in respect of two floors which was shifted to Hoody Village, would amount to reconstruction of business and the assessee would not be entitled to claim 10A deduction was held to be not correct?          9.	ISSUE
+Whether the Appellate Authorities were correct in holding that the adjustment entries for prior period expenses of Rs.25,57,54,378/- should be allowed despite the assessee not substantiating the claim by adducing the any proff?.	ISSUE
+Re. question No.1: 4.	NONE
+Sri K V Aravind, learned counsel appearing for the revenue placing reliance on the Judgment of the Apex Court in the case of Rotork Controls India (P) Ltd. vs Commissioner of Income Tax reported in ((2009) 314 ITR 62) wherein, the assessee herein was also a party would strongly contend that, What is a provision is elaborately considered by the Apex Court and the parameters are set-out by the Apex Court to examine the recognition of provision for the purposes of the Act.	ARG_PETITIONER
+The three Conditions to be satisfied for the recognition of the provision are: (a) an enterprise should have a present obligation as a result of past event (b) it is probable that an outflow of resources will be required to settle the obligation (c) a reliable estimate can be made out of the amount of obligation He would contend that only if these three tests laid down by the Apex Court are satisfied by the assessee, provision made relating to the percentage of sale to account for various expenses transferred to a separate account, whether is an allowable expenditure or not, would be ascertained though the same is a contingent liability which has not accrued.	ANALYSIS
+None of the authorities below have examined this issue in the light of the Judgment pronounced by the Apex Court in Rotork Controls Case (supra).	ANALYSIS
+No finding is forth coming from the records that the assessee has satisfied the three conditions laid down by the Apex Court to claim the benefit of a provision.	ANALYSIS
+In such circumstances, he requests this Court to remand the matter back to the Assessing Officer so as to enable him to examine the case of the assessee in the light of the tests laid down by the Apex Court in Rotork Controls Case (supra).	ANALYSIS
+ 5. On the other hand Smt.Anuradha, learned counsel appearing for the assessee would contend that all these aspects were considered by the authorities below and it is categorically held by the authorities that the provision is as per accounting standards and is based on the past experience coupled with scientific and rational basis.	ARG_RESPONDENT
+It is also contended that the department has accepted the earlier order passed by the authorities for the assessment year 1998-99 wherein similar provision was made as per standard of accounting.	ARG_RESPONDENT
+Tribunal has allowed similar issue of provision in favour of the assessee and no remand is made.	ARG_RESPONDENT
+ 6. We have considered the submissions of the learned counsel for the parties.	NONE
+This very argument was advanced by the revenue before the ITAT to remand the matter to the Assessing Officer to consider the issues in the light of the Judgment of Rotork Controls Case (supra)	ANALYSIS
+The ITAT having observed that the only reason why the Assessing Officer has disallowed the claim of the assessee is on account that the provision is contingent liability, cannot be allowed, expenditure can be allowed only on payment basis.	ANALYSIS
+The ITAT having considered the adequate material placed before it, thought it fit not to remit the matter to the Assessing Officer.	ANALYSIS
+It is also noticed that the method of accounting followed by the assessee is mercantile wherein the income and expenditure is on accrual basis.	ANALYSIS
+We have examined this issue in the light of the Judgment pronounced by the Apex Court in Rotork Controls Case (supra,) wherein the three tests are laid down to recognize a provision under the Act.	PRE_RELIED
+The ITAT being a last fact finding authority has held that all these ingredients which goes to the recognition of provision are satisfied and as such, there is no need to remit the matter back to the Assessing Officer.	ANALYSIS
+In such circumstances, we do not see any ground made out by the revenue to remand the matter back to the Assessing Officer.	ANALYSIS
+The claim of expenditure being consistent with the method of accounting followed and the provision has been made on concluded transactions, the order of the Assessing Officer is held to be incorrect.	ANALYSIS
+We do not see any reason to differ from this view, which is in accordance with Section 145 of the Act.	ANALYSIS
+Re. Question No.2 7.	ARG_PETITIONER
+The learned counsel Mr. K V Aravind appearing for the revenue reiterated the grounds urged before the ITAT and sought for remanding the matter back to the Assessing Officer to examine the issue in the light of the Judgment of the Apex Court in Rotork Controls Case (supra).	ARG_PETITIONER
+ 8. Learned counsel Smt. Anuradha appearing for the assessee would contend that this issue is covered in favour of the assessee in assesse's own case by the order of this Court in ITA 438-444/12, affirmed by the Hon'ble Supreme Court in Rotork Controls Case (supra), in none of these cases remand is made.	ARG_RESPONDENT
+ 9. After considering the rival submissions of the learned counsel for the parties on this issue, we are of the view that this issue is similar to that of Question no.1.	ANALYSIS
+In view of the observations made in Question No.1, we are not inclined to remit the matter back to the Assessing Officer on this issue more particularly, this issue being covered by the Judgment of the Coordinate Bench of this Court in the very same assessee's case reported in 270 ITR 259 and 278 ITR 337 confirmed by the Apex Court in Rotork Controls Case (supra).	ANALYSIS
+Re. Question No.3 10.	ANALYSIS
+Both the learned counsel appearing for the parties agree that the issue involved in this question is covered against the revenue by the Judgment of this Court in ITA No.3202/2005 disposed of on 28.02.2012. 11.	ANALYSIS
+In view of the Judgment rendered by this Court in ITA No.3202/2005 dated 28.02.2012, we answer this question against the revenue and in favour of the assessee.	ANALYSIS
+Re. Question No.4 12.	ANALYSIS
+Learned counsel appearing for the parties agree that this issue is directly covered by the Judgment of this Court in ITA No.879/2008 disposed of on 25.03.2015.	ANALYSIS
+13. Following the said Judgment rendered by the Co-ordinate Bench of this Court in ITA No.879/2008 disposed of on 25.03.2015, we answer this question in favour of the assessee and against the revenue.	ANALYSIS
+Re. Question No.5 14.	ANALYSIS
+Learned counsel appearing for the revenue would contend that the ITAT negated the arguments of the revenue since similar question was considered by the ITAT in ITA No.322- 328/B/02 and held against the revenue.	ANALYSIS
+A detailed inquiry is required to be made regarding expenses allocated to royalty payment with reference to the pre-existing agreements executed by the assessee with M/s Wipro Limited relied on by the assessee and accepted by the CIT.	ANALYSIS
+No such exercise having been done by the authorities, he requests the matter to be remanded back to the Assessing Officer for fresh consideration to examine on this issue.	ANALYSIS
+ 15. Learned counsel appearing for the assessee has no objections to the same.	ANALYSIS
+ 16. Accordingly, we remand this issue to the Assessing Officer to examine whether allocating a portion of the royalty to EHTP Units as local sales is warranted or not after examining the pre-existing agreement entered into by the assessee with M/s Wipro Limited.	ANALYSIS
+Re. Question No.6 17.	ANALYSIS
+Learned counsel appearing for the revenue seeks to remand this issue also to the Assessing Officer as no adequate material was made available before the authorities to come to a conclusion that the allocation of expenditure as worked out by the assessee on account of consumables, salary etc. are applicable to the sales made through franchises.	ANALYSIS
+ However, learned counsel appearing for the assessee would contend that Appellate Commissioner deleted the allocation of expenses made by the Assessing Officer based on the order of ITAT in the very same assessee's case reported in 81 TTJ 455 and the decision of the Apex Court in Indo Nipan Limited's case (261 ITR 775).	ANALYSIS
+It is noticed that over 5.6% of the sales is made through franchises, however, the assessee adopted sales as basis for allocation.	ANALYSIS
+The sale made through the franchises stands on a different footing than the sale made directly by the assessee company.	ANALYSIS
+In the case of sale made through franchise, no effort is involved by the assessee except getting commission whereas the direct sales made by the assessee requires much more efforts and obviously the expenditure of the nature of consumables, salary and benefits etc., are incurred.	ANALYSIS
+It is also significant to observe that the Assessing Officer has not disturbed the method adopted by the assessee for the purpose of allocation of expenses in the trading turnover.	ANALYSIS
+What the Assessing Officer has done is removing the value of Franchise sales from the total sales as the Franchise sales are different from direct sales.	ANALYSIS
+This methodology adopted by the Assessing Officer is not properly considered by the CIT and ITAT.	ANALYSIS
+CIT was of the view that the course adopted by the Assessing Officer in allocating the expenses amounts to prescribing a new method of estimation based on the Proportionate turnover contrary to the method of accounting regularly followed by the assessee and accepted by the department in earlier years.	ANALYSIS
+This view is confirmed by the ITAT placing reliance on the Judgment of the Apex Court in Indo Nippan's case (supra).	PRE_RELIED
+The Apex Court in Indo Nippan's case has held that whatever method the Assessing Officer adopts, the method has to be consistent with the accepted principles of accountancy.	ANALYSIS
+ 18. In the present case, what the Assessing Officer has done is to delete the value of franchise sales from total expenses.	ANALYSIS
+No method of accountancy adopted by the assessee is disturbed.	ANALYSIS
+The course adopted by the Assessing Officer to delete the franchise sales is based on the reasoning that franchise sales differs from the direct sales.	ANALYSIS
+Such being the case, this method adopted by the Assessing Officer is no way contrary to the Judgment of the Apex Court in Indo Nippan's case (supra).	ANALYSIS
+In the circumstances, we are of the view that CIT and ITAT proceeded on a misconception that Assessing Officer has disturbed the consistent method of accountancy followed by the assessee for many years.	ANALYSIS
+In view of the aforesaid reasons, we are of the opinion that the finding given by the CIT confirmed by the ITAT on this issue is not sustainable and accordingly, we decide this question in favour of the revenue and against the assessee.	ANALYSIS
+The issue is remanded to the A.O. to re- do the assessment in the light of the observations made above, after providing an opportunity of hearing to the assessee.	ANALYSIS
+All contentions are left open to the parties.	ANALYSIS
+Re. Question No.7 19.	ANALYSIS
+Both the parties agree that the issue involved in this question is squarely covered by the Judgment of this Court in the case of Tata Elexsi Ltd.'s case (349 ITR 98).	ANALYSIS
+In view of the same, this question is answered against the revenue and in favour of the assessee.	ANALYSIS
+Re. Question No.8 20.	ANALYSIS
+The issue involved herein is covered against the revenue in the Judgment rendered by this Court in ITA No.391/2008 disposed of on 10.06.2014 which is not disputed by the parties.	ANALYSIS
+Accordingly, we answer this question in favour of the assessee and against the revenue.	ANALYSIS
+Re. Question No.9 21.	ANALYSIS
+The Assessing Officer proceeded to disallow the loss claimed by the assessee on the ground that the assessee was making various inter unit transfers, it was necessary to examine the entries which were not recorded properly in the first instance.	ANALYSIS
+The assessee has not been able to substantiate this claim despite being given sufficient time for the credit entries made and neither has given any background for such high value reverse entries.	ANALYSIS
+Assessing Officer was of the opinion that the assessee should have produced the certificate from auditors in this regard.	ANALYSIS
+The assessee having furnished the audit certificate before the CIT, it is observed by the CIT that the assessee's production of audit report establishes the credentials and accordingly, accepted the error in the books of accounts which has crept in, as a result of genuine mistake and such error has been disclosed by the assessee voluntarily along with the return of income.	ANALYSIS
+This view of the CIT is upheld by the Tribunal .	ANALYSIS
+ 22. Learned counsel Sri K V Aravind appearing for the revenue would submit that no reconciliation is made by the CIT.	ARG_PETITIONER
+It cannot be accepted that a genuine error has occurred in accounting entry and the same is corrected by the adjustments made in the book entry by the assessee which has been confirmed by the ITAT.	ARG_PETITIONER
+Accordingly, he seeks to remand the matter to the Assessing Officer to examine the correctness of the auditor's report furnished by the assessee before the CIT.	ARG_PETITIONER
+ 23. We do not see any flaw in the order passed by the ITAT for the reason that the Assessing Officer himself while deciding the issue in question has accepted the auditor's certificate for the assessment year 2003-04 and has categorically held that such a certificate of the Chartered Accountant would have been suffice to accept the claim of the assessee towards the adjustment entries for prior period expenses.	ANALYSIS
+In such view of the matter, the assessee has cured the defects pointed out by the Assessing Officer, by filing the necessary auditor's report before the CIT which was properly considered and held that it was a genuine error in the book entry and the same is confirmed by the ITAT which in our opinion is justifiable.	ANALYSIS
+We are not inclined to interfere with the factual findings given by the authorities regarding the genuiness of the adjustments in the book entry.	ANALYSIS
+It is settled law that the no income can arise by mere book entries (vide Kedarnath Jute Manufacturing Co. Ltd. vs CIT (Central),	ANALYSIS
+Calcutta reported in 1982 ITR 363)	ANALYSIS
+. It is also noticed by us that error occurred in the book entries for the assessment years 2002-03 and 2003-04, revenue has not raised this question in appeal for the assessment year 2003-04.	ANALYSIS
+In such circumstances, revenue challenging this issue only in this appeal relating to assessment year 2002-03, without just cause is not sustainable.	ANALYSIS
+This view is supported by the Judgment of the Apex Court in Berger Paint India Ltd. v/s CIT, Calcutta reported in (2004)12 SCC 42.	PRE_RELIED
+For the aforesaid reasons, we answer this question of law in favour of the assessee and against the revenue.	RATIO
+ 24. For the foregoing reasons, this appeal is partly allowed answering the questions of law as indicated above.	RPC
+Ordered accordingly.	RPC
+ Sd/- JUDGE Sd/- JUDGE Brn	NONE

@@ -1,0 +1,159 @@
+                                              REPORTABLE
+
+   	PREAMBLE
+IN THE SUPREME COURT OF INDIA	PREAMBLE
+CIVIL APPELLATE JURISDICTION	PREAMBLE
+CIVIL APPEAL NO(S). 4765-4766 OF 2018
+
+MAHABIR INDUSTRIES	PREAMBLE
+.....APPELLANT(S)	PREAMBLE
+
+
+                              VERSUS          OF	PREAMBLE
+
+                                                      .....RESPONDENT(S)
+PRINCIPAL COMMISSIONER	PREAMBLE
+
+INCOME TAX	PREAMBLE
+
+
+                  W I T H
+CIVIL APPEAL NO. 4767 OF 2018	PREAMBLE
+
+
+                         J U D G M E N T	PREAMBLE
+
+ A.K.SIKRI, J.	NONE
+
+               A short question of law arises for consideration in these appeals.	FAC
+All the appeals are filed by the same party, namely, Mahabir Industries (hereinafter referred to as the `assessee') in which common respondent is Principal Commissioner of Income Tax (hereinafter referred to as the `Department').	FAC
+Before stating the question of law, it may be necessary to mention in brief the background under which the said question of law has arisen inasmuch as this background would be an enabling factor in understanding the true ambit and scope of the question of law.	FAC
+
+ The assessee manufactures polythene for which it is having its factory in Shimla, Himachal Pradesh.	FAC
+The activity undertaken by the assessee, an industrial undertaking, qualified for exemption from income tax under Section 80-IA of the Income Tax Act (hereinafter referred to as the `Act'). Section 80-IA of the Act provides for deductions in respect of profits and gains from industrial undertakings or enterprises engaged in infrastructure development etc. if it fulfills the conditions mentioned in sub- section (4) thereof.	FAC
+Such a deduction is of an amount equal to hundred per cent of the profits and gains derived from such business for ten consecutive Assessment Years.	FAC
+In nutshell, those undertakings or enterprises, which fulfill the conditions mentioned in sub-section (4) of Section 80-IA of the Act, are entitled to total deductions of their profits, which means, no tax is payable and the period for which such undertakings or enterprises are exempted from payment of tax is ten consecutive Assessment Years.	FAC
+The assessee admittedly qualified for this deduction which it started availing from the Assessment Year 1998-99.	FAC
+This deduction under Section 80-IA was claimed and allowed for two Assessment Years i.e. 1998-99 and 1999-2000.	FAC
+
+ 2. Section 80-IA of the Act was originally introduced in the year 1991 by the Finance (No.2) Act, 1991 w.e.f. April 1, 1991.	ANALYSIS
+There were amendments in the Section from time to time.	ANALYSIS
+This Section was amended by the Finance Act, 1999 w.e.f. April 1, 2000.	ANALYSIS
+Along with this provision, Section 80-IB was also introduced for the first time by the same Finance Act, 1999.	ANALYSIS
+This provision allows deduction in respect of profits and gains from certain industrial undertakings other than infrastructure development undertakings.	ANALYSIS
+
+       Deduction from such profits and gains is of an amount equal to such percentage and for such number of Assessment Years as specified in Section 80-IB.	ANALYSIS
+Sub-section (4) of Section 80-IB provides for hundred per cent deduction for a period of five years and thereafter twenty-five per cent.	STA
+First proviso thereto states that total period of deduction is not to exceed ten consecutive Assessment Years.	STA
+Second proviso is a specific provision for industries in the North-Eastern Region to which we shall advert to at the appropriate stage.	STA
+Sub-section (2) enumerates the conditions which are to be fulfilled by such industrial undertakings in order to qualify for deductions from profits and gains under that provision.	STA
+
+ 3. As mentioned above, for the Assessment Years 1998-99 and 1999-2000 (i.e. two Assessment Years), the assessee was allowed deduction under Section 80-IA.	FAC
+From the Assessment Year 2000-01 to Assessment Year 2005-06, the assessee claimed deduction under Section 80-IB.
+ 4.	FAC
+Interestingly, another provision in the form of Section 80-IC was inserted by Finance Act, 2003 w.e.f. April 1, 2004.	FAC
+As per this provision, certain undertakings or enterprises in certain special category States are allowed deduction from such profits and gains, as specified in sub-section (3) of Section 80-IC.	FAC
+The provisions of Section 80-IC provided deduction to manufacturing units situated in the State of Sikkim, Himachal Pradesh and Uttaranchal and North-Eastern States.	FAC
+The deduction was provided to new units established in the aforesaid States, and also to existing units in those States if substantial expansion was carried out.	FAC
+The deduction was available @100% for ten Assessment Years for the units located in North-Eastern and in the State of Sikkim and for the units located in Himachal Pradesh, the deduction was available @100% for five years and @25% for next five years.	FAC
+The assessee completed substantial expansion (by investing in new plant and machinery of value more than 50% of the value of plant and machinery already installed as on 1 April, 2005) to the manufacturing unit situated at Baddi, Himachal Pradesh in the Assessment Year 2006-07.	FAC
+In view of the substantial expansion, the accused claimed deduction under Section 80-IC @100% for Assessment Years 2006-07 and 2007- 08, which was also allowed by the Assessing Officer (AO) after passing the order under Section 143(3) of the Act.	FAC
+
+ 5. Sub-section (3), as noted above, mentions the period of ten Assessment Years commencing with the initial Assessment Year.	STA
+
+ Sub-section (6) may also be taken note of at this stage which reads as under: "(6) Notwithstanding anything contained in this Act, no deduction shall be allowed to any undertaking or enterprise under this section, where the total period of deduction inclusive of the period of deduction under this section, or under the second proviso to sub-section (4) of section 80- IB or under section 10C, as the case may be, exceeds ten assessment years."
+ 6.	STA
+As noted above, the assessee had carried out substantial expansion in the Assessment Year 2006-07 and, therefore, claimed exemption under Section 80-IC of the Act for Assessment Year 2006-07 onwards.	ANALYSIS
+Deductions for the year 2006-07 and 2007-08 were allowed.	ANALYSIS
+However, thereafter, deductions for the Assessment Year 2008-09 and Assessment Year 2009-2010 were rejected by the AO on the ground that this was 11th and 12th year of deduction and as per Section 80-IC(6), total deductions under Section 80-IC and Section 80-IB cannot exceed the total period of ten years.	ANALYSIS
+Commissioner of Income Tax (Appeals) {CIT(A)} and Income Tax Appellate Tribunal (ITAT) upheld the order of the AO.	ANALYSIS
+
+ The High Court took up the appeals of the assessee along with other similar enterprises who had claimed the benefits.	ANALYSIS
+It framed the following question in those appeals: "The moot issue involved in these appeals, inter alia, is as to whether an "undertaking or an enterprise" (hereinafter referred to as the Unit), established after 7th January, 2003, carrying out "substantial expansion" within the specified window period, i.e. between 7.1.2003 and 1.4.2012, would be entitled to deduction on profits @100%, under Section 80-IC of the Income Tax Act.	ANALYSIS
+Also, if so, then for what period."
+ 7.	ANALYSIS
+This question has been decided in favour of all the assessees.	ANALYSIS
+
+ However, insofar as the assessee herein is concerned, keeping in view that there is a ceiling of ten years as stipulated under Section 80-IC(6), the High Court has held that ten years period shall be counted from the Assessment Year 1998-99 when the assessee had claimed deduction for the first time under Section 80-IA and, therefore, deductions for the Assessment Years 2008- 09 and 2009-2010 would not be allowed.	ANALYSIS
+This is clear from the following discussion in the High Court judgment: "46.	ANALYSIS
+The moment "substantial expansion" is completed as per Section 80-IC (8)(ix), the statutory definition of "initial assessment year" [Section 80-IC(8)(v)] comes into play.	ANALYSIS
+
+And consequently, Section 80-IC(3)(ii) entitles the unit to 100% deduction for five years commencing with completion of "substantial expansion", subject to maximum of ten years as per Section 80-IC(6).
+ 47.	ANALYSIS
+A unit that started operating/existed before 7.1.2003 was entitled to 100% deduction for first five years under Section 80-IB(4).	ANALYSIS
+If this unit completes substantial expansion during the window period (7.1.2003 to 31.3.2012), it would be eligible for 100% deduction again for another five years under Section 80-IC(3)(ii), subject to ceiling of ten years as stipulated under Section 80-IC(6).
+ 48.	ANALYSIS
+Applying the aforesaid interpretation, we find there can be different fact situations, some of which, we have tried to illustrate; (i) a "Unit" established prior to 7.1.2003, claiming deduction under Section 80-IB, post insertion of Section 80-IC carries out substantial expansion, would be entitled to deduction only under Section 80-IC, at the admissible percentage, for the remaining period, which in any case when combined, cannot exceed ten years, (ii) just as in the case of the present assessee, a unit established after 7.1.2003, carries out substantial expansion only in the 8th year of its establishment, for the first five years would have already claimed deduction @ 100%; for the 6th and 7th years @ 25%, and then for the period post substantial expansion, in our considered view, the initial year of assessment being in the 8th year, would be entitled for deduction @ 100%, subject to the cap of ten assessment years, (iii) the assessee establishes a unit after January 2003, say in the year 2005-06 and claims deduction under Section 80-IC for the first time in the assessment year 2006-2007 @ 100% of its profits.	ANALYSIS
+Thereafter, substantially expands the Unit in the year 2009-10, relevant to Assessment Year 2010-11 can claim deduction @ 100% for next five years subject to the cap of ten assessment years, (iv) an existing unit not claiming any deduction under Section 80-IA, 80-IB or 80-IC substantially expands in the year 2003 and claims deduction under Section 80-IC first time in Assessment Year 2004-2005 and then substantially expands in the year 2007-2008, can claim deduction @ 100% w.e.f.	ANALYSIS
+Assessment Year 2008-2009 for next five years	ANALYSIS
+, (v) the assessee sets up its unit in the year 2000- 2001, claiming deduction under Section 80-IB till the Assessment Year 2003-2004 and thereafter under Section 80-IC as per law.	ANALYSIS
+Carrying out Substantial expansion in the Assessment Year 2004-2005, now claims deduction @ 100% w.e.f.	ANALYSIS
+Assessment Year 2004-05 again substantially expands in the Assessment Year 2008-2009 can claim 100% deduction w.e.f. 2008-2009, (vi) the assessee sets up a unit in the year 2005-2006 and does not undergo substantial expansion at all can claim deduction under Section 80-IC."	ANALYSIS
+
+ 8. As can be discerned, all other aspects are decided in favour of the assessees except what is illustrated at (i) and (iv).	ANALYSIS
+However, the effect thereof is that insofar as appeals of the assessee herein are concerned, they are dismissed on the ground that it cannot claim deduction under Sections 80-IC, 80-IB or 10C for a period exceeding ten years.	ANALYSIS
+
+ 9. In this backdrop, the questions of law which have been framed by the assessee in these appeals are the following: "	NONE
+(a) Whether the Hon'ble High Court was justified in holding that the petitioner was not entitled to deduction under Section 80-IC of the Act by virtue of provision sub-section (6), when the same was not even applicable to the petitioner?
+ (b) Whether the Hon'ble High Court was justified in holding that the provisions of Section 80-IC(6) of the Act apply to all the undertaking claiming deduction under Section 80-IB(4) of the Act when 80-IC(6) refers to only those undertakings which are covered by second proviso to Section 80-IB(4)?
+ (c) Whether the Hon'ble High Court was justified in holding that the petitioner is not eligible for deduction under Section 80-IC for a period of 10 assessment years when substantial expansion was carried out by the Petitioner and a substantially new unit was claiming deduction under Section 80-IC of the Act?
+ (d) Whether the Hon'ble High Court was justified in holding that the petitioner was not entitled to deduction under Section 80-IC of the Act for assessment year 2008-09 and 2009-10 when the total period of deduction of ten years was expiring after assessment year 2009-10?"	ISSUE
+
+ 10. As can be seen from the reading of paras 46 and 47 of the High Court judgment, it has taken a categorical view that the moment `substantial expansion' is completed as per Section 80-IC(8)(ix), the statutory definition of `initial assessment year' {Section 80- IC(8)(v)} comes into play.	ANALYSIS
+As a consequence, Section 80-IC(3)(ii) would entitle the unit to hundred per cent deduction for five years commencing with completion of `substantial expansion' followed by twenty-five per cent deduction for next five years i.e. subject to maximum of ten years.	ANALYSIS
+Thus, the High Court accepts that when the substantial expansion is done in a particular Assessment Year and that is made during the period mentioned in sub-section (2) of Section 80-IC, not only benefit admissible under Section 80-IC shall get triggered, the year in which such substantial expansion is completed is to be treated as `initial assessment year'.	ANALYSIS
+Having said so, it has put a cap of ten years by invoking the provision of Section 80-IC(6).	ANALYSIS
+We have already reproduced the provisions of sub-section (6) of Section 80-IC.	ANALYSIS
+As per this provision, no deduction is allowed to any undertaking or enterprise under this Section, where the total period of deduction inclusive of the period of deduction under this Section, or under the second proviso to sub-section (4) of Section 80-IB or under Section 10C, as the case may be, exceeds ten assessment years.	ANALYSIS
+The total period of ten years, thus, is to be counted in the following three circumstances: (a) When the deduction has been given under Section 80-IC for a period of ten years, no further deduction is admissible.
+ (b) When the deduction is given under second proviso to sub- section (4) of Section 80-IB.	ANALYSIS
+The said second proviso reads as under: "Provided further than in the case of such industries in the North-Eastern Region, as may be notified by the Central Government, the amount of deduction shall be hundred per cent. of profits and gains for a period of ten assessment years, and the total period of deduction shall in such a case not exceed ten assessment years."
+ 	ANALYSIS
+This provision pertains to those industries which are in the North-Eastern Region.	ANALYSIS
+
+ (c) When the deduction is claimed under Section 10C.	ANALYSIS
+It is again a special provision in respect of certain industrial undertakings in North-Eastern Region.	ANALYSIS
+
+ 11. The assessee in the instant case has not got deduction under Section 80-IC for a period of ten years as he started claiming deduction under this provision w.e.f. Assessment Year 2006-07.
+       Situation Nos. (b) and (c) mentioned above would not apply to the assessee as it's undertaking/enterprise is not established in North-Eastern Region.	ANALYSIS
+It is, thus, clear that the High Court has failed to appreciate that the provisions of Section 80-IC(6) of the Act state that the total period of deduction under Section 80-IC and Section 80-IB cannot exceed ten assessment years only if the manufacturing unit was claiming deduction under second proviso to Section 80-IB(4) of the Act i.e. units located in the North-Eastern State.	ANALYSIS
+12. The matter can be looked into from another angle.	ANALYSIS
+Under Section 80-IA, deduction is provided to such industrial undertakings or enterprises which are engaged in infrastructure development etc.
+ provided they fulfill the conditions mentioned in sub-section (4) thereof.	ANALYSIS
+Section 80-IB makes provisions for deduction in respect of those industrial undertakings, other than infrastructure development undertakings, which are enumerated in the said provision.	ANALYSIS
+On the other hand, the intention behind Section 80-IC is to grant deduction to the units making new investments in the State by establishing new manufacturing unit or even to the existing manufacturing unit which carried out substantial expansions.	ANALYSIS
+The purport behind the three types of deductions specified in Section 80-IA, Section 80-IB and Section 80-IC is, thus, different.	ANALYSIS
+Section 80-IC stipulates the period for which hundred per cent deduction is to be given and then deduction at reduced rates is to be given.	ANALYSIS
+If the assessee had earlier availed deduction under Section 80-IA and Section 80-IB, that would be of no concern inasmuch as on carrying out substantial expansion, which was carried out and completed in the Assessment Year 2006-07, the assessee became entitled to deduction under Section 80-IC from the initial year.	ANALYSIS
+The term `initial year' is referable to the year in which substantial expansion has been completed, which legal position is stated by the High Court itself and even accepted by the Department as it has not challenged that part of the judgment.	ANALYSIS
+The inclusion of period for the deduction is availed under Section 80-IA and Section 80-IB, for the purpose of counting ten years, is provided in sub-section (6) of Section 80-IC and it is limited to those industrial undertakings or enterprises which are set-up in the North-Eastern Region.	ANALYSIS
+By making specific provision of this kind, the Legislature has shown its intent, namely, where the industry is not located in North- Eastern State, the period for which deduction is availed earlier by an assessee under Section 80-IA and Section 80-IB will not be reckoned for the purpose of availing benefit of deduction under Section 80-IC of the Act.	ANALYSIS
+
+ 13. Learned counsel for the Revenue could not dispute that sub- section (6) of Section 80-IC would get attracted when the industry is located in the North-Eastern Region.	ANALYSIS
+Having faced with this situation, he raised an altogether different argument for consideration by referring to Section 15C of the Income Tax Act, 1922 (hereinafter referred to as the `1922 Act'), which was also a provision which granted exemption from income in respect of newly established industrial undertaking.	ANALYSIS
+He submitted that this Court in Textile Machinery Corporation Limited, Calcutta v.
+       	ANALYSIS
+The Commissioner of Income Tax, West Bengal, Calcutta1 has held that the true test for ascertaining whether industrial undertaking is `formed by reconstruction of business already in existence' (which was the expression used in Section 15C of 1922 Act), is not whether the new industrial undertaking connotes expansion of the existing business of the assessee but whether it is a new and identifiable undertaking separate and distinct from existing business.	ANALYSIS
+In fine, the endeavour of learned senior counsel was that the assessee cannot be treated as an industrial undertaking which has reconstructed the business i.e. made substantial expansion.	ANALYSIS
+This argument has to be rejected for at least two reasons: 1 (1977) 2 SCC 368                            Page 13 of 15 Civil Appeal No(s). 4765-4766 of 2018 & Anr.
+ (i) Section 15C of the 1922 Act provided exemption from tax to newly established industrial undertaking if they are not `formed by reconstruction of business already in existence'.	ANALYSIS
+Thus, under the said provision, if it was found that an industrial undertaking is formed by reconstruction of business already in existence, then it was entitled to any exemption under Section 15C.	ANALYSIS
+It is in that context the Court was considering the meaning of reconstruction of business.	ANALYSIS
+On the other hand, the words under Section 80-IC are `substantial expansion'.	ANALYSIS
+Thus, discussion contained in the said judgment would have no application to the instant case.	ANALYSIS
+
+ (ii) Insofar as the factum of substantial expansion of the assessee's unit in the Assessment Year 2006-07 is concerned, the same is not subject matter of any controversy in the instant case.	ANALYSIS
+It has been accepted by the Department that assessee had carried out substantial expansion.	ANALYSIS
+Precisely, for this reason, the AO had allowed deduction for Assessment Years 2006-07 and 2007-08.	ANALYSIS
+Therefore, issue is not as to whether there is a substantial expansion or not.	ANALYSIS
+The issue is only as to how a period of ten years is to be calculated, namely, whether those Assessment Years in respect of which deduction under Section 80-IA and Section 80-IB was allowed are to be counted for the purpose of giving deduction under Section 80-IC.	ANALYSIS
+
+ 14. Thus, we are of the opinion that it was wrong on the part of the AO not to allow deduction to the assessee under Section 80-IC for the Assessment Years 2008-09 and 2009-2010.	RATIO
+As a result, the judgment of the High Court on this aspect is set aside and the appeals are accordingly allowed.	RPC
+.............................................J.
+                                                                     (A.K. SIKRI)	NONE
+.............................................	NONE
+J.
+                                                         	NONE
+(ASHOK BHUSHAN)	NONE
+NEW DELHI; MAY 18, 2018.	NONE

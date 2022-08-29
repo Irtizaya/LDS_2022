@@ -1,0 +1,148 @@
+1/11
+
+IN THE HIGH COURT OF KARNATAKA, BENGALURU
+
+        DATED THIS THE 06TH DAY OF JULY 2018
+
+                                  PRESENT
+
+      THE HON'BLE Dr.JUSTICE VINEET KOTHARI
+
+                                      AND
+
+          THE HON'BLE Mrs.JUSTICE S.SUJATHA
+
+                           I.T.A.No.415/2017
+
+BETWEEN:
+
+1. PR. COMMISSIONER OF INCOME TAX-7
+         C.R. BUILDING, QUEENS ROAD
+         BANGALORE-560001.
+
+2. DEPUTY COMMISSIONER OF INCOME TAX
+         CIRCLE-5(1)(1), BANGALORE.
+                                                                     ...APPELLANTS
+
+(By Mr. E.I. SANMATHI, ADV.)
+
+AND:
+
+M/S. TESCO HINDUSTAN CENTRE PVT. LTD
+No.81 & 82, EPIP AREA RESEARCH CENTRE-2
+WHITEFIELD, BANGALORE-560095
+PAN: AABCT8915B.
+
+                                                                 ...RESPONDENT
+(RESPONDETN SERVED & UNREPRESENTED)
+
+         	PREAMBLE
+THIS I.T.A IS FILED UNDER SECTION 260-A OF INCOME
+TAX ACT 1961, PRAYING TO DECIDE THE FOREGOING
+QUESTION OF LAW AND/OR SUCH OTHER QUESTIONS OF LAW
+AS MAY BE FORMULATED BY THE HON'BLE COURT AS
+DEEMED FIT AND SET ASIDE THE APPELLATE ORDER DATED
+25-01-2017 PASSED BY THE INCOME TAX APPELLATE
+TRIBUNAL, `B' BENCH, BANGALORE, IN APPEAL PROCEEDINGS
+
+                                                          Vs. M/s. Tesco Hindustan Centre Pvt. Ltd
+
+                                                    2/11
+
+No.IT(TP)A No.569/Bang/2015 FOR ASSESSMENT YEAR 2010-11
+ANNEXURE-A	PREAMBLE
+AS SOUGHT FOR IN THIS APPEAL AND TO GRANT	PREAMBLE
+
+SUCH OTHER RELIEF AS DEEMED FIT IN THE INTEREST OF	PREAMBLE
+
+JUSTICE	PREAMBLE
+.
+
+         THIS I.T.A. COMING ON FOR HEARING, THIS DAY	PREAMBLE
+
+S. SUJATHA J. DELIVERED THE FOLLOWING:-	PREAMBLE
+
+
+                                JUDGMENT	PREAMBLE
+
+Mr. E.I.Sanmathi Adv. for Appellants- Revenue 1.	NONE
+The Appellants-Revenue have filed this appeal u/s.260A of the Income Tax Act, 1961, raising purportedly certain substantial questions of law arising from the order of the ITAT, Bangalore Bench `B', Bangalore, dated 25.01.2017 passed in IT(TP)A No.191/Bang/2015 (Dy.Commissioner of Income Tax vs. M/s.Tesco Hindustan Service Centre Pvt. Ltd.,) for A.Y.2010-11.
+ 2.	FAC
+The proposed substantial questions of law framed in the Memorandum of appeal by the Appellants-Revenue are quoted below for ready reference:- Vs. M/s. Tesco Hindustan Centre Pvt. Ltd 3/11 " 1. Whether on the facts and in the circumstances of the case, the Tribunal is right in law in holding that certain comparable cannot be taken as comparables on the basis of facts of a different case for different assessee without making any specific FAR analysis vis-a-vis he assessee  company in contrast to the fact that Tata Elxsi Limited satisfy all the qualitative and quantitative filters applied by the TPO?
+ 2.	ISSUE
+Whether, on the facts and in the circumstances of the case, the Tribunal is right in law in directing the TPO to apply RPT filter of 15% by superimposing the decisions of the Tribunal in other cases without going into specific facts of the taxpayer and without adducing the basis for arriving at the 15% cut off for RPT filters?	ISSUE
+3. Whether on the facts and in the circumstances of the case, the Tribunal is right in law in rejecting few companies chosen by Transfer Pricing Officer as comparables on the basis of functional dissimilarity by following its earlier order which has not reached finality even when the same satisfied qualitative and quantitative tests in the case of the assessee?".	ISSUE
+
+ Vs. M/s.	NONE
+Tesco Hindustan	NONE
+Centre	NONE
+Pvt. Ltd	NONE
+4/11 3.	NONE
+Learned counsel for the Appellants-Revenue Mr.E.I.Sanmathi submits that he does not press the substantial question of law No.1.	ARG_PETITIONER
+His submission is recorded.	NONE
+` 4. Regarding substantial question of law Nos.2 and 3  The learned Tribunal, after discussing the rival contentions of both the Appellants-Revenue and the Respondent-assessee, has given the following findings against Revenue with regard to various issues raised before it with regard to `Transfer Pricing' and `Transfer Pricing Adjustments' made by the concerned authorities below.	RLC
+We consider it appropriate to quote the relevant portion of the order of Tribunal, which runs as hereunder:- "12.	RLC
+We have considered the rival submissions as well as the relevant material on record.	RLC
+We find that the co-ordinate bench of this Vs. M/s.	RLC
+Tesco Hindustan	RLC
+Centre	RLC
+Pvt. Ltd	RLC
+5/11 Tribunal in assessee's own case for the Assessment Year 2006-07 vide order dt.18-10- 2016 in IT(TP)A No.1633/Bang/2012 has considered the comparability of these four companies and rejected these companies by considering the RPT at 15% as well as functional comparability.	RLC
+We find that the DRP has given the details of RPT of all the 10 companies at page 11 and therefore the following three companies will be excluded as not satisfying the tolerance range of 15% RPT filter.
+ (i) Fortune Infotech Ltd.  RPT 25% (ii) Icra Online Ltd.      RPT 19.61% (iii) Sundaram Business Services Ltd.
+ RPT 29.44% 13.	RLC
+As regards Accentia Technologies Ltd. and ICRA Online Ltd. this Tribunal in the assessee's own case for the Assessment Year 2008-09 has excluded these two companies from the set of comparables in para 5 as under: xxxxxxxxxxxxxxxxxxxxxx	RLC
+We further note that the functional comparability has been examined in detailed by Vs. M/s.	RLC
+Tesco Hindustan	RLC
+Centre	RLC
+Pvt. Ltd	RLC
+6/11 the co-ordinate bench of this Tribunal in the case of Equant Solutions India Pvt. Ltd. Vs. DCIT in IT(TP)A No.1202/Del/2015 as well as in the case of ITO Vs. Interwoven Software Services (India) Pvt. Ltd. in ITA No.461/Bang/2015.	RLC
+Further in the case of Acropetal Technologies Ltd. (Seg.) the co-ordinate bench of this Tribunal in the case of Kodiak Networks (India) Pvt. Ltd. Vs. DCIT in IT(TP)A No.1540/Bang/2012 has considered the functional comparability and found that this company is not comparable with a captive service provider.	RLC
+Accordingly we direct the Assessing Officer/TPO to exclude these companies from set of comparables.	RLC
+
+ E-clerx Services Limited 14.1	ANALYSIS
+We have considered the rival submissions and relevant record.	ANALYSIS
+At the out set, we note that the comparability of M/s Eclerx Services Ltd. has been examined by the Special Bench of the Tribunal in the case of Maersk Global Centres (India) (P) Ltd (supra) in para 82 83 as under: 82. xxxxxxxxxxxxxxxxxx 83.	ANALYSIS
+For the reasons given above, we are of the view that if the functions actually performed Vs. M/s.	ANALYSIS
+Tesco Hindustan	ANALYSIS
+Centre	ANALYSIS
+Pvt. Ltd 7/11 by the assessee company for its AEs	ANALYSIS
+are compared with the functional profile of M/s eClerx Services Pvt. Ltd. and Mold-Tech Technologies Ltd., it is difficult to find out any relatively equal degree of comparability and the said entities cannot be taken as comparables for the purpose of determining ALP of the transactions of the assessee company with its AEs.	ANALYSIS
+We, therefore, direct that these two entities be excluded from the list of 10 comparables finally taken by the AO/TPO as per the direction of the DRP?.	ANALYSIS
+15.4 We have heard the rival submissions and perused and carefully considered the material on record.	ANALYSIS
+We find that the assessee has brought on record sufficient evidence to establish that this company is functionally dis- similar and different from the assessee and hence is not comparable and the finding rendered in the case of Trilogy E-Business Software India Pvt. Ltd. (supra) for Assessment Year 2007-08 is applicable to this year also.	ANALYSIS
+We are inclined to concur with the argument put forth by the assessee that Infosys BPO Ltd. is not functionally comparable since it has the benefit of market value as well as brand value.	ANALYSIS
+This company Vs.	ANALYSIS
+M/s. Tesco Hindustan Centre Pvt. Ltd 8/11 enjoys the benefits of scale and market leadership.	ANALYSIS
+In this view of the matter, we hold that this company ought to be omitted from the set of comparable companies.	ANALYSIS
+It is ordered accordingly.	ANALYSIS
+
+Since we have directed the A.O/TPO to exclude these companies from the set of comparables therefore the TPO is directed to compute the ALP on the basis of remaining comparables".
+ 5.	ANALYSIS
+This Court in ITA No.536/2015 C/w ITA No.537/2015    delivered           on  25.06.2018 (Prl. Commissioner of Income Tax & Anr. Vs.
+ M/s. Softbrands India Pvt. Ltd.,) has held that in these type of cases, unless an ex-facie perversity in the findings of the learned Income Tax Appellate Tribunal is established by the appellant, the appeal at the instance of an assessee or the Revenue under Section 260-A of the Act is not maintainable.	PRE_RELIED
+
+ The relevant portion of the said judgment is quoted below for ready reference: " Conclusion: Vs. M/s. Tesco Hindustan Centre Pvt. Ltd 9/11 55.	PRE_RELIED
+A substantial quantum of international trade and transactions depends upon the fair and quick judicial dispensation in such cases.	PRE_RELIED
+Had it been a case of substantial question of interpretation of provisions of Double Taxation Avoidance Treaties (DTAA), interpretation of provisions of the Income Tax Act or Overriding Effect of the Treaties over the Domestic Legislations or the questions like Treaty Shopping, Base Erosion and Profit Shifting (BEPS), Transfer of Shares in Tax Havens (like in the case of Vodafone etc.), if based on relevant facts, such substantial questions of law could be raised before the High Court under Section 260-A of the Act, the Courts could have embarked upon such exercise of framing and answering such substantial question of law.	PRE_RELIED
+On the other hand, the appeals of the present tenor as to whether the comparables have been rightly picked up or not, Filters for arriving at the correct list of comparables have been rightly applied or not, do not in our considered opinion, give rise to any substantial question of law.	PRE_RELIED
+
+ 56. We are therefore of the considered opinion that the present appeals filed by the Revenue do not give rise to any substantial Vs. M/s. Tesco	RATIO
+Hindustan	RATIO
+Centre	RATIO
+Pvt. Ltd	RATIO
+10/11 question of law and the suggested substantial questions of law do not meet the requirements of Section 260-A of the Act and thus the appeals filed by the Revenue are found to be devoid of merit and the same are liable to be dismissed.	RATIO
+
+ 57. We make it clear that the same yardsticks and parameters will have to be applied, even if such appeals are filed by the Assessees, because, there may be cases where the Tribunal giving its own reasons and findings has found certain comparables to be good comparables to arrive at an `Arm's Length Price' in the case of the assessees with which the assessees may not be satisfied and have filed such appeals before this Court.	ANALYSIS
+Therefore we clarify that mere dissatisfaction with the findings of facts arrived at by the learned Tribunal is not at all a sufficient reason to invoke Section 260-A of the Act before this Court.	RATIO
+
+ 58. The appeals filed by the Revenue are therefore dismissed with no order as to costs."	ANALYSIS
+
+ 6. Having heard the learned counsels for the parties, we are therefore of the opinion that no substantial question of law arises in the present case Vs. M/s. Tesco Hindustan Centre Pvt. Ltd 11/11 also.	RPC
+The appeal filed by the Appellants-Revenue is liable to be dismissed and it is dismissed accordingly.	RPC
+
+No costs.	RPC
+
+ Copy of this judgment be sent to the Respondent- Assessee forthwith.	NONE
+
+ Sd/- JUDGE Sd/- JUDGE Srl.	NONE

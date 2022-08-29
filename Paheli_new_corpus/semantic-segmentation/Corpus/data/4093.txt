@@ -1,0 +1,264 @@
+IN THE HIGH COURT OF JUDICATURE AT BOMBAY	PREAMBLE
+
+      ORDINARY ORIGINAL CIVIL JURISDICTION
+
+                INCOME TAX APPEAL NO.1196 OF 2013
+                                      WITH
+
+                INCOME TAX APPEAL NO.1175 OF 2013
+
+The Commissioner of Income TaxLTU  ... Appellant
+       V/s.                        ... Respondent
+
+Union Bank of India
+
+                                      WITH
+                INCOME TAX APPEAL NO.59 OF 2017
+
+Commissioner of Income Tax(IT)3    ... Appellant
+       V/s.                        ... Respondent
+
+Mashreq Bank psc
+
+                                      WITH
+                INCOME TAX APPEAL NO.1567 OF 2016
+
+                                      WITH
+                INCOME TAX APPEAL NO.1309 OF 2016
+
+                                      WITH
+                INCOME TAX APPEAL NO.143 OF 2018
+
+                                      WITH
+                INCOME TAX APPEAL NO.1907 OF 2017
+
+                                      WITH
+                INCOME TAX APPEAL NO.1878 OF 2017
+
+                                      WITH
+                INCOME TAX APPEAL NO.182 OF 2015
+
+Pr. Commissioner of Income Tax2    ... Appellant
+       V/s.                        ... Respondent
+
+Bank of India
+
+                                      WITH
+                	PREAMBLE
+INCOME	PREAMBLE
+TAX APPEAL NO.1108 OF 2015	PREAMBLE
+Pr. Commissioner of Income Tax3	PREAMBLE
+... Appellant
+
+
+       V/s.                          ... Respondent
+	PREAMBLE
+M/s The New India Assurance Co.Ltd.	PREAMBLE
+WITH
+                INCOME TAX APPEAL NO.27 OF 2016
+
+Commissioner of Income Tax(IT)2      ... Appellant
+
+V/s.
+Credit Agricole Corporate and Investment Bank...	PREAMBLE
+Respondent	PREAMBLE
+Mr.Suresh Kumar for the Appellant in ITXA Nos.1196/13,
+1175/13, 1108/15, 1309/16, 1567/16, 182/15, 1878/17,
+1907/17 and 143/18.	PREAMBLE
+
+Mr.Percy Pardiwalla, Senior Counsel with Ms.Nupur Awasthi with
+Ms.Usha K.Srivastava i/by M/s Consulta Juris for the Respondent
+in ITXA Nos.1196/13 and 1175/13.
+Mr.Tejveer Singh for the Appellant in ITXA Nos.59/17 and 27/16.	PREAMBLE
+
+Mr.Percy Pardiwalla, Senior Counsel with Mr.Madhur Agrawal
+i/by Mr.Atul Jsani for the Respondent in ITXA Nos. 59/17 and
+27/16.	PREAMBLE
+
+Mr.Atul Jasani for the Respondent in ITXA No.1108/15.	PREAMBLE
+
+Mr.Subhash Shetty for the respondent in ITXA Nos. 1309/16,
+1567/16, 1878/17, 1907/17 and 143/18.	PREAMBLE
+Mr.Sanjiv Shah for the Respondent in ITXA 182/15.
+
+                                      
+
+                CORAM :	PREAMBLE
+AKIL KURESHI AND	PREAMBLE
+
+                              SARANG V. KOTWAL, JJ.
+
+                DATE : APRIL 16, 2019.	PREAMBLE
+ORAL JUDGMENT : 1.	PREAMBLE
+In these appeals common questions of law arise.	FAC
+Some of the appeals have been admitted.	FAC
+Some have been tagged on account of similarity of issues though they are at the admission stage.	FAC
+For convenience, we may record facts from Income Tax Appeal No.1196 of 2013.	NONE
+This appeal was admitted for consideration of following questions of law: "(i) Whether on the facts and in the circumstances of the case and in law, the ITAT is correct is reversing the order of Assessing Officer confirmed by the CIT(A), exercising the jurisdiction u/s.154 of the Income Tax Act, 1961, determining the Book Profits as per the amendment to Section 115JB?
+(ii) Whether on the facts and in the circumstances of the case and in law the ITAT is correct in holding that the provision of Section 115JB are not applicable to the assesseeBank?"	ISSUE
+2. For all the appeals we would adopt the above quoted questions as substantial questions of law.	NONE
+
+ 3. RespondentUnion Bank of India had filed return of income for the assessment year 200506.	FAC
+The Assessing Officer passed order of assessment under Section 143(3) of the Income Tax Act, 1961 ("the Act" for short) on 23rd March, 2007 computing the assessee's taxable income at Rs.412.41 crores (rounded off) under the normal provisions and Rs.431.15 crores as book profit under Section 115JB of the Act.	FAC
+The Assessing Officer thereafter passed an order dated 25th March, 2010 of rectification to give effect to a retrospective amendment in Section 115JB of the Act.	FAC
+
+ He computed the assessee's revised book profit at Rs.374.21 crores.	FAC
+4. The assessee carried the matter in appeal.	FAC
+In such appeal, the assessee opposed the assessment order on merits, including the order passed by the Assessing Officer exercising rectification powers.	FAC
+CIT (Appeals) granted partial relief by his order dated 27th March, 2012.	FAC
+5. Against such order of the Commissioner (Appeals), the assessee preferred further appeal before Income Tax Appellate Tribunal ("Tribunal" for short).	FAC
+In such appeal, the assessee contended that the Assessing Officer could not have exercised rectification powers.	FAC
+The assessee raised an additional ground that being a banking company, the provisions of Section 115JB of the Act would not be applicable.	FAC
+The Tribunal allowed such appeal by the impugned judgment dated 22nd March, 2012.	FAC
+The Tribunal was of the opinion that the Assessing Officer wrongly exercised powers of rectification.	RLC
+The Tribunal further noted that the coordinate bench in the assessee's own case for the assessment year 200607 had held that the provisions of Section 115JB of the Act, were not applicable to the assesseebank.	RLC
+The Tribunal held as under : "7.	RLC
+We have considered the issue.	RLC
+There is no doubt that the assessment orders under section 143(3) were passed in these years under which total income was determined under normal provisions and book provisions of section 115JB were not invoked.	RLC
+The issues which are considered in normal assessment are still pending before the ITAT for adjudication,whereas the Assessing Officer under the guise of section 154 disallowed certain amounts revising the book profits.	RLC
+However, even after making these adjustments, the tax under normal provisions was determined at Rs.328.07 cores, whereas the tax under section 115JB was determined at Rs.72.02 crores for assessment years 200405 and tax under normal provisions was determined at Rs.150.91 crores under normal provisions and tax under section 115JB at Rs.28.06 crores under section 115JB.	RLC
+Ultimately the taxes were determined under normal provisions without exercising the provisions of section 115JB.	RLC
+
+In that view, the entire exercises of modifying the orders is redundant as even after such adjustment, the tax determined under the normal provisions is more than the tax that are being determined by this order under section 154.
+8.	RLC
+Be that as it may, just because a retrospective amendment has been carried out on the statue, the assessment cannot be modified without examining whether the provisions so made are to be disallowed or not.	RLC
+This requires detailed examination and in fact as for the submissions made before the authorities, the assessee had appeared before the Assessing Officer furnishing various details and how the amounts cannot be disallowed.	RLC
+Since this requires claborate examination on a long run process, we are of the opinion that the orders cannot be modified by invoking the provisions of section 154.	RLC
+Not only that the Coordinate Bench in assessee's own case in assessment year 200607 has held that the provisions of section 115JB are not applicable to the assessee Bank.	RLC
+In view of this, we hold that the order under section 154 passed by the Assessing Officer is not correct and therefore, the same was set aside.	RLC
+Accordingly assessee's grounds in the above 2 years are allowed."	RLC
+
+ 6. Against this judgment, the revenue has filed this appeal.	FAC
+Appearing for the revenue learned counsel submitted that the view expressed by the Tribunal is not sustainable in law.	ARG_PETITIONER
+The provisions of Section 115JB are sufficiently clear and apply to all companies.	ARG_PETITIONER
+Admittedly, respondentbank is a company.	ARG_PETITIONER
+Provisions of Section 115JB would be applicable to such companies also.	ARG_PETITIONER
+He submitted that the amendments made in Section 115JB of the Act under Finance Act, 2012 would have no effect on this legal position.	ARG_PETITIONER
+These amendments have been made only to alien the position of the special companies such as the banking companies, electricity companies etc. with the provisions of the Income Tax Act.	ARG_PETITIONER
+These amendments in no way suggest that prior to such legislative changes, the provisions of Section 115JB of the Act were not applicable to the banking companies and such other special companies.	ARG_PETITIONER
+
+ 7. On the other hand, learned counsel Shri Pardiwalla led arguments on behalf of the assessee.	ARG_RESPONDENT
+He submitted that the mechanism provided for computing book profit in terms of sub section (2) of Section 115JB of the Act would be wholly unworkable for a banking company.	ARG_RESPONDENT
+He submitted that this anomaly was removed by the legislature only by amending Section 115JB by Finance Act, 2012.	ARG_RESPONDENT
+Till then the banking companies were not within the fold of Section 115JB of the Act.	ARG_RESPONDENT
+
+He submitted that when the machinery provision fails, the charging section shall have no applicability.	ARG_RESPONDENT
+Counsel relied on certain decisions, reference to which will be made at appropriate stage.	ARG_RESPONDENT
+
+ 8. In order to resolve the controversy, we may take note of the statutory provisions and the legislative history.	ANALYSIS
+As is well known, Section 115JB of the Act, pertains to special provisions for payment of tax by certain companies and provides a formula for payment of minimum tax in case of companies, whose tax payable on the total income works out to be below a certain minimum threshhold percentage of its book profit.	STA
+This provision is a successor to Section 115JA of the Act, which was also introduced for the same purpose.	STA
+In fact, the first legislative introduction of the provisions pertaining to what is popularly referred to as MAT companies (Minimum Alternative Tax) was Section 115J.	ANALYSIS
+The Circular No.762 dated 18th February, 1998 issued by the Central Board of Direct Tax ("CBDT" for short) explains the object for introduction of such MAT provisions.	ANALYSIS
+The circular clarifies that new Section 115JA has been inserted by the Finance Act, so as to levy a minimum tax on companies, who are having book profits and paying dividends, but not paying any taxes.	ANALYSIS
+Relevant portion of Section 115JB as is stood at the relevant time reads as under: "Special provision for payment of tax by certain companies 115JB.(1)Notwithstanding anything contained in any other provision of this Act, where in the case of an assessee, being a company, the incometax, payable on the total income as computed under this Act in respect of any previous year relevant to the assessment year commencing on or after the 1st day of April, (2007) is less than (ten percent) of its book profit, (such) book profit shall be deemed to be the total income of the assessee and the tax payable by the assessee on such total income shall be the amount of incometax at the rate of (ten percent).	ANALYSIS
+
+(2) Every assessee, being a company, shall, for the purposes of this section, prepare its profit and loss account for the relevant previous year in accordance with the provisions of Parts II and III of Schedule VI to the Companies Act, 1956 (1 of 1956) Provided that while preparing the annual accounts including profit and loss account, (i) the accounting polices, (ii) the accounting standards adopted for preparing such accounts including profit and loss account; (iii) the method and rates adopted for calculating the depreciation, shall be the same as have been adopted for the purpose of preparing such accounts including profit and loss account and laid before the company at its annual general meeting in accordance with the provisions of section 210 of the Companies Act, 1956(1 of 1956): Provided further that where the company has adopted or adopts the financial year under the Companies Act, 1956(1 of 1956), which is different from the previous year under this Act, (i) the account policies; (ii) the accounting standards adopted for preparing such accounts including profit and loss account; (iii) the method and rates adopted for calculating the depreciation, shall correspond to the accounting policies, accounting standards and the method and rates for calculating the depreciation which have been adopted for preparing such accounts including profit and loss account for financial year or part of such financial year falling within the relevant previous year."
+ 9.	ANALYSIS
+In terms of subsection (1) of Section 115JB of the Act thus notwithstanding anything contained in any of the provisions of the Act in case of an assessee being a company where the income tax payable on the total income as computed under the Act, is less than prescribed percentage of its book profit, such book profit shall be deemed to be the total income of the assessee.	ANALYSIS
+In so far as the language used under subsection (1) of Section 115JB is concerned, the same pauses no challenge.	ANALYSIS
+Sub section (1) of Section 115JB takes within its swip all companies with no further bifurcation or distinction between companies.	ANALYSIS
+
+However, the question that calls for our consideration is whether the machinery provision provided under subsection (2) of Section 115 JB of the Act is workable when it comes to the banking companies and such other special companies governed by the respective Acts.	ANALYSIS
+In the context, the question would also be of the legislative intent to cover such companies within the swip of Section 115JB of the Act.	ANALYSIS
+These questions arise because of the language used in subsection (2) of Section 115JB.	ANALYSIS
+These provisions we may peruse more minutely.	ANALYSIS
+As per subsection (2) of Section 115JB, every assessee being a company would for the purposes of the said section prepare its profit and loss account for the relevant previous year in accordance with the provisions of Parts II and III of Schedule VI of the Companies Act, 1956.	ANALYSIS
+It is undisputed that the respondenta banking company is not required to prepare its accounts in accordance with the provisions of Parts II and III of Schedule VI of the Companies Act, 1956.	ANALYSIS
+The accounts of the banking company are prepared as per the provisions contained in Banking Regulation Act, 1949.	ANALYSIS
+The counsel for the revenue may still argue that irrespective of such requirements, for the purposes of the said Act and special requirements of Section 115JB of the Act, a banking company is obliged to prepare its profit and loss account as per the provisions of the Companies Act, as mandated by subsection (2) of Section 115JB of the Act.	ANALYSIS
+His contention would be that such legislative mandate is not impermissible.	ANALYSIS
+10. At the first blush, this argument seems attractive.	ANALYSIS
+
+However, when we read subsection (2) further, certain complications arise in this line of argument.	ANALYSIS
+The first proviso to subsection (2) of Section 115JB provides that while preparing annual accounts including profit and loss account the accounting policies and accounting standards adopted for preparing the account and the method and rules adopted in calculating the depreciation shall be the same as have been adopted for the purpose of preparing such accounts and laid before the company at its Annual General Meeting in accordance with provisions of Section 210 of the Companies Act, 1956.	ANALYSIS
+There is no dispute that the respondentbank in terms of Section 210 of the Companies Act, 1956 is also required to lay its accounts before the Annual General Meeting.	ANALYSIS
+However, such accounts would necessarily be prepared in accordance with the provisions of Banking Regulation Act, 1949 and never be those which even had it been possible to be prepared, in accordance with Parts II and III of Schedule VI of the Companies Act, 1956.	ANALYSIS
+The applicability of this proviso         therefore, in case of a banking company would immediately create complications.	ANALYSIS
+On one hand, in terms of Section 210 of the Companies Act, 1956, the bank would be under an obligation to lay before Annual General Meeting its annual accounts including the profit and loss account.	ANALYSIS
+These accounts would be prepared in terms provisions contained in Banking Regulation Act, 1949.	ANALYSIS
+Subsection (2) requires preparation of the accounts in terms of the Companies Act.	ANALYSIS
+Proviso to subsection (2) would require maintaining the same parameters in relation to the accounting policies, accounting standards and method and rate of depreciation as adopted for the purpose of preparing the accounts, which would ultimately be laid before the Annual General Meeting.	ANALYSIS
+A Banking company in terms of subsection (2) of Section 115JB can prepare additional accounts as per provisions of Parts II and III of Schedule VI of the Companies Act or fulfill the requirements of the proviso to subsection (2) but cannot fulfill both the conditions.
+ 11.	ANALYSIS
+This legal dichotomy emerging from the provisions of subsection (2) of Section 115JB particularly having regard to the first proviso contained therein in case of a banking company, would convince us that machinery provision provided in sub section (2) of section 115JB of the Act, would be rendered wholly unworkable in such a situation.	ANALYSIS
+In a well known judgment the Supreme court in case of Commissioner of IncomeTax, Bangalore Vs. B.C. Shrinivasa Setty1 had observed that in the Income Tax Act, a charing section and the computing provisions together constitute an integrated code.	ANALYSIS
+In a case where the computation provision can not apply, it would be evident that such a case was not intended to fall within the charging section.	ANALYSIS
+
+ It was a case of charging a partnership firm for transfer of a capital asset in the nature of goodwill.	ANALYSIS
+The Supreme Court was of the opinion that it would not be possible to envisage a cost of acquisition of goodwill.	ANALYSIS
+Since computation of capital gain cannot be done without ascertaining the cost of acquisition, it was held that no capital gain tax can be levied.	ANALYSIS
+
+ 12. For the completeness of the discussion, we may note that section 211 of the Companies Act, 1956 pertains to form of 1 Vol.128 ITR 294 contents of balancesheet and profit and loss account, subsection (1) of Section 211 provided that every balance sheet of a company shall give true and fair view on the state of affairs of the company at the end of the financial year and would be subject to the provisions of the said section and be in the form set out in the Forms 1 and 2 of schedule VI.	ANALYSIS
+This subsection contained a proviso providing that nothing contained in said subsection would apply to a banking company or any company engaged in generation or supply of electricity or to any other class of company for which a form of balance sheet shall be specified in or under the Act governing such company.	ANALYSIS
+Thus, Companies Act, 1956 excluded the insurance or banking companies, companies engaged in generation or supply of electricity or companies for which balancesheet was specified in the governing Act, from the purview of subsection (1) of Section 211 of the Companies Act, 1956 and as a consequence from the purview of Section 115JB of the Act.
+ 13.	ANALYSIS
+What we have held above is duly supported by the division bench judgment of Kerala High Court.	PRE_RELIED
+It was a case in which the assessee before the court was Kerala State Electricity Board, a statutory corporation constituted under Section 5 of the Electricity (Supply) Act, 1948.	PRE_RELIED
+The revenue sought to cover the said Electricity Board under the provisions of Section 115JB which the assessee opposed.	PRE_RELIED
+The issue reached the Kerala High Court.	PRE_RELIED
+
+ The Court referred to and relied upon the decision of the Supreme Court in case of B.C. Shrinivasa Setty (supra).	PRE_RELIED
+It was noticed that the Board was required to keep and maintain its account in the manner specified by the Central Government and not in the manner specified in the Companies Act.	PRE_RELIED
+In that view of the matter it was held that section 115JB would not apply to the Electricity Board.	PRE_RELIED
+Learned counsel for the assessee has also brought to our notice decisions of Delhi High Court holding that such MAT provisions would not apply to the insurance companies and to the banking companies.	ANALYSIS
+
+ 14. There are certain significant legislative changes made by Finance Act, 2012, which must be noted before concluding this issue.	ANALYSIS
+In the present form, post amendment by Finance Act, 2012, relevant portion of Section 115JB of the Act reads as under: "Special provision for payment of tax by certain companies.	STA
+115JB.	STA
+(1) Notwithstanding anything contained in any other provision of this payable on the total income as computed under this Act in respect of any previous year relevant to the assessment year commencing on or after the 1st day of April, (2012), is less than (eighteen and onehalf percent) of its book profit, (such book profit shall be deemed to be the total income of the assessee and the tax payable by the assessee on such total income shall be the amount of incometax at the rate of (eighteen and onehalf percent).
+(2) Every assessee, (a) being a company, other than a company referred to in clause (b), shall, for the purposes of this section, prepare its (statement of profit and loss) for the relevant previous year in accordance with the provisions of (Schedule III) to the (Companies Act, 2013 (18 of 2013); or (b) being a company, to which the (second proviso to subsection (1) of section 129) of the (Companies Act, 2013 (18 of 2013) is applicable, shall, for the purposes of this section, prepare its (statement of profit and loss) for the relevant previous year in accordance with the provisions of the Act governing such company:) Provided that while preparing the annual accounts including (statement of profit and loss), (i) the accounting policies; (ii) the accounting standards adopted for preparing such accounts including (statement of profit and loss); (iii) the method and rates adopted for calculating the depreciation	STA
+, shall be the same as have been adopted for the purpose of preparing such accounts including (statement of profit and loss) and laid before the company at its annual general meeting in accordance with the provisions of (section 129) of the (Companies Act, 2013(18 of 2013)):"
+ 15.	STA
+The memorandum explaining the provisions made in the Finance Bill, 2012, in relation to minimum alternative tax stated as under : "Minimum Alternate Tax (MAT) I.	ANALYSIS
+Under the existing provisions of section 115JB of the Act, a company is liable to pay MAT of eighteen and on half percent of its book profit in case tax on its total income computed under the provisions of the Act is less than the MAT liability.	ANALYSIS
+Book profit for this purpose is computed by making certain adjustments to the profit disclosed in the profit and loss account prepared by the company in accordance with the Schedule VI of the Companies Act, 1956.	ANALYSIS
+As per section 115JB, every company is required to prepare its accounts as per Schedule VI of the Companies Act, 1956.	STA
+However, as per the provisions of the Companies Act, 1956, certain companies, e.g. insurance, banking or electricity company, are allowed to prepare their profit and loss account in accordance with the provisions specified in their regulatory Acts.	ANALYSIS
+In order to align the provisions of Incometax Act with the Companies Act, 1956, it is proposed to amend section 115JB to provide that the companies which are not required under section 211 of the Companies Act to prepare their profit and loss account in accordance with Schedule VI of the Companies Act, 1956, profit and loss account prepared in accordance with the provisions of their regulatory Acts shall be taken as a basis for computing the book profit under section 115JB.
+II.	ANALYSIS
+It is noted that in certain cases, the amount standing in the revaluation reserve is taken directly to general reserve on disposal of a revalued asset.	ANALYSIS
+Thus, the gains attributable to revaluation of the asset is not subject to MAT liability.	ANALYSIS
+
+ It is, therefore, proposed to amend section 115JB to provide that the book profit for the purpose of section 115JB shall be increased by the amount standing in the revaluation reserve relating to the revalued asset which has been retired or disposed, if the same is not credited to the profit and loss account.	ANALYSIS
+III. It is also proposed to omit the reference of Part III of Schedule VI of the Companies Act, 1956 from section 115JB in view of omission of Part III in the revised Schedule VI under the Companies Act, 1956.	ANALYSIS
+
+ These amendments will take effect from 1st April, 2013 and will, accordingly, apply in relation to the assessment year 201314 and subsequent assessment years."
+ 16.	ANALYSIS
+It can be seen that subsection (2) of Section 115JB of the Act has now been bifurcated in two parts covered in the clauses (a) and (b).	ANALYSIS
+Clause (a) would cover all companies other than those referred to in clause (b).	ANALYSIS
+Such companies would prepare the statement of profit and loss in accordance to the provisions of schedule III of the Companies Act, 2013 (which has now replaced the old Companies Act, 1956).	ANALYSIS
+Clause (b) refers to a company to which second proviso to subsection (1) of Section 129 of the Companies Act, 2013 is applicable.	ANALYSIS
+Such companies, for the purpose of Section 115JB, would prepare the statement of profit and loss in accordance with the provisions of the Act governing the company.	ANALYSIS
+Section 129 of the Companies Act, 2013 pertains to financial statement.	ANALYSIS
+Under subsection (1) of Section 129 it is provided that the financial statement shall give a true and fair view of the state of affairs of the company, comply with the accounting standard notified under Section 113 and shall be in the form as may be provided for different classes of companies.	ANALYSIS
+Second proviso to subsection (1) of Section 129 reads as under: "Provided further that nothing contained in this subsection shall apply to any insurance or banking company or any company engaged in the generation or supply of electricity, or to any other class of company for which a form of financial statement has been specified in or under the Act governing such class of company: 17.	ANALYSIS
+This proviso thus refers any insurance or banking companies or companies engaged in the generation or supply of electricity or to any other class of company in which form of financial statement has been specified in or under the Act governing such class of company.	ANALYSIS
+Combined reading of this proviso to subsection (1) of Section 129 of the Act, 2013 and clause (b) of sub section (2) of Section 115JB of the Act would show that in case of insurance or banking companies or companies engaged in generation or supply of electricity or class of companies for whom financial statement has been specified under the Act governing such company, the requirement of preparing the statement of accounts in terms of provisions of the Companies Act, is not made.	ANALYSIS
+Clause (b) of subsection (2) provides that in case of such companies for the purpose of Section 115JB the preparation of statement of profit and loss account would be in accordance with the provisions of the Act governing such companies.	ANALYSIS
+This legislative change thus aliens class of companies who under the governing Acts were required to prepare profit and loss accounts not in accordance with the Companies Act, but in accordance with the provisions contained in such governing Act.	ANALYSIS
+
+ The earlier dichotomy of such companies also, if we accept the revenue's contention, having the obligation of preparing accounts as per the provisions of the Companies Act has been removed.	ANALYSIS
+
+ 18. These amendments in section 115JB are neither declaratory nor classificatory but make substantive and significant legislative changes which are admittedly applied prospectively.	ANALYSIS
+The memorandum explaining the provision of the Finance Bill, 2012 while explaining the amendments under Section 115JB of the Act notes that in case of certain companies such as insurance, banking and electricity companies, they are allowed to prepare the profit and loss account in accordance with the sections specified in their regulatory Acts.	ANALYSIS
+To align the Income Tax Act with the Companies Act, 1956 it was decided to amend Section 115JB to provide that the companies which are not required under Section 211 of the Companies Act, to prepare profit and loss account in accordance with Schedule VI of the Companies Act, profit and loss account prepared in accordance with the provisions of their regulatory Act shall be taken as basis for computing book profit under Section 115 JB of the Act.	ANALYSIS
+
+ 19. Before closing, we may also take note of explanation (3) below subsection (2) of section 115 JB of the Act which reads as under : "Explanation 3For the removal of doubts, it is hereby clarified that for the purposes of this section, the assessee, being a company to which the proviso to subsection (2) of section 211 of the Companies Act, 1956(1 of 1956) is applicable, has, for an assessment year commencing on or before the 1st day of April, 2012, an option to prepare its profit and loss account for the relevant previous year either in accordance with the provisions of Part II and Part III of Schedule VI to the Companies Act, 1956 or in accordance with the provisions of the Act governing such company."
+ 20.	STA
+This explanation starts with the expression "For the removal of doubts".	ANALYSIS
+It declares that for the purpose of the said section in case of an assesseecompany to which second proviso to section 129 (1) of the Companies Act, 2013 is applicable, would have an option for the assessment year commencing on or before 1st April, 2012 to prepare its statement of profit and loss either in accordance with the provisions of schedule III to the Companies Act, 2013 or in accordance with the provisions of the Act governing such company.	ANALYSIS
+To our mind, this is some what curious provision.	ANALYSIS
+In the original form, subsection (2) of section 115JB of the Act did not offer any such option to a banking company, insurance company or electricity company to prepare its profit and loss account at its choice either in terms of its governing Act or as per terms of Section 115JB of the Act.	ANALYSIS
+Secondly, by virtue of this explanation if an anomaly which we have noticed is sought to be removed, we do not think that the legislature has achieved such purpose.	ANALYSIS
+In plain terms, this is not a case of retrospective legislative amendment.	RATIO
+It is stated to be clarificatory amendment for removal of doubts.	RATIO
+When the plain language of subsection (2) of Section 115JB did not permit any ambiguity, we do not think the legislature by introducing a clarificatory or declaratory amendment cure a defect without resorting to retrospective amendment, which in the present case has admittedly not been done.	RATIO
+
+ 21. In the result, we hold that subsection 115JB as it stood prior to its amendment by virtue of Finance Act, 2012, would not be applicable to a banking company.	RPC
+We answer the question No.2 in favour of the assessee and against the revenue.	RPC
+In view of this, question of correctness of the order of rectification passed by the Assessing Officer becomes unimportant.	RPC
+Question No.1 is therefore not answered.	RPC
+All the appeals are dismissed.	RPC
+
+ (SARANG V. KOTWAL, J.)                          (AKIL KURESHI, J.) ....	NONE

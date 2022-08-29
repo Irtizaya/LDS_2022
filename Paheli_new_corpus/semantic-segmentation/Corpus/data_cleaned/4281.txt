@@ -1,0 +1,75 @@
+        THE HIGH COURT OF DELHI AT NEW DELHI%                                             Judgment delivered on: 18.02.2013	PREAMBLE
++       W.P.(C) 1987/2012 & CM No. 4285/2012AJAY KUMAR SHARMA                                                     	PREAMBLE
+... Petitioner                                               versusCOMMISSIONER OF INCOME TAX AND ANR	PREAMBLE
+... RespondentsAND+       W.P.(C) 2732/2012 & CM No. 5883/2012AJAY KUMAR SHARMA                                                     ... Petitioner                                               versusCOMMISSIONER OF INCOME TAX AND ANR                                    ... RespondentsAND+       W.P.(C) 2749/2012 & CM No. 5909/2012AJAY KUMAR SHARMA                                                     ... Petitioner                                               versusCOMMISSIONER OF INCOME TAX AND ANR                                    ... RespondentsAND+       W.P.(C) 2733/2012AJAY KUMAR SHARMA                                                     ... Petitioner                                               versusCOMMISSIONER OF INCOME TAX AND ANR                                    ... RespondentsAdvocates who appeared in these cases:For the Petitioner                 :	PREAMBLE
+Mr A. Sharma, Mr Manu K. Giri	PREAMBLE
+For the Respondent	PREAMBLE
+                : Ms Suruchii Aggarwal	PREAMBLE
+CORAM:-	PREAMBLE
+HON’BLE MR JUSTICE BADAR DURREZ AHMED	PREAMBLE
+HON’BLE MR JUSTICE R.V.EASWAR	PREAMBLE
+JUDGMENT	PREAMBLE
+ BADAR DURREZ AHMED, J (ORAL) 1.	NONE
+These writ petitions are directed against the notices issued under section 148 (all dated 16.12.2011) intending to re-open assessments pertaining to the assessment years 2005-06 to 2008-09.	FAC
+Insofar as the assessment year 2007-08 is concerned, a regular assessment had not been completed under section 143(3) of the Income-tax Act, 1961 (hereinafter referred to as ‘the said Act’) and only an intimation under section 143(1) had been sent.	FAC
+As regards the other three years, assessment orders had been framed under section 143(3) of the said Act.	FAC
+ 2.      In assessment year 2005-06, the assessment was framed on 29.03.2007.	FAC
+ Similarly, for assessment years 2006-07 and 2008-09 the assessment orders were passed on 26.12.2008 and 30.12.2010, respectively.	FAC
+It should also be pointed out that insofar as the impugned notices relate to the assessment years 2005-06 and 2006-07, they have been issued beyond the period of four years from the end of the respective assessment years and therefore the proviso to section 147 of the said Act would be attracted.	FAC
+3.      	FAC
+The learned counsel for the petitioner drew our attention to the proceedings pertaining to the assessment year 2005-06 which was the first year in which the petitioner had made a claim of deduction under section 80-IC of the said Act inasmuch as there was a substantial expansion in the plant and machinery during the financial year 2004-2005.	FAC
+The petitioner manufactures ‘PET’ bottles.	FAC
+4.      	FAC
+The learned counsel for the petitioner drew our attention to the purported reasons for the belief that income had escaped assessment.	FAC
+The said purported reasons read as under:- “Name &address of the Assessee :Sh. Ajay Kumar Sharma Prop. M/s OM Shiva Industries 181, Azad Mara, Vivekanand Puri.	FAC
+Delhi PAN                                   :   ARGPS9602P Status                                :	FAC
+Individual Assessment Year                       :   2005-2006	FAC
+Reasons for the belief that income has escaped assessment Return of income for the AY 2005-06 in this case was filed on 30.10.2005 declaring an income of Rs. Nil after claiming deduction of Rs. 26,36,700/- u/s 801C of the I.T. Act, 1961.	FAC
+Assessment for this year was completed u/s 143(3) vide Order dated 29.03.2007 at income of Rs. Nil.	FAC
+Assesee is engaged in the manufacture of petbottles in Industrial area, Barotiwalan, district Solan Himachal Pradesh.ln the earlier years i.e; up to the AY 2004-05 , assessee was claiming deduction u/s 801B in respect of Industrial undertakimg.	FAC
+This year assessee claimed deduction u/s 80IC on the ground that he had undertaken substantial expansion in Plant & Machinery during F.Y.2004-05.	FAC
+In support of this claim, Assessee filed audit report u/s 80IC on Form No. IOCCB along with his Return of Income for AY 2005-2006 placed on record.	FAC
+                The claim of the assessee being in respect of manufacturing of pet bottles in the state of Himachal Pradesh ;pet bottles being an article specified in the Thirteenth Schedule (Sr. No. 20) Assessee was not entitled to deduction of Rs. 26,36,700/- u/s 80 IC despite which Assessee claimed deduction u/s 801C (Form No. 10 CCB), in col. 14(ii)(e)- "Does the undertaking or enterprise manufacture of produce any article or thing specified in the Thirteenth Schedule".        	FAC
+Assessee reported N.A."	FAC
+despite the fact that the claim of the Assessee being in respect of manufacturing of pet bottles being an article specified in the Thirteenth Schedule (Sr. N 20) , assessee was not entitled to deduction u/s 801C.	FAC
+Accordingly, I am satisfied that there is a failure on the part of the assessee to disclose fully or truly all material facts necessary for his assessment for the said assessment year and income chargeable to tax of Rs. 26,36,700/- has escaped assessment for the assessment year 2005-06 by reason of the failure on the part of the assessee to disclose fully or truly all material facts necessary for his assessment for his assessment for A.Y. 2005-06.I	FAC
+have therefore, reason to believe that the sum of Rs.26,36,700/- chargeable to tax has escaped assessment for the AY 2005-06 .	FAC
+Thus, the same is to be brought to tax under section 147/148 of the I.T. Act, 1961.                                                (K.K. MITRA) Income Tax Officer, WardNo.33(1), New Delhi.”	FAC
+It is apparent that in response to serial No. 14(ii)(e) of form No.10 CCB filed along with return, the petitioner/assessee had indicated- ‘NA’ meaning thereby that the same did not apply.	ARG_PETITIONER
+The question was whether the undertaking or enterprise manufactures or produces any article or thing specified in the 13th schedule.	ARG_PETITIONER
+5.      	ARG_PETITIONER
+It should be pointed out that by virtue of section 80-IC(2) of the said Act, the deduction thereunder is not to be given to an undertaking which manufactures any of the articles specified in the 13th schedule to the said Act.	ARG_PETITIONER
+6.      	ARG_PETITIONER
+Serial 20 of the 13th schedule to the Income-tax Act reads as under:- Activity or article Excise                  Sub-class under National or thing                 classification     Industrial Classification (NIC), 1998 xxx                      xxx                xxx 20.                      Plastics and       39.09 to 39.15 articles thereof	ARG_PETITIONER
+It is clear from the above that the plastics and articles which are referred to at serial No. 20 of the 13th schedule pertain to the goods falling within the excise classification in the range of 39.09 to 39.15.	ARG_PETITIONER
+The learned counsel for the petitioner submitted that the PET bottles manufactured by the petitioner fell within chapter 39 but under heading 39.23 and sub heading 3923.30.90.	ARG_PETITIONER
+The heading 3923.30 relates to ‘Carboys, bottles, flasks and similar articles’. Sub- heading 3923.30.10	ARG_PETITIONER
+refers to ‘insulated ware’ and 3923.30.90 refers to ‘other’. 	ARG_PETITIONER
+It is under this sub-heading that the PET bottles manufactured by the petitioner falls.	ARG_PETITIONER
+It was therefore pointed out by the learned counsel for the petitioner that the PET bottles manufactured by the petitioner do not fall within the articles specified in the 13th schedule to the said Act and therefore do not form part of the negative list in respect of which the deduction under section 80-IC cannot be claimed.	ARG_PETITIONER
+ 7.      It was pointed out further by the learned counsel for the petitioner that the only purported reason indicated for re-opening of the assessment was that the PET bottles manufactured by the petitioner were not entitled to deduction under section 80-IC because they fell within the serial No. 20 of the 13th schedule of the said Act.	ARG_PETITIONER
+ 8.      	ARG_PETITIONER
+The reasoning adopted in the two years for which the re-opening is being sought after four years from the end of the relevant assessment year was that since the petitioner had answered ‘Not Applicable’ with regard to serial No. 14(ii)(e) of form 10 CCB, the petitioner had failed to disclose full and true material facts necessary for his assessment.	ARG_PETITIONER
+Apart from this, the learned counsel for the petitioner also drew our attention to the assessment order dated 29.3.2007 pertaining to the assessment year 2005-06 wherein the assessing officer had allowed the deduction claimed by the petitioner and had specifically noted as under:- “the assessee has filed necessary evidences”	ARG_PETITIONER
+It was also pointed out by the learned counsel that prior to the completion of the assessment, several letters including the letters dated 27.12.2006, 13.03.2007 and 23.03.2007 had been written by the petitioner to the assessing officer explaining, inter alia, the claim for deduction under section 80-IC.	ARG_PETITIONER
+The learned counsel for the petitioner also drew our attention to the objections which were taken by the petitioner to the purported reasons for re-opening of the assessment.	ARG_PETITIONER
+In the objections the petitioner had specifically taken the plea that the 13th schedule of the said Act and, particularly, serial No. 20 thereof has been misrepresented by the revenue inasmuch as it has not realized that the product manufactured by the petitioner fell within the heading no. 39.23 and was therefore not in the negative list which dealt with articles falling within headings 39.09 to 39.15 of the Central Excise Classification.	ARG_PETITIONER
+Unfortunately this aspect of the matter has not been dealt with appropriately, if at all, by the assessing officer in the order dated 17.02.2012 rejecting the objections raised by the petitioner.	ARG_PETITIONER
+ 9.      We have also heard the learned counsel for the respondent who has supported the issuance of the notices as also the purported reasons and the order rejecting the objections.	ARG_RESPONDENT
+However, we are inclined to agree with the submissions made by the learned counsel for the petitioner.	ANALYSIS
+The entire sub- stratum of the notices issued under section 148 of the said Act is that the petitioner’s product namely PET bottles fall within the negative list stipulated in serial No. 20 of the 13th schedule of the said Act.	ANALYSIS
+We have noted the arguments of the learned counsel for the petitioner that the product manufactured by them falls under 3923.30.90 of the Central Excise Classification which is not within the range of products specified in serial No.20 of the 13th schedule of the said Act, that is, within headings 39.09 to 39.15.	ANALYSIS
+    Therefore clearly, the submission of the learned counsel for the petitioner is correct.	ANALYSIS
+The petitioner’s product does not fall within the negative list stipulated in the 13th schedule of the said Act.	ANALYSIS
+If that be the case, then, the answer given by the petitioner in serial No. 14(ii)(e) of form 10 CCB filed along with the return is not wrong, false or inaccurate.	ANALYSIS
+Therefore, the petitioner cannot be held to have failed to fully and truly disclose all material facts necessary for its assessment.	ANALYSIS
+ 10.      Insofar as the other assessment years are concerned where the issue of limitation of four years does not arise, the position would not be any different.	ANALYSIS
+ This would be so because on a reasonable interpretation of the provisions of section 80-IC(2) read with serial No. 20 of the 13th schedule of the said Act read with the first schedule to the Central Excise Tariff Act, 1985, it would be clear that the petitioner’s product does not fall within the negative list and therefore the petitioner had rightly claimed deduction under section 80-IC of the said Act which the assessing officer in the years in which the assessment had been completed under section 143(3) had allowed after examining the necessary evidence.	ANALYSIS
+Even in respect of the year in which there was no assessment order under section 143(3), that is, the assessment year 2007-08, we feel that the same cannot be re-opened because no reasonable person can be attributed with any reason to believe that income had escaped assessment when the petitioner’s product clearly does not fall within the negative list.	ANALYSIS
+Thus, in view of the established facts in this case, the assessing officer could not even have taken the prima facie view that there were reasons to believe that income had escaped assessment.	RATIO
+              Consequently, we feel that, in the facts and circumstances of this case, the issuance of notices under section 148 of the said Act was not warranted.	RATIO
+The said notices are quashed and all proceedings pursuant thereto are also quashed.	RPC
+11.     The writ petitions are allowed.	RPC
+All pending applications also stand disposed of.	RPC
+There shall be no orders as to costs.	RPC
+ BADAR DURREZ AHMED, J R.V.EASWAR, J FEBRUARY 18, 2013 kb	NONE

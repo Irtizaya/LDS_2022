@@ -1,0 +1,37 @@
+###24290286
+BACKGROUND	IgE sensitization to Aspergillus fumigatus and a positive sputum fungal culture result are common in patients with refractory asthma .
+BACKGROUND	It is not clear whether these patients would benefit from antifungal treatment .
+OBJECTIVE	We sought to determine whether a 3-month course of voriconazole improved asthma-related outcomes in patients with asthma who are IgE sensitized to A fumigatus .
+METHODS	Asthmatic patients who were IgE sensitized to A fumigatus with a history of at least 2 severe exacerbations in the previous 12 months were treated for 3 months with 200 mg of voriconazole twice daily , followed by observation for 9 months , in a double-blind , placebo-controlled , randomized design .
+METHODS	Primary outcomes were improvement in quality of life at the end of the treatment period and a reduction in the number of severe exacerbations over the 12 months of the study .
+RESULTS	Sixty-five patients were randomized .
+RESULTS	Fifty-nine patients started treatment ( 32 receiving voriconazole and 27 receiving placebo ) and were included in an intention-to-treat analysis .
+RESULTS	Fifty-six patients took the full 3 months of medication .
+RESULTS	Between the voriconazole and placebo groups , there were no significant differences in the number of severe exacerbations ( 1.16 vs 1.41 per patient per year , respectively ; mean difference , 0.25 ; 95 % CI , 0.19-0 .31 ) , quality of life ( change in Asthma Quality of Life Questionnaire score , 0.68 vs 0.88 ; mean difference between groups , 0.2 ; 95 % CI , -0.05 to -0.11 ) , or any of our secondary outcome measures .
+CONCLUSIONS	We were unable to show a beneficial effect of 3 months of treatment with voriconazole in patients with moderate-to-severe asthma who were IgE sensitized to A fumigatus on either the rate of severe exacerbations , quality of life , or other markers of asthma control .
+
+###24464531
+BACKGROUND	Opioid antagonists ( e.g. , naltrexone ) and positive modulators of - aminobutyric-acidA ( GABAA ) receptors ( e.g. , alprazolam ) modestly attenuate the abuse-related effects of stimulants like amphetamine .
+BACKGROUND	The use of higher doses to achieve greater efficacy is precluded by side effects .
+BACKGROUND	Combining naltrexone and alprazolam might safely maximize efficacy while avoiding the untoward effects of the constituent compounds .
+OBJECTIVE	The present pilot study tested the hypothesis that acute pretreatment with the combination of naltrexone and alprazolam would not produce clinically problematic physiological effects or negative subjective effects and would reduce the positive subjective effects of d-amphetamine to a greater extent than the constituent drugs alone .
+METHODS	Eight nontreatment-seeking , stimulant-using individuals completed an outpatient experiment in which oral d-amphetamine ( 0 , 15 , and 30 mg ) was administered following acute pretreatment with naltrexone ( 0 and 50 mg ) and alprazolam ( 0 and 0.5 mg ) .
+METHODS	Subjective effects , psychomotor task performance , and physiological measures were collected .
+RESULTS	Oral d-amphetamine produced prototypical physiological and stimulant-like positive subjective effects ( e.g. , VAS ratings of Active/Alert/Energetic , Good Effect , and High ) .
+RESULTS	Pretreatment with naltrexone , alprazolam , and their combination did not produce clinically problematic acute physiological effects or negative subjective effects .
+RESULTS	Naltrexone and alprazolam each significantly attenuated some of the subjective effects of d-amphetamine .
+RESULTS	The combination attenuated a greater number of subjective effects than the constituent drugs alone .
+CONCLUSIONS	The present results support the continued evaluation of an opioid receptor antagonist combined with a GABAA-positive modulator using more clinically relevant experimental conditions like examining the effect of chronic dosing with these drugs on methamphetamine self-administration .
+
+###24494594
+BACKGROUND	The sequencing of learning materials greatly influences the knowledge that learners construct .
+BACKGROUND	Recently , learning theorists have focused on the sequencing of instruction in relation to solving related problems .
+BACKGROUND	The general consensus suggests explicit instruction should be provided ; however , when to provide instruction remains unclear .
+OBJECTIVE	We tested the impact of conceptual instruction preceding or following mathematics problem solving to determine when conceptual instruction should or should not be delayed .
+OBJECTIVE	We also examined the learning processes supported to inform theories of learning more broadly .
+METHODS	We worked with 122 second - and third-grade children .
+METHODS	In a randomized experiment , children received instruction on the concept of math equivalence either before or after being asked to solve and explain challenging equivalence problems with feedback .
+RESULTS	Providing conceptual instruction first resulted in greater procedural knowledge and conceptual knowledge of equation structures than delaying instruction until after problem solving .
+RESULTS	Prior conceptual instruction enhanced problem solving by increasing the quality of explanations and attempted procedures .
+CONCLUSIONS	Providing conceptual instruction prior to problem solving was the more effective sequencing of activities than the reverse .
+CONCLUSIONS	We compare these results with previous , contrasting findings to outline a potential framework for understanding when instruction should or should not be delayed .

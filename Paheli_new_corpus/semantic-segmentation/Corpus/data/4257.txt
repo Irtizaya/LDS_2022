@@ -1,0 +1,135 @@
+                                                    1/11	PREAMBLE
+IN THE HIGH COURT OF KARNATAKA, BENGALURU
+         DATED THIS THE 4TH DAY OF JULY 2018
+                                  PRESENT
+
+      THE HON'BLE Dr.JUSTICE VINEET KOTHARI
+                                      AND
+
+          THE HON'BLE Mrs.JUSTICE S.SUJATHA
+                           I.T.A.No190/2016
+
+BETWEEN:
+
+1. PR. COMMISSIONER OF INCOME TAX-6
+         C.R. BUILDINGS, QUEENS ROAD
+         BANGALORE.	PREAMBLE
+2. DEPUTY DIRECTOR OF INCOME TAX
+         CIRCLE 12(3), BANGALORE.	PREAMBLE
+
+                                                                     ...APPELLANTS
+
+(By Mr. SANMATHI E.I. ADV.)
+
+AND:	PREAMBLE
+M/S. SOFTWARE AG BANGALORE
+	PREAMBLE
+TECHNOLOGIES	PREAMBLE
+PVT LTD.,	PREAMBLE
+
+EXORA BUSINESS PARK
+WING B, 1ST FLOOR,	PREAMBLE
+
+ELECTRA ,	PREAMBLE
+
+MARATHAHALLI  SARJAPUR
+
+                    M/s.	PREAMBLE
+Software AG Bangalore Technologies Pvt Ltd.,	PREAMBLE
+
+
+                          2/11	PREAMBLE
+
+
+OUTER RING ROAD
+BANGALORE-560 103.
+
+                                 ... RESPONDENT	PREAMBLE
+(By Ms. SUJATHA D, ADV., FOR
+      Mr. MALLAHA RAO K, ADV.,)
+
+         	PREAMBLE
+THIS I.T.A. IS FILED UNDER SECTION 260-A OF INCOME
+TAX ACT 1961, PRAYING TO DECIDE THE FOREGOING
+QUESTIONS OF LAW AND/OR SUCH OTHER QUESTIONS OF
+LAW AS MAY BE FORMULATED BY THE HON'BLE COURT AS
+DEEMED FIT AND SET ASIDE THE APPELLATE ORDER DATED
+04/09/2015 PASSED BY THE ITAT, `B' BENCH, BENGALURU, AS
+SOUGHT FOR, IN THE RESPONDENT-ASSESSEE'S CASE, IN
+APPEL PROCEEDINGS IN IT(TP)A No.1291/Bang/2014 FOR A.Y.
+2009-10 ANNEXURE-A & GRANT SUCH OTHER RELIEF AS
+DEEMED FIT, IN THE INTERST OF JUSTICE.	PREAMBLE
+
+
+         THIS I.T.A. COMING ON FOR HEARING, THIS DAY
+DR. VINEET KOTHARI J. DELIVERED THE FOLLOWING:-
+
+        M/s.	PREAMBLE
+Software AG Bangalore Technologies Pvt Ltd.,	PREAMBLE
+
+
+               3/11	PREAMBLE
+
+
+       JUDGMENT	PREAMBLE
+
+ Mr. Sanmathi E.I. Adv. for Appellants-Assessee Ms. Sujatha D, Adv. for Mr. Mallaha Rao K, Adv. for Respondent - Revenue	NONE
+The Appellants-Revenue have filed this appeal u/s.260A of the Income Tax Act, 1961, raising purportedly certain substantial questions of law arising from the order of the ITAT, `B' Bench, Bangalore, dated	FAC
+ 04.09.2015	FAC
+ passed                           in IT(TP)A No.1291/Bang/2014 (M/s. Software AG Bangalore Technologies Pvt. Ltd., vs. The Deputy Commissioner of Income Tax) for A.Y.2009-10.	FAC
+
+ 2. The proposed substantial questions of law framed in the Memorandum of appeal by the Appellants-Revenue are quoted below for ready reference:- "(1) Whether on the facts and in the circumstances of the case, the Tribunal was justified in law as well as facts in directing the M/s. Software AG Bangalore Technologies Pvt Ltd., 4/11 TPO to apply the same principles as emerging from the orders of the Delhi & Bangalore Benches of Tribunal in the case of SAP Labs India Pvt. Ltd., & Haworth India Pvt. Ltd.,?	FAC
+
+ (2) Whether on the facts and in the circumstances of the case, the Tribunal was justified in holding that the size and turnover of the company are deciding factors for treating a company as a comparable and consequently erred in excluding 02 companies, out of 11 companies as comparables in the case of the assessee?
+ (3) Whether on the facts and in the circumstances of the case, the Tribunal was justified in holding that few companies are functionally different from the assessee when it satisfies all the qualitative and quantitative filters applied by the TPO.	FAC
+The tribunal had used a narrower functionality filter than the TPO, but had not tested other comparables against the narrower functionality filter applied by it.?"
+ (4) Whether on the facts and in the circumstances of the case, the Tribunal was justified in law in directing the Assessing Officer to exclude reimbursement of certain expenditure M/s.	FAC
+Software AG Bangalore Technologies Pvt Ltd., 5/11 incurred in foreign currency, both from the Export Turnover and Total Turnover, without appreciating the fact that the statue allows exclusion of such expenditure expressly only from the Export Turnover by way of specific definition of export turnover defined in the Act, while there is no specific provision is Section 10A warranting exclusion of the above expenses from the Total Turnover?"	FAC
+
+ 3. The appeal was ADMITTED by the cognate bench of this Court on 31.10.2017 on the following substantial question of law Nos.1 to 3: "(1) Whether on the facts and in the circumstances of the case, the Tribunal was justified in law as well as facts in directing the TPO to apply the same principles as emerging from the orders of the Delhi & Bangalore Benches of Tribunal in the case of SAP Labs India Pvt. Ltd., & Haworth India Pvt. Ltd.,?
+ (2) Whether on the facts and in the circumstances of the case, the Tribunal was justified in holding that the size and turnover of the company are deciding factors for treating a M/s.	ISSUE
+Software AG Bangalore Technologies Pvt Ltd., 6/11 company as a comparable and consequently erred in excluding 02 companies, out of 11 companies as comparables in the case of the assessee?	ISSUE
+
+ (3) Whether on the facts and in the circumstances of the case, the Tribunal was justified in holding that few companies are functionally different from the assessee when it satisfies all the qualitative and quantitative filters applied by the TPO.	ISSUE
+The tribunal had used a narrower functionality filter than the TPO, but had not tested other comparables against the narrower functionality filter applied by it.?"	ISSUE
+
+ 4. The learned Tribunal, after discussing the rival contentions of both the Appellants-Revenue and the Respondent-assessee, has given the following findings against Revenue with regard to various issues raised before it with regard to `Transfer Pricing' and `Transfer Pricing Adjustments' made by the concerned authorities below.	ANALYSIS
+We consider it appropriate to quote the relevant portions hereunder: M/s. Software AG Bangalore Technologies Pvt Ltd., 7/11 "21.	ANALYSIS
+We have considered the submissions of the ld. counsel for the assessee and are of the view that in the light of judicial precedent cited by the ld. counsel for the assessee, turnover filter has to be applied in the present case.	ANALYSIS
+The assessee's turnover is Rs.32.84 crores and the assessee cannot be compared with a company whose turnover is more than 200 crores as laid down in the decision referred to above.	ANALYSIS
+Following the aforesaid decision, we hold that the aforesaid 5 companies be excluded from the list of comparable companies.	ANALYSIS
+
+ 22. The ld. counsel then brought to our notice that Bodhtree Consulting Ltd. and KALS Information Systems Ltd. have been held to be functionally not comparable with a company like the assessee, which is purely a software development service provider.	ANALYSIS
+In this regard, the ld. counsel for the assessee drew our attention to the ITAT Bangalore Bench decision in the case of CISCO Systems India Pvt. Ltd., IT(TP)A No.271/Bang/2014, order dated 14.8.2014.	ANALYSIS
+In this case for the AY 2009-10, the Tribunal M/s. Software AG Bangalore Technologies Pvt Ltd., 8/11 considered the comparability of Bodhtree Consulting Ltd. as well as KALS Information Systems Ltd, with a company engaged in the business of software development services.	ANALYSIS
+
+Following were the relevant observations of the Tribunal:- xxxxx 23.	ANALYSIS
+Following the aforesaid decision of the Tribunal in the case of an assessee similarly placed with that of the assessee in the present case, we are of the view that Bodhtree Consulting Ltd. and KALS Information Systems Ltd. should be excluded from the list of comparable companies for the purpose of determining the ALP.	ANALYSIS
+It is also relevant to point out that in the case of CISCO Systems India Pvt. Ltd. (supra), the very same 11 companies had been chosen by the TPO as comparables, thereby making it clear that the assessee in the present case and CISCO Systems India Pvt. Ltd. have the same business profile."	ANALYSIS
+
+ 5. This Court in ITA No.536/2015 C/w ITA No.537/2015  delivered  on  25.06.2018 M/s.	PRE_RELIED
+Software AG Bangalore Technologies Pvt Ltd., 9/11 (Prl. Commissioner of Income Tax & Anr. Vs.
+ M/s.	PRE_RELIED
+Softbrands	PRE_RELIED
+India Pvt	PRE_RELIED
+. Ltd.,)	PRE_RELIED
+has held that in these type of cases, unless an ex-facie perversity in the findings of the learned Income Tax Appellate Tribunal is established by the appellant, the appeal at the instance of an assessee or the Revenue under Section 260-A of the Act is not maintainable and the relevant portion of the said judgment is quoted below for ready reference:	PRE_RELIED
+" Conclusion: 55. A substantial quantum of international trade and transactions depends upon the fair and quick judicial dispensation in such cases.	PRE_RELIED
+Had it been a case of substantial question of interpretation of provisions of Double Taxation Avoidance Treaties (DTAA), interpretation of provisions of the Income Tax Act or Overriding Effect of the Treaties over the Domestic Legislations or the questions like Treaty Shopping, Base Erosion and Profit Shifting (BEPS), Transfer of Shares in Tax Havens (like in the case of Vodafone etc.), if based on relevant facts, such substantial questions of law could be raised before the High Court under Section M/s.	PRE_RELIED
+Software AG Bangalore Technologies Pvt Ltd., 10/11 260-A of the Act, the Courts could have embarked upon such exercise of framing and answering such substantial question of law.	PRE_RELIED
+On the other hand, the appeals of the present tenor as to whether the comparables have been rightly picked up or not, Filters for arriving at the correct list of comparables have been rightly applied or not, do not in our considered opinion, give rise to any substantial question of law.	PRE_RELIED
+
+ 56. We are therefore of the considered opinion that the present appeals filed by the Revenue do not give rise to any substantial question of law and the suggested substantial questions of law do not meet the requirements of Section 260-A of the Act and thus the appeals filed by the Revenue are found to be devoid of merit and the same are liable to be dismissed.
+ 57.	PRE_RELIED
+We make it clear that the same yardsticks and parameters will have to be applied, even if such appeals are filed by the Assessees, because, there may be cases where the Tribunal giving its own reasons and findings has found certain comparables to be good comparables to arrive at an `Arm's Length Price' in the case of the assessees with which the assessees may not be satisfied and have filed M/s.	PRE_RELIED
+Software AG Bangalore Technologies Pvt Ltd., 11/11 such appeals before this Court.	PRE_RELIED
+Therefore we clarify that mere dissatisfaction with the findings of facts arrived at by the learned Tribunal is not at all a sufficient reason to invoke Section 260-A of the Act before this Court.	PRE_RELIED
+
+ 58. The appeals filed by the Revenue are therefore dismissed with no order as to costs."	PRE_RELIED
+
+ 6. Having heard the learned counsel for the appellants-Revenue, we are therefore of the opinion that no substantial question of law arises in the present case.	RATIO
+The appeal filed by the Appellants-Revenue is liable to be dismissed and it is dismissed accordingly.	RPC
+
+No costs.	RPC
+
+ Sd/- JUDGE Sd/- JUDGE TL	NONE

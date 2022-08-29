@@ -1,0 +1,63 @@
+$~26
+*       IN THE HIGH COURT OF DELHI AT NEW DELHI	ANALYSIS
+Decided on: 15th May, 2017	ANALYSIS
+
++       W.P. (CRL.) 1021/2013
+
+        DEPARTMENT OF CUSTOMS              	ANALYSIS
+..... Petitioners
+                	ANALYSIS
+Through: Mr. Satish Aggarwala, Advocate with
+                         Ms. Pooja Bhaskar, Advocate
+
+                         versus
+
+        RAM MOHAN GULATI & ORS.           ..... Respondents
+               Through: Respondents in person.
+
+CORAM:
+HON'BLE MR. JUSTICE R.K.GAUBA
+
+                            ORDER (ORAL) 	ANALYSIS
+1.      The department of customs (petitioner), had statedly seized “worn clothes” from seven godowns in March, 2007 and in the wake of investigation carried out filed a criminal complaint, pending in the court of Additional Chief Metropolitan Magistrate (ACMM), New Delhi, on 03.07.2008 against four persons.	FAC
+An application was moved on 04.07.2011 praying for an inventory to be prepared of the seized items under Section 110 (1B) of the Customs Act, 1962.	FAC
+The said application addressed to the ACMM was made over to a Metropolitan Magistrate.	FAC
+By order dated 26.03.2013, the Metropolitan Magistrate dismissed it giving liberty to the applicant (the petitioner) to pursue the matter in an appropriate forum referring in this context to the judgment dated 21.02.2013 of a learned Single Judge of this Court in Crl.M.C. 526/2013 titled Directorate of Revenue Intelligence vs. State.	FAC
+
+It is the said order of the Metropolitan Magistrate which is sought to be assailed by the Department of Customs through the petition at hand.	FAC
+
+ 2.      Section 110 of the Customs Act, 1962 reads as under:- 110. Seizure of goods, documents and things. – (1) If the proper officer has reason to believe that any goods are liable to confiscation under this Act, he may seize such goods;: Provided that where it is not practicable to seize any such goods, the proper officer may serve on the owner of the goods an order that he shall not remove, part with, or otherwise deal with the goods except with the previous permission of such officer.
+ (1A) The Central Government may, having regard to the perishable or hazardous nature of any goods, depreciation in the value of the goods with the passage of time, constraints of storage space for the goods or any other relevant considerations, by notification in the Official Gazette, specify the goods or class of goods which shall, as soon as may be after its seizure under sub-section (1), be disposed of by the proper officer in such manner as the Central Government may, from time to time, determine after following the procedure hereinafter specified.	STA
+
+ (1B) Where any goods, being goods specified under sub- section (1A), have been seized by a proper officer under sub- section (1), he shall prepare an inventory of such goods containing such details relating to their description, quality, quantity, mark, numbers, country of origin and other particulars as the proper officer may consider relevant to the identity of the goods in any proceedings under this Act and shall make an application to a Magistrate for the purpose of – (a) certifying the correctness of the inventory so prepared; or (b) taking, in the presence of the Magistrate, photographs of such goods, and certifying such photographs as true; or (c) allowing to draw representative samples of such goods, in the presence of the Magistrate, and certifying the correctness of any list of samples so drawn.
+ (1C) Where an application is made under sub-section (1B), the Magistrate shall, as soon as may be, allow the application.
+ (2) Where any goods are seized under sub-section (1) and no notice in respect thereof is given under clause (a) of section 124 within six months of the seizure of the goods, the goods shall be returned to the person from whose possession they were seized: Provided that the aforesaid period of six months may, on sufficient cause being shown, be extended by the Commissioner of Customs for a period not exceeding six months.	STA
+
+ (3) The proper officer may seize any documents or things which, in his opinion, will be useful for, or relevant to, any proceeding under this Act.	STA
+
+ (4) The person from whose custody any documents are seized under sub-section (3) shall be entitled to make copies thereof or take extracts therefrom in the presence of an officer of customs.” 3.       	STA
+Noticeably, the seizure of goods, documents or things under Section 110 of the Customs Act, 1962 is made by a proper officer who is duly empowered to take such action in law.	ANALYSIS
+At the time of seizure, the said proper officer is expected to prepare an inventory of the goods seized, such inventory to contain all requisite details including their description, quality, quantity, marks, numbers, country of origin and other particulars relevant to their identity.	ANALYSIS
+The provisions contained in sub-Section (1B) and (IC) of the Section 110 of the Customs Act, 1962 enjoin upon the Magistrate before whom an application thereunder is made to allow the same as soon as possible, he having three courses open to him.	ANALYSIS
+He can either certify the correctness of the inventory so prepared or have photographs of the seized goods taken in his presence and certify such photographs as true or he may allow representative samples to be drawn in his presence and, thereafter, certify the correctness of list of samples thus drawn.	ANALYSIS
+
+ 4.       The expression “Magistrate” is not defined in the Customs Act, 1962.	ANALYSIS
+It, therefore, has to be understood with reference to the nature of the proceedings entrusted by the afore-quoted provisions.	ANALYSIS
+
+ 5.       For present purposes, Section 3(4) of the Code of Criminal Procedure, 1973 (Cr.P.C.) provides the necessary guidelines, it reads thus:- “3. Construction of references.- (1) In this Code, - XXX (4)	STA
+Where, under any law, other than this Code, the function exercisable by a Magistrate relate to matters- (a) which involve the appreciation or sifting of evidence or the formulation of any decision which exposes any person to any punishment or penalty or detention in custody pending investigation, inquiry or trial or would have the effect of sending him for trial before any Court, they shall, subject to the provisions of this Code, be exercisable by a Judicial Magistrate; or (b) which are administrative or executive in nature, such as, the granting of a license, the suspension or cancellation of a license, sanctioning a prosecution or withdrawing from a prosecution, they shall, subject as aforesaid, be exercisable by an Executive Magistrate.”	STA
+6.      	ANALYSIS
+There can be no doubt as to the fact that the proceedings of the above nature are not adjudicatory so as to involve appreciation or sifting of evidence or formulating any decision which might expose any person to any punishment or penalty or detention in custody or to put him on trial before any court.	ANALYSIS
+The preparation of an inventory at the time of seizure is a step in investigation by the customs authorities under the Customs Act, 1962.	ANALYSIS
+The objective of the proceedings envisaged in sub-Section (1B) and sub-Section (1C) of Section 110 is to have reconfirmation of the correctness of such inventory and, if possible, to de-burden the investigating agency of the responsibility of retaining the entire goods thus seized and, instead, to preserve only what is absolutely necessary which may be in the form of photographs of the goods or their representative samples.	ANALYSIS
+This is clear, inter alia, from the further provisions contained in other clauses of Section 110 as also by Section 110-A of the Customs Act, 1962.	ANALYSIS
+
+ 7.      In above view of the matter, the exercise of certification of the correctness of the inventory or taking of photographs of the seized goods or drawing representative samples can be nothing but an exercise which is administrative or executive in nature within the meaning of clause (b) of sub-Section (4) of Section 3 Cr.P.C.
+Therefore, the word “Magistrate” appearing in Section 110 (IB) and (1C) of the Customs Act, 1962 must be interpreted so as to be read as a reference to an Executive Magistrate and not to a Judicial Magistrate or a Metropolitan Magistrate.
+ 8.      A view to above effect taken by Gujarat High Court in Assistant Collector of Customs vs. Surender Praggar Gosain & Anr., (1988) 1 GLR 421 was adopted by a learned Single Judge of this court in Crl.M.C. No.526/2013, titled Directorate of Revenue Intelligence vs.
+State, decided on 21.02.2013.	PRE_RELIED
+      A contrary view taken by another learned Single Judge of this court in Crl. Misc. (Main) No.2484/1998, titled Department of Customs vs. Parvinder Kaur, decided on 24.08.2000 was apparently per incuriam and does not commend to be the correct approach for the reason the matter was not examined there in light of provision contained in Section 3(4) Cr.P.C.	PRE_RELIED
+For the foregoing reasons, the petition is devoid of substance and is accordingly dismissed.	RPC
+
+ R.K.GAUBA, J.
+MAY 15, 2017 vk	NONE

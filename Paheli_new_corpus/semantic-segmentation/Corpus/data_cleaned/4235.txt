@@ -1,0 +1,60 @@
+PETITIONER:          1952 SCR 202BIJJOY CHAND POTRA              Vs.	PREAMBLE
+RESPONDENT:THE STATE	PREAMBLE
+DATE OF JUDGMENT:14/12/1951	PREAMBLE
+BENCH:FAZAL ALI, SAIYIDBENCH:FAZAL ALI, SAIYIDBOSE, VIVIANCITATION: 1952 AIR 105ACT:       Criminal Procedure Code (Act V of 1898), ss.237,342--Indian Penal Code (XLV of 1860), ss. 307,326--Charge under s. 307-Conviction under s. 326--Legality--Failure to examine accused fully --When vitiatestrial--Necessity of prejudice to accused.HEADNOTE:       The appellant who inflicted serious injuries on anotherwas charged under s. 307 of the Indian Penal Code but thejury returned a verdict of guilty against him under s. 326of the Penal Code, and the Sessions Judge, accepting theverdict	PREAMBLE
+, convicted him under s. 326.	PREAMBLE
+It was contended thatthe conviction was illegal inasmuch as the offence under s.326 was not a minor offence with reference to the offenceunder s. 307.	PREAMBLE
+Held, that as it was open to the SessionsJudge, on the facts of the case, to charge the appellantalternatively under ss. 307 and 326 of the Code the case wascovered by s. 237 of the Criminal Procedure Code, and theconviction under s. 328 of the Penal Code was proper, eventhough there was no charge under the section. Begu v. KingEmperor (52 I.A. 191) applied.       	PREAMBLE
+In order that a conviction may be set aside for non-compliance with the provisions of s. 342 of the CriminalProcedure Code, it is not sufficient for the accused merelyto show that he was not fully examined as required by thesection, but he must also show that such examination hasmaterially prejudiced him.	PREAMBLE
+JUDGMENT:	PREAMBLE
+       CRIMINAL APPELLATE JURISDICTION:	NONE
+Criminal Appeal No. 30 of 1951.	NONE
+Appeal from the Judgment and Order of the High Court of Calcutta (HARRIES C.J. and LAHIRI J.) dated 15th June, 1950, in Criminal Appeal No. 71 of 1950 and Revision No. 295 of 1950.	NONE
+ S.N. Mukherjee, for the appellant.	NONE
+ B. Sen, for the respondent.	NONE
+ 1951.	NONE
+December 14.	NONE
+The Judgment of the Court was deliv- ered by FAZL ALI J.--	NONE
+This is an appeal against the judgment of the High Court at Calcutta upholding the order of the Ses- sions Judge of Midnapore convicting the appellant under section 326 of the Indian Penal Code and sentencing him to 3 years' rigorous imprisonment.	FAC
+ The prosecution case against the appellant may be short- ly stated as follows:--The appellant and the injured person, Kurnad Patra, are first cousins, and they live in a village called Andaria, their houses being only 3 or 4 cubits apart from each other.	FAC
+They had a dispute about a pathway adjoin- ing their houses, which led to a tank, and they quarrelled about it on the 11th July, 1949.	FAC
+Two days later, on the lath July, when Kumad Patra was washing his hands at the brink of the village tank, the appellant came from behind and inflicted on him 17 injuries.	FAC
+with the result that two of his fingers had to be amputated and a piece of bone had to be extracted from his left thumb.	FAC
+The police being informed, started investigation and submitted a charge-sheet against the appellant who was finally committed to the Court of Sessions and tried by the Sessions Judge and a jury.	FAC
+He was charged under section 307 of the Indian Penal Code, but the jury returned a verdict of guilty against him under section 326 of the Penal Code, and the learned Sessions Judge accepting the verdict convicted him under that section as aforesaid.	FAC
+When the matter came up in appeal to the High Court, a rule was issued on the appellant calling upon him to show cause why his sentenceshould not be enhanced, but, at the final hearing, the rule was discharged, his appeal was dismissed, and his conviction and the original sentence were upheld.	FAC
+ The first point urged on behalf of the appellant before us is that, inasmuch as there was no charge under section 326 of the Penal Code and the offence under that section was not a minor offence with reference to an offence under section 307 of the Code, he could not have been convicted under the former section.	ANALYSIS
+This argument however overlooks the provisions of section 237 of the Criminal Procedure Code.	ANALYSIS
+That section, after referring to section 236 which provides that alternative charges may be drawn up against an accused person where it is doubtful which of several of- fences the facts which can be proved will constitute, states as follows :-- "If ......... the accused is charged with one offence, and it appears in evidence that he committed a different offence for which he might have been charged under the provisions of that section, he may be convicted of the offence which he is shown to have committed, although he was not charged with it." 	STA
+There can be no doubt that on the facts of this case, it was open to the Sessions Judge to charge the appellant alternatively under sections 307 and 326 of the Penal Code.	ANALYSIS
+The case therefore clearly falls under section 237 of the Criminal Procedure Code and the appellant's conviction under section 326 of the Penal Code was proper even in the absence of a charge.	ANALYSIS
+ In Begu v. The King Emperor (1) the Privy Council had to deal with a case where certain persons were charged under section 302 of the Penal Code, but were convicted under section 201 for causing the disappearance of evidence.	PRE_RELIED
+Their Lordships upheld the conviction, and while referring to section 237 of the Criminal Procedure Code, they ob- served:-- "A man may be convicted of an offence, although there has been no charge in respect of it, if the evidence is such as to establish a charge that might have (1) (1925) 52 I.A. 191,been made ......	PRE_RELIED
+Their Lordships entertain no doubt that the procedure was a proper procedure and one warranted by the Code of Criminal Procedure."	PRE_RELIED
+The second point urged on behalf of the appellant is that the High Court having issued a rule for the enhancement of the sentence, he should have been allowed to argue the merits of the case which he was not allowed to do.	ANALYSIS
+The learned counsel for the appellant was not, however, able to show that even if it was open to him to argue on the merits of the case the decision would have been otherwise.	ANALYSIS
+Only three contentions were put forward by him, these being :-- (1) that several material witnesses were not examined; (2.) that the appellant's case was not placed before the jury in a fair manner; and (3) that there was no proper examination of the appel- lant under section 342 of the Criminal Procedure Code.	ANALYSIS
+       We have examined these contentions and find that they are entirely without merit.	ANALYSIS
+In urging his first contention, the learned counsel stated that though it was admitted that several persons have got houses to the east, north and north-west of the tank where the occurrence is alleged to have taken place, they have not been examined by the prose- cution.	ANALYSIS
+He further argued that one Sarat Chandra Ghose, who was present at the house of the accused when it was searched, has also not been examined.	ANALYSIS
+These arguments however have very little force, since there is no evidence to show that those persons had seen the occurrence, an d they also do not take note of the fact that such evidence as has been adduced by the prosecution, if believed, was suffi- cient to support the conviction of the appellant.	ANALYSIS
+The Ses- sions Judge in his charge to the jury referred specifically to the very argument urged before us, and he told 'the jurors that if they thought it fit it was open to them to draw an inference against the prosecution.	ANALYSIS
+There can be no doubt that the jurors were206 properly directed on the point and they evidently thought that the evidence before them was sufficient for convicting the appellant.	ANALYSIS
+       The second contention urged on behalf of the appellant relates to his defence, which, briefly stated, was that Kumad Patra, the injured man, entered his house during his temporary absence, went to the bedroom of his wife, who was a young lady, and committed indecent assault on her and was assaulted in these circumstances.	ANALYSIS
+This story was not sup- ported by any evidence but was merely suggested in cross- examination, and the Sessions Judge while referring to it in his charge to the jury, observed:-- ''If I were left alone, I would not have believed the defence version.	ANALYSIS
+But you are not bound to accept my opin- ion, nor you should be influenced by it	ANALYSIS
+It is for you to decide whether you will accept the defence suggestion in favour of which there is no such positive evidence."       	ANALYSIS
+The Sessions Judge undoubtedly expressed himself some- what strongly with regard to the defence suggestion, but he coupled his observations, which we think he was entitled to make, with an adequate warning to the jurors that they were not bound to accept his opinion and should not be influenced by it.	ANALYSIS
+The defence version was rejected by the jury, and there can be no doubt that on the materials on the record it would have been rejected by any court of fact.	ANALYSIS
+ The last contention put forward by the learned counsel for the appellant was that he was not examined as required by law under section 342 of the Criminal Procedure Code.	ANALYSIS
+It appears that three questions ware put to the appellant by the Sessions Judge after the conclusion of the prosecution evidence.	ANALYSIS
+In the first question, the Sessions Judge asked the appellant what his defence was as to the evidence ad- duced, against him; in the second question, the Judge re- ferred to the dispute about the pathway and asked the appel- lant whether he had inflicted injuries on Kumad Patra; and in the third question, the appellant was asked.whether he would adduce any evidence.	ANALYSIS
+The facts of the case being free from any complications and the points in issue being simple, we find it difficult to hold that the examina- tion of the appellant in this particular case was not ade- quate.	ANALYSIS
+To sustain such an argument as has been put forward, it is not sufficient for the accused merely to show that he has not been fully examined as required by section 342 of the Criminal Procedure Code, but he must also show that such examination has materially prejudiced him.	ANALYSIS
+In the present case, it appears that the point urged here was not raised in the grounds of appeal to the High Court, nor does it find a place in the grounds of appeal or in the statement of case filed in this court.	RATIO
+It has nowhere been stated that the accused was in any way prejudiced, and there are no materi- als before us to hold that he was or might have been preju- diced.	RATIO
+We have read the Sessions Judge's charge to the jury, which is a very fair and full charge, and nothing has been shown to us to justify the conclusion that the verdict of the jury should not have been accepted.	RATIO
+The appeal accordingly fails and is dismissed.	RPC
+ Appeal dismissed.	RPC
+Agent for the appellant: P.K. Chatterji.	NONE
+Agent for the respondent: I. N. Shroff for P.K. Bose.	NONE

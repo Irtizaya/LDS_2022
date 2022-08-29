@@ -1,0 +1,112 @@
+PETITIONER:VEERA IBRAHIMVs.RESPONDENT:STATE OF MAHARASHTRADATE OF JUDGMENT18/03/1976BENCH:SARKARIA, RANJIT SINGH	PREAMBLE
+BENCH:SARKARIA, RANJIT SINGHUNTWALIA, N.L.CITATION:               1976 SCR (3) 672 1976 AIR 1167 1976 SCC (2) 302ACT:         Constitution of India, Art 20(3), conditions forapplicability of, whether enquiry is `accusation' within themeaning of-Evidence Act, S 24, when attracted-What amountsto `confession' under S. 24.HEADNOTE:         A truck was seized with its content of contraband goodsfor foreign make, on which no duty had been paid.	PREAMBLE
+Theappellant who was in charge of the goods, was arrested whileescaping from the truck and Rs. 2000/- were seized from him.	PREAMBLE
+His statement was recorded under S. 108, Customs Act, 1962.	PREAMBLE
+The appellant and the driver of the truck. were convicted bythe Trial Court under Ss. 135 (a) and 135 (b) of the CustomsAct. 1962, and S. 5 of the Imports & Exports (Control) Act,1947.	PREAMBLE
+The High Court upheld their conviction under S. 135(a) of the Customs Act, and acquitted them of the othercharges.	PREAMBLE
+In appeal by leave granted under Art. 134(1) (c) of theConstitution, the appellant contended before this Court thathis statement taken under S. 108, Customs Act, could not beused against him; firstly, as it was hit by Art. 20(3) ofthe Constitution on account of its having been taken whilehe was already an `accused' under S. 124, Bombay Police Act,and secondly.	PREAMBLE
+it was barred under S. 24, Evidence Act, thesame being a confession obtained under compulsion of law.	PREAMBLE
+Itwas also contended that in the absence of the requisitenotification under S. 123(2), Customs Act, the statutorypresumption under S. 123 could not be invoked by theprosecution, and without the same, the facts of the casewere insufficient to establish an offence against theappellant under S. 135, Customs Act.	PREAMBLE
+         Dismissing the appeal, the Court	PREAMBLE
+,^         HELD: (1) To claim the benefit of the guarantee againsttestimonial compulsion embodied in clause (3) of Art. 20, itmust be shown, firstly, that the person who made thestatement was `accused of any offence', secondly, that hemade this statement under compulsion.	PREAMBLE
+Only a person againstwhom a formal accusation relating to the commission of anoffence has been levelled would fall within its ambit.	PREAMBLE
+[674C-D]         R.C. Mehta v. State of West Bengal, [1969] 2 S.C.R.461, applied.         (2) To attract the prohibition enacted in S. 24Evidence Act, these facts must be established.                  (i)	PREAMBLE
+that the statement in question is a	PREAMBLE
+                           confession;	PREAMBLE
+(ii) that such confession has been made by an	PREAMBLE
+                           accused person;	PREAMBLE
+(iii)that it has been made to a person in                           authority;                  (iv)	PREAMBLE
+that the confession has been obtained by	PREAMBLE
+                           reason of any inducement threat or promise                           proceeding from a person in authority.	PREAMBLE
+                  (v)	PREAMBLE
+Such inducement, threat or promise, must have                           reference to the charge against the accused                           person;                  (vi)	PREAMBLE
+The inducement, threat or promise must in the                           opinion of the Court be sufficient to give                           the accused person ground, which would appear                           to him reasonable, for supposing that by                           making it he would gain any advantage or                           avoid any evil of temporal nature in                           reference to the proceedings against him.                           [676F-H, 677A]         (3)	PREAMBLE
+A statement in order to amount to a `confession'must either admit in terms the offence, or at any ratesubstantially all the facts which constitute the offence.	PREAMBLE
+Anadmission of an incriminating fact, however grave, is not byitself a confession.	PREAMBLE
+A statement which contains anexculpatory assertion of some fact, which if true, wouldnegative the offence alleged, cannot amount to a`confession'.	PREAMBLE
+[677A-C	PREAMBLE
+]         Pakala Narayana v. R. 66 I. A. 66 Palvinder kaur v.State of Punjab [1953] S.C.R. 94, Om Prakash v. State,A.I.R. 1960 S.C. 409, referred to.	PREAMBLE
+JUDGMENT:	PREAMBLE
+         CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No. 234 of 1971.	NONE
+From the Judgment and order dated the 26-3-71 of the Bombay High Court at Bombay in Criminal Appeal No. 1434 of 1970.	NONE
+ K. R. Chaudhury and K. Rajendra Chaudhury for the Appellant.	NONE
+ H. R. Khanna and M. N. Shroff for Respondent.	NONE
+         The Judgment of the Court was delivered by SARKARIA, J.-	NONE
+Veera Ibrahim, appellant was accused No. 2 in the complaint filed by Assistant Collector of Customs, Preventive Department, Bombay before the Chief Presidency Magistrate for his prosecution along with one Abdul Umrao Rauf, accused No. 1, in respect of offences under ss. 135(a) and 135(b) of the Customs Act, 1962 and s. S of the Imports and Exports (Control) Act 1947.	FAC
+The trial Magistrate convicted both the accused on all the three charges and sentenced them to two years rigorous imprisonment on each count with a direction that the sentences would run concurrently.	RLC
+Against that judgment, two separate appeals were filed by the convicts in the Bombay High Court which acquitted both the accused of the offences under s. 5 of the Imports and Exports (Control) Act, 1947 and under s. 135(b) of the Customs Act, but maintained their conviction on the charge under s. 135(a) of that Act reducing the sentence to one years rigorous imprisonment,	FAC
+The High Court, however, granted a certificate under Article 134(1) (c) of the Constitution, on the basis of which, this appeal has been filed.	FAC
+ The main question with reference to which the certificate was granted by the High Court, was: whether s.108 of the Customs Act, 1962 is ultra vires the provisions of cl. (3) of Article 20 of the Constitution ?	ISSUE
+But Mr.Chaudhry, appearing for the appellant, does not press this question now before us.	ANALYSIS
+The first contention canvassed by the Counsel is that on the facts and circumstances of the case, the appellant's statement recorded under s. 108 of the Customs Act 1962, on the foot of which the appellant has been convicted, was hit by clause (3) of Article 20 because at the time of making that statement, the appellant was "accused of any offence"under s. 124 of the Bombay Police Act, and the statement was obtained under compulsion of law.	ARG_PETITIONER
+Stress has been placed on the fact that the appellant was, in fact, arrested by the police on a charge under s. 124 of the Bombay Police Act and the goods were seized under a Panchnama, prepared by them in the course of investigation.	ARG_PETITIONER
+In this connection, reference has been made toM. P. Sharma and Ors. v. Satish Chandra, District Magistrate, Delhi and	ARG_PETITIONER
+Ors.(1)	ARG_PETITIONER
+On the other hand, Mr. H. R. Khanna, appearing for the respondent submits that the words "accused of any offence"occurring in Art. 20(3) take in only that person against whom a formal accusation of an offence has been levelled.	ARG_RESPONDENT
+Two other conditions for the applicability of this Clause, according to the Counsel, are: (a) that the testimony in question had been obtained under compulsion, and (b) it relates to the offence of which he stands formally accused.	ARG_RESPONDENT
+These conditions, it is maintained, were not fulfilled in the present case.	ANALYSIS
+ Clause (3) of Article 20 provides: "No person accused of any offence shall be compelled to be a witness against himself".	STA
+         From an analysis of this clause, it is apparent that in order to claim the benefit of the guarantee against testimonial compulsion embodied in this clause, it must be shown, firstly, that the person who made the statement was "accused of any offence" secondly, that he made this statement under compulsion.	ANALYSIS
+The phrase "accused of any offence" has been the subject of several decisions of this Court so that by now it is well settled that only a person against whom a formal accusation relating to the commission of an offence has been levelled which in the normal course may result in his prosecution, would fall within its ambit.	ANALYSIS
+In R. C. Mehta v. State of West Bengal, this point came up for consideration in the context of a statement recorded by an officer of Customs in an enquiry under s. 171-A of the Sea Customs Act.	PRE_RELIED
+One of the contentions raised was, that a person against whom such an enquiry is made is a `person accused of an offence', and on that account, he cannot be compelled to be a witness against himself and the statement obtained or evidence collected under the aforesaid provision by the officer of Customs is inadmissible.	PRE_RELIED
+This contention was repelled.	PRE_RELIED
+Shah J., speaking for the Court, made these apposite observations: "Under s. 171-A of the Sea Customs Act, a Customs officer has power in an enquiry in connection with the smuggling of goods to summon any person whose attendance he considers necessary, to give evidence or to produce a document or any other thing, and by cl.         (3) the person so summoned is bound to state the truth upon any subject respecting which he is examined or makes statements and to produce such documents and other things as may be required.	PRE_RELIED
+The expression "any person" includes a person who is suspected or believed to be concerned in the smuggling of goods.	PRE_RELIED
+But a person arrested by a Customs officer because he is found in possession of smuggled goods or on suspicion that he is concerned in smuggling is not when called upon by the Customs officer to make a statement or to produce a document or thing, a person accused of an         offence within the meaning of Art. 20(3) of the Constitution.	PRE_RELIED
+The steps taken by the Customs officer are for the purpose of holding an enquiry under the Sea Customs Act and for adjudging confiscation of goods dutiable or prohibited and imposing penalties.	PRE_RELIED
+The Customs officer does not at that stage accuse the person suspected of infringing the provisions of the Sea Customs Act with the commission of any offence.	PRE_RELIED
+His primary duty is to prevent smuggling and to recover duties of customs when collecting evidence in respect of smuggling against a person suspected of infringing the provisions of the Sea Customs Act he is not accusing the person of any offence punishable at a trial before a magistrate".	PRE_RELIED
+         After a survey of case law, the Court pointed out the circumstances, the existence of which is ordinarily necessary to clothe a person with the character of a "person accused of an offence": "Normally a person stands in the character of an accused when a First Information Report is lodged.         against him in respect of an offence before an officer competent to investigate it, or when a complaint is made relating to the commission of an offence before a Magistrate competent to try or send to another Magistrate for trial the offence.	PRE_RELIED
+Where a Customs officer arrests a person and informs that person of the grounds of his arrest (which he is bound to do under Art. 221) of the Constitution for the purpose of holding an enquiry into the infringement of the provisions of the Sea Customs Act which he has reason to believe has taken place, there is no formal accusation of an offence.	PRE_RELIED
+In the case of an offence by infringement of the Sea Customs Act and punishable at the trial before a Magistrate, there is an accusation when a complaint is lodged by an officer competent in that behalf before the Magistrate".         	PRE_RELIED
+The above-quoted observations are a complete answer to the contention of the appellant.	ANALYSIS
+In the light of these principles, it is clear that when the statement of the appellant was recorded by the Customs officer under s. 108, the appellant was not a person "accused of any offence"under the Customs Act, 1962.	ANALYSIS
+An accusation which would stamp him with the character of such a person was, levelled only when the complaint was filed against him, by the Assistant Collector of Customs complaining of the commission of offences under s. 135(a) and s. 135(b) of the Customs Act.	ANALYSIS
+         True, that the appellant was arrested by the police on December 12, 1967 on suspicion of having committed an offence under s. 124, of the Bombay Police Act and a Panchnama of the packages in the truck was also prepared.	ANALYSIS
+But the factual ingredients of that offence are materially different from those of an offence under the Customs Act.	ANALYSIS
+ This will be apparent from a bare reading of s. 124 of the Bombay Police Act, which provides : "Whoever has in his possession or conveys in any manner, or offers for sale or pawn, anything which there is         reason to believe is stolen property or property fraudulently obtained shall, if he fails to account for such possession or to act to the satisfaction of the Magistrate, on conviction, be punished with imprisonment for a term (which may extend to one year but shall not, except for reasons to be recorded in writing, be less taken one month and shall also be liable to the fine which may extend to five hundred rupees).         Even in respect of that offence, the police did not register any case or enter any F.I.R. which normally furnishes a foundation for commencing a police investigation.	STA
+The police did not open the packages or prepare inventories of the goods packed therein.	ANALYSIS
+Indeed, the police appear to have dropped further proceedings.	ANALYSIS
+They did not take any steps for prosecuting the appellant even for an offence under the Bombay Police Act, 1951.	ANALYSIS
+They informed the customs authorities, who opened the packages, inspected the goods and on finding them contraband goods, seized them under a Panchnama.	ANALYSIS
+The Customs authorities called the appellant and his companion to the Customs House, took them into custody, and after due compliance with the requirements of law, the Inspector of Customs questioned the appellant and recorded his statement under s. 108 of the Customs Act.	ANALYSIS
+Under the circumstances it was manifest that at the time when the Custom officer recorded the statement of the appellant, the latter was not formally "accused of any offence."	ANALYSIS
+The High Court was therefore right in holding that the statement recorded by the Inspector of Customs was not hit by Article 20(3) of the Constitution.	ANALYSIS
+The next question to be considered is, whether this statement was hit by s. 24 of the Evidence Act.	ISSUE
+The contention is that this statement was obtained under compulsion of law inasmuch as he was required to state the truth under threat of prosecution for perjury.	ANALYSIS
+         For reasons that follow, we are unable to sustain this contention.	ANALYSIS
+         To attract the prohibition enacted in s. 24, Evidence Act, these facts must be established: (i) that the statement in question is a confession; (ii) that such confession has been made by an accused person; (iii)that it has been made to a person in authority; (iv) that the confession has been obtained by reason of any inducement, threat or promise proceeding from a person in authority; (v) such inducement, threat or promise, must have reference to the charge against the accused person; (vi) the inducement, threat or promise must in the opinion of the Court be sufficient to give the accused person grounds, which would appear to him reasonable, for supposing that by making it he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him.	ANALYSIS
+         In the present case, facts (i), (iv) and (vi) have not been established.	ANALYSIS
+Firstly, the statement in question is not a "confession' within the contemplation of s. 24.	ANALYSIS
+It is now well-settled that a statement in order to amount to a "confession" must either admit in terms the offence, or at any rate substantially all the facts which constitute the offence.	ANALYSIS
+An admission of an incriminating fact, howsoever grave, is not by itself a confession.	ANALYSIS
+A statement which contains an exculpatory assertion of some fact, which if true, would negative the offence alleged, cannot amount to a confession (see Pakala Narayana v. R.; Plavinder Kaur v.State of Punjab; Om Prakash v. State.         	PRE_RELIED
+A perusal of the statement Ex. I made by the appellant before the Inspector of Customs would show that it contained exculpatory matter.	ANALYSIS
+Therein, the deponent claimed that he was not aware that the packages which were loaded in the truck were contraband goods, and alleged that the goods were not loaded under his instructions.	ANALYSIS
+The deponent claimed to be an innocent traveller in the truck when he said: "I did not ask Mullaji (driver) what goods were being loaded in his lorry...	ANALYSIS
+Mullaji was only my friend and I was not aware of any of his mala fide activities".	ANALYSIS
+         Moreover, the incriminating facts admitted in this statement, do not, even if taken cumulatively amount to admission of all the facts which constitute any offence.	ANALYSIS
+To bring home an offence under s. 135 of the Customs Act, in addition to the facts admitted in Ex. I, it had to be established further that these goods were contraband goods.	ANALYSIS
+         For these reasons, it could be said beyond doubt, that the statement Ex. 1 was not a "confession" within the meaning of s. 24, Evidence Act.	ANALYSIS
+         Secondly, it has not been shown that the Customs officer-though a person in authority-had offered any inducement or held out any threat or promise to the appellant.	ANALYSIS
+         Christopher Soares, the Inspector of (Customs (P. W. 4) testified that no threats, coercion or inducements were used and that the statement Ex. 1 was made by the appellant, voluntarily.         	FAC
+While it may be conceded that a person summoned by an officer of Customs to make a statement under s. 108 of the Customs Act, is under compulsion of law to state the truth, the compulsion there under, assuming it amounts to a threat, does not proceed "from a person in authority" within the contemplation of s. 24, but emanates from law.	ANALYSIS
+         Thirdly, the mere fact that the Inspector of Customs had, before recording the statement, warned the deponent of the possibility of hisprosecution for perjury in case he did not make the statement truthfully, cannot be construed as a threat held out by the officer which could have reasonably caused the person making the statement to suppose that he would by making that statement, gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him for smuggling.         	ANALYSIS
+In view of what has been said above, we have no hesitation in holding that the statement Ex. 1, was not barred under s. 24, Evidence Act.	ANALYSIS
+The statement Ex. P-1 was clearly admissible under s. 21, Evidence Act as an admission of incriminating facts.	ANALYSIS
+         Lastly, Mr. Chaudhry tried to contend that the incriminating facts admitted in Ex. 1 taken along with the other facts appearing in the evidence of prosecution witnesses, were insufficient to establish an offence under s. 135, Customs Act against the appellant because no notification under sub-s. (2) of s. 123, of the Customs Act had been issued in respect of the import of the goods of the kind seized, and the aid of the statutory presumption under that section was not available to the prosecution. 	ANALYSIS
+We are unable to accept this contention.	ANALYSIS
+While it is true that in the absence of the requisite notification, the statutory presumption under s. 123 could not be invoked by the prosecution, the circumstances established unerringly raise an inference with regard to all the factual ingredients of an offence under s. 135(b) read with s. 135(ii) of the Customs Act.	ANALYSIS
+In Ex. 1 which was proved by P.W. 4, it is admitted that these packages which were later found to contain contraband goods by the Customs authorities, were surreptitiously loaded in the truck under cover of darkness at Reti Bunder (sea shore) from the side of sea-side wall, in the presence of the appellant, and thereafter the first accused took the wheel, while the appellant sat by his side in the truck, and drove towards Sandhurst Station.	ANALYSIS
+It is further admitted that some Bania paid Rs. 2,000/- to the appellant which was meant to be given to the driver of the truck.	ANALYSIS
+Unfortunately, the truck skidded near the Dongri Police Station and came to a stop.	ANALYSIS
+On hearing the impact of the accident, the police came out, took both the accused into the Police Station and seized the truck and the goods.	ANALYSIS
+In short, the. appellant had clearly admitted that these packages containing the contraband goods were imported surreptitiously from Reti Bunder under cover of darkness.	ANALYSIS
+It was further established de-hors the statement of the appellant, that these packages, on opening by the Customs officer, were found to contain contraband goods of foreign make.	ANALYSIS
+They were brand new articles packed.	ANALYSIS
+ The circumstances of the arrest of the appellant while escaping from the truck, the seizure of the truck and the goods, the contraband nature of the goods, the fact that at the time of the seizure, the goods, were in the charge of the appellant, the fact that no duty on these goods had been paid, the seizure of Rs. 2,000/- as cash from the appellant etc. were proved by evidence aliunde rendered by P. Ws. 1 and 2.	ANALYSIS
+To some extent, the hostile witness, P.W. 5, also, supported the prosecution.	ANALYSIS
+The circumstances established unmistakably and irresistibly pointed to the conclusion that the appellant was knowingly concerned in a fraudulent attempt at evasion, if not, fraudulent evasion, of duty chargeable on those contraband goods.	RATIO
+ In the result, the appeal fails and is dismissed.	RPC
+ M.R.                     Appeal dismissed.	NONE

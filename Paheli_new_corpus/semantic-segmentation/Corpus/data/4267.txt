@@ -1,0 +1,158 @@
+                                                    1/14	PREAMBLE
+IN THE HIGH COURT OF KARNATAKA, BENGALURU
+
+        DATED THIS THE 04th DAY OF JULY 2018	PREAMBLE
+
+
+                                  PRESENT
+
+      THE HON'BLE Dr.JUSTICE VINEET KOTHARI
+
+                                      AND
+
+          THE HON'BLE Mrs.JUSTICE S.SUJATHA
+
+                           I.T.A.No.597/2017
+
+BETWEEN:
+
+1. THE PR. COMMISSIONER OF INCOME-TAX, CIT(A)
+         5TH FLOOR, BMTC BUILDING
+         80 FEET ROAD, KORMANGALA
+         BENGALURU-560 095.
+
+2.	PREAMBLE
+THE INCOME-TAX OFFICER
+         WARD-1(1)(1), 2ND FLOOR
+         BMTC BUILDING, 80 FEET ROAD
+         KORMANGALA, BENGALURU-560 095.
+                                                                     ...APPELLANTS	PREAMBLE
+(By Mr. ARAVIND K.V. ADV.)	PREAMBLE
+AND:
+
+M/S. COMMSCOPE NETWORKS (INDIA) PVT. LTD.,
+EARLIER KNOWN AS AIRVANA NETWORKS
+(INDIA) PVT. LTD.,
+SALARPURIA SOFTZONE, BLK A
+WING B, 1ST FLOOR, BELLANDUR
+VILLAGE  VARTHUR HOBLI
+OUTER RING ROAD, BENGALURU-560 013
+PAN: AAECA 7568G.
+
+                                                                 ...RESPONDENT
+(By Ms. TANMAYEE RAJKUMAR, ADV.)
+
+                                                 Vs. M/s. Commscope Networks (India) Pvt. Ltd.,
+                                                    2/14
+
+         	PREAMBLE
+THIS I.T.A IS FILED UNDER SECTION 260-A OF INCOME
+TAX ACT, 1961, PRAYING TO FORMULATE THE SUBSTANTIAL
+QUESTIONS OF LAW STATED ABOVE.	PREAMBLE
+ALLOW THE APPEAL AND
+SET ASIDE THE ORDERS PASSED BY THE INCOME TAX
+APPELLATE TRIBUNAL, BENGALURU IN IT(TP)A
+No.181/Bang/2016 DATED 22/02/2017 ANNEXURE-D AND
+CONFIRMING THE ORDER OF THE DRP CONFIRM THE ORDER
+PASSED BY THE INCOME TAX OFFICER, WARD-1(1)(1),
+BENGALURU & ETC.
+
+         THIS I.T.A. COMING ON FOR ADMISSION, THIS DAY
+Dr. VINEET KOTHARI J. DELIVERED THE FOLLOWING:-
+
+                                JUDGMENT	PREAMBLE
+Mr. Aravind K.V. Adv. for Appellants- Revenue Ms. Tanmayee Rajkumar, Adv. for Respondent - Assessee 1.	NONE
+The Appellants-Revenue have filed this appeal u/s.260A of the Income Tax Act, 1961, raising purportedly certain substantial questions of law arising from the order of the ITAT, Bangalore Bench `C', Bangalore, dated 22.02.2017 passed in IT(TP)A No.166/Bang/2016 (M/s.Commscope Networks (India) Pvt. Ltd., vs. The Income Tax Officer) for A.Y.2011-12.	FAC
+2. The proposed substantial questions of law framed in the Memorandum of appeal by the Vs. M/s. Commscope Networks (India) Pvt. Ltd., 3/14 Appellants-Revenue are quoted below for ready reference:- "1.	ISSUE
+Whether on the facts and in the circumstances of the case, the Tribunal is right in law in holding that the expenses and foreign exchange loss reduced from the Export Turnover has to be reduced from the Total Turnover also following the ratio laid down by this Hon'ble Court in the case of CIT Vs. M/s. Tata Elxsi Ltd even when said decision has been challenged before Apex Court by Revenue and no provision under section 10A provides for exclusion of such expenses from total turnover?
+ 2.	ISSUE
+Whether on the facts and in the circumstances of the case, the Tribunal is right in law in excluding certain comparable from list of comparable adopted by TPO on the ground of functional dissimilarity by following its earlier which has not reached finality even when said decisions have not reached finality and all the requires tests are satisfied?	ISSUE
+3. Whether on the facts and in the circumstances of the case, the Tribunal is right in law in excluding comparable even when the said Vs. M/s. Commscope Networks (India) Pvt. Ltd., 4/14 comparable are chosen as all the required tests are satisfied?	ISSUE
+4. Whether on the facts and in the circumstances of the case, it is submitted that Tribunal is right in law in directing the assessing authority to consider exchange fluctuation gain even when the assessee had failed to furnish details to ascertain whether exchange fluctuation gain relates to current year's turnover or earlier years turnover?	ISSUE
+5. Whether on the facts and in the circumstances of the case, the Tribunal has also erred in excluding comparable's on the basis of RPT filter being less than 25% by following its earlier decision which has reached finality not even when the comparable's are chosen as all the required tests are satisfied?	ISSUE
+6. Whether on the facts and in the circumstances of the case, the Tribunal is right in law in excluding comparable namely, M/s.
+Accropetal Technology Ltd by following its earlier decision in case of M/s.	ISSUE
+Applied Materials India Ltd even the said comparable satisfies the filter of information technology revenue applied by TPO?".	ISSUE
+Vs. M/s.	ISSUE
+Commscope Networks (India) Pvt. Ltd., 5/14 3.	ISSUE
+Learned counsel for the Appellants-Revenue Mr.K.V.Aravind submits that he does not press the substantial question of law No.1, as the issue regarding deduction of expenditure incurred for `Export Turn Over' is also required to be deducted from `Total Turn Over' for the purpose of computing the deduction u/s.10A of the Act, the controversy is no longer res integra and is covered by the decision of the Division Bench of this Court in the case of M/s.Tata Elxsi Ltd., vs. Asst.Commissioner of Income Tax, decided on 20.10.2015 since reported in (2015) 127 DTR 0327 (Kar), which has been affirmed by the Hon'ble Supreme Court in the case of Commissioner of Income-tax, Central  III vs. HCL Technologies Ltd., [2018] 93 Taxmann.com 33(SC).
+ 	ARG_PETITIONER
+The relevant portion of the judgment of the Hon'ble Supreme Court in the case of HCL Technologies Ltd. (supra), is quoted below for ready reference:- Vs. M/s. Commscope Networks (India) Pvt. Ltd., 6/14 "17.	ARG_PETITIONER
+The similar nature of controversy, akin this case, arose before the Karnataka High Court in CIT v. Tata Elxsi Ltd.	ARG_PETITIONER
+[2012] 204 Taxman 321/17/taxman.com 100/349 ITR 98.	ARG_PETITIONER
+The issue before the Karnataka High Court was whether the Tribunal was correct in holding that while computing relief under Section 10A of the IT Act, the amount of communication expenses should be excluded from the total turnover if the same are reduced from the export turnover?	ARG_PETITIONER
+While giving the answer to the issue, the High Court, inter-alia, held that when a particular word is not defined by the legislature and an ordinary meaning is to be attributed to it, the said ordinary meaning is to be in conformity with the context in which it is used.	ARG_PETITIONER
+Hence, what is excluded from `export turnover' must also be excluded from `total turnover', since one of the components of `total turnover' is export turnover.	ARG_PETITIONER
+Any other interpretation would run counter to the legislative intent and would be impermissible.
+ 18. XXXXXX 19.	ARG_PETITIONER
+In the instant case, if the deductions on freight, telecommunication and insurance attributable to the delivery of computer software under Section 10A of the IT Act are allowed only Vs. M/s.	ARG_PETITIONER
+Commscope Networks (India) Pvt. Ltd., 7/14 in Export Turnover but not from the Total Turnover	ARG_PETITIONER
+then, it would give rise to inadvertent, unlawful, meaningless and illogical result which would cause grave injustice to the Respondent which could have never been the intention of the legislature.	ARG_PETITIONER
+
+ 20. Even in common parlance, when the object of the formula is to arrive at the profit from export business, expenses excluded from export turnover have to be excluded from total turnover also.	ARG_PETITIONER
+Otherwise, any other interpretation makes the formula unworkable and absurd.	ARG_PETITIONER
+Hence, we are satisfied that such deduction shall be allowed from the total turnover in same proportion as well".	ARG_PETITIONER
+Mr.K.V.Aravind also submits that he does not press the substantial question of law No.4.	ARG_PETITIONER
+His submission is recorded.	NONE
+
+ 4. Regarding substantial question of law Nos.
+ 2 and 3 - The learned Tribunal, after discussing the rival contentions of both the Appellants-Revenue and the Vs. M/s.	ANALYSIS
+Commscope	ANALYSIS
+Networks	ANALYSIS
+(India) Pvt. Ltd., 8/14 Respondent-assessee,	ANALYSIS
+has given the following findings against Revenue with regard to various issues raised before it with regard to `Transfer Pricing' and `Transfer Pricing Adjustments' made by the concerned authorities below.	ANALYSIS
+We consider it appropriate to quote the relevant portions hereunder:- " 7.	ANALYSIS
+Now, we decide the issue of various comparables.	ANALYSIS
+The assessee selected 14 comparables and the TPO took 13 comparables.	ANALYSIS
+
+         DRP directed for exclusion of 9 comparables for which the revenue is in appeal seeking their inclusion.	ANALYSIS
+The assessee is in appeal for exclusion of 5 comparables which were retained by DRP.	ANALYSIS
+At the same time, the assessee is asking for inclusion of 1) Evoke Technologies Pvt. Ltd., 2) Mindtree Ltd. (Seg) and 3) R S Software (India) Ltd. being 3 comparables out of 9 comparables excluded by DRP.	ANALYSIS
+The assessee is also seeking inclusion of LGS Global Ltd.
+ 8.	ANALYSIS
+We decided the issue of various exclusions and inclusions in these cross appeals.	ANALYSIS
+Regarding inclusion of 3 comparables out of 9 comparables excluded by DRP, we find that when Vs. M/s. Commscope Networks (India) Pvt. Ltd., 9/14 both sides are seeking inclusion of these 3 comparables being 1) Evoke Technologies Pvt.
+Ltd., 2) Mindtree Ltd. (Seg) and 3) R S Software (India) Ltd. and their inclusion is proper as per the tribunal order rendered in the case of Applied materials India Pvt. Ltd. vs. ACIT as reported in TS  815  ITAT  2016, we reverse the order of DRP about exclusion of these 3 comparables and direct the AO/TPO to included these three in final list of comparables.
+ 9.	ANALYSIS
+Now we decide about the remaining 6 comparables excluded by DRP and 4 comparables retained by DRP but for which the assessee is seeking exclusion.	ANALYSIS
+Out of these 6 comparables excluded by DRP, one comparable ICRA Techno Analytics Ltd. is having RPT in excess of 15% and therefore, for this reason alone, this comparable has to be excluded although DRP has excluded it for a different reason that it is having various activities and segmental data are not available.	ANALYSIS
+We uphold its exclusion on account of RPT filter.	ANALYSIS
+Exclusion of Acropetal Technologies Ltd. (Seg) is covered in favour of the assessee by the same tribunal order rendered in the case of Applied materials India Pvt. Ltd. vs. ACIT (Supra).	PRE_RELIED
+Respectfully following Vs. M/s. Commscope Networks (India) Pvt. Ltd., 10/14 the same, we uphold its exclusion.	PRE_RELIED
+Exclusion of 1) e  Zest Solutions Ltd., 2) Infosys Ltd., 3) Larsen & Toubro Infotech Ltd., 4) Persistent Systems & Solutions Ltd., 5) Persistent Systems Ltd., 6) Sasken Communication Technologies Ltd.
+and 7) Tata Elxsi Ltd. are also covered in favour of the assessee by the same tribunal order rendered in the case of Applied materials India Pvt. Ltd. vs. ACIT (Supra).	PRE_RELIED
+Respectfully following the same, we uphold the exclusion of these Seven comparables also.	ANALYSIS
+Exclusion of E  Infochips Ltd.	PRE_RELIED
+
+is covered in favour of the assessee by the tribunal order rendered in the case of Saxo India Pvt. Ltd. vs. ACIT in ITA No.6148/Del/2015 dated 05-02-2016 Para 10.1 & 10.2 available at pages 221 to 223.	PRE_RELIED
+Respectfully following the same, we uphold its exclusion.	ANALYSIS
+In this manner, we uphold the exclusion of six comparables excluded by DRP out of 9 comparables excluded by DRP and exclude 4 comparables retained by DRP and we have already held that out of 9 comparables excluded by DRP, 3 have to come back being 1) Evoke Technologies Pvt. Ltd., 2) Mindtree Ltd. (Seg) and 3)	ANALYSIS
+R S Software (India) Ltd.	ANALYSIS
+Now, we decide about LGS Global Ltd.	ANALYSIS
+As per the tribunal order rendered in the case of Applied materials India Pvt. Ltd. vs. ACIT (Supra), Vs. M/s. Commscope Networks (India) Pvt. Ltd., 11/14 this is a good comparable and therefore, we direct the A.O. and TPO to include this comparable.	ANALYSIS
+So, there should be 4 comparables in the final list of comparable and on the basis of that, the AO/TPO should work out the ALP.	ANALYSIS
+10. In the result, the appeal of the assessee and revenue are partly allowed".
+ 5.	PRE_RELIED
+This Court in ITA No.536/2015 C/w ITA No.537/2015    delivered           on  25.06.2018 (Prl. Commissioner of Income Tax & Anr. Vs.
+ M/s. Softbrands India Pvt. Ltd.,) has held that in these type of cases, unless an ex-facie perversity in the findings of the learned Income Tax Appellate Tribunal is established by the appellant, the appeal at the instance of an assessee or the Revenue under Section 260-A of the Act is not maintainable.
+ 	PRE_RELIED
+The relevant portion of the said judgment is quoted below for ready reference: " Conclusion: 55. A substantial quantum of international trade and transactions depends upon the fair and Vs. M/s.	ANALYSIS
+Commscope	ANALYSIS
+Networks	ANALYSIS
+(India) Pvt. Ltd., 12/14 quick judicial dispensation in such cases	ANALYSIS
+. Had it been a case of substantial question of interpretation of provisions of Double Taxation Avoidance Treaties (DTAA), interpretation of provisions of the Income Tax Act or Overriding Effect of the Treaties over the Domestic Legislations or the questions like Treaty Shopping, Base Erosion and Profit Shifting (BEPS), Transfer of Shares in Tax Havens (like in the case of Vodafone etc.), if based on relevant facts, such substantial questions of law could be raised before the High Court under Section 260-A of the Act, the Courts could have embarked upon such exercise of framing and answering such substantial question of law.	ANALYSIS
+On the other hand, the appeals of the present tenor as to whether the comparables have been rightly picked up or not, Filters for arriving at the correct list of comparables have been rightly applied or not, do not in our considered opinion, give rise to any substantial question of law.	ANALYSIS
+
+ 56. We are therefore of the considered opinion that the present appeals filed by the Revenue do not give rise to any substantial question of law and the suggested substantial questions of law do not meet the requirements of Vs. M/s. Commscope Networks (India) Pvt. Ltd., 13/14 Section 260-A of the Act and thus the appeals filed by the Revenue are found to be devoid of merit and the same are liable to be dismissed.
+ 57.	ANALYSIS
+We make it clear that the same yardsticks and parameters will have to be applied, even if such appeals are filed by the Assessees, because, there may be cases where the Tribunal giving its own reasons and findings has found certain comparables to be good comparables to arrive at an `Arm's Length Price' in the case of the assessees with which the assessees may not be satisfied and have filed such appeals before this Court.	ANALYSIS
+Therefore we clarify that mere dissatisfaction with the findings of facts arrived at by the learned Tribunal is not at all a sufficient reason to invoke Section 260-A of the Act before this Court.	RATIO
+
+ 58. The appeals filed by the Revenue are therefore dismissed with no order as to costs."	RPC
+
+ 6. Having heard the learned counsels for the parties, we are therefore of the opinion that no substantial question of law arises in the present case also.	RATIO
+The appeal filed by the Appellants-Revenue is Vs. M/s. Commscope Networks (India) Pvt. Ltd., 14/14 liable to be dismissed and it is dismissed accordingly.	RPC
+
+No costs.	RPC
+
+ Sd/- JUDGE Sd/- JUDGE Srl.	NONE

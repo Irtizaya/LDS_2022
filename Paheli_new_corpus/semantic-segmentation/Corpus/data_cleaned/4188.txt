@@ -1,0 +1,65 @@
+                            1/12	PREAMBLE
+IN THE HIGH COURT OF KARNATAKA, BENGALURU     DATED THIS THE 2ND DAY OF AUGUST 2018	PREAMBLE
+                        PRESENT     THE HON'BLE DR.JUSTICE VINEET KOTHARI                            AND	PREAMBLE
+     THE HON'BLE MRS.JUSTICE S.SUJATHA	PREAMBLE
+                 I.T.A. No.95/2017	PREAMBLE
+BETWEEN:	PREAMBLE
+1. THE PR. COMMISSIONER OF INCOME-TAX        	PREAMBLE
+5TH FLOOR, BMTC BUILDING,	PREAMBLE
+        80 FEET ROAD, KORMANGALA	PREAMBLE
+        BENGALURU - 560 095	PREAMBLE
+2. THE DEPUTY COMMISSIONER OF INCOME-TAX     WARD-11(3), PRESENT ADDERS     CIRCLE-2(1)(2), 2ND FLOOR     	PREAMBLE
+BMTC BUILDING, 80 FEET ROAD	PREAMBLE
+     KORMANGALA	PREAMBLE
+     BENGALURU-560 095	PREAMBLE
+                ... APPELLANTS	PREAMBLE
+          (BY SRI.ARAVIND K V, ADV.)	PREAMBLE
+ANDM/s ELECTRONICS FOR IMAGING INDIA PVT. LTD.KALYANI PLATINA, 4TH FLOORBLOCK -1, NO.24, EPIP ZONEPHASE-II, WHITEFIELDBENGALURU - 560 066PAN:AAACG 6053E                       ... RESPONDENT(BY SRI.S.SHARATH, ADV. FOR SRI. CHYTHANYA K.K., ADV. )                                                  M/s Electronics for Imaging India Pvt. Ltd.                                                    2/12         THIS INCOME TAX APPEAL IS FIELD UNDER SEC.260-AOF INCOME TAX ACT 1961, ARISING OUT OF ORDER DATED17.06.2016, PASSED IN IT(TP)A NO. 1275/BANG/2012, FOR THEASSESSMENT YEAR 2007-2008 ANNEXURE -D, PRAYING TO: I.FORMULATE THE SUBSTANTIAL QUESTIONS OF LAW STATEDABOVE. II.	PREAMBLE
+ALLOW THE APPEAL AND SET ASIDE THE ORDERSPASSED BY THE INCOME-TAX APPELLATE TRIBUNAL,BENGALURU IN IT(TP)A NO.1275/BANG/2012 DATED17.06.2016 ANNEXURE  D AND CONFIRM THE ORDER OF THEAPPELLATE COMMISSIONER CONFIRMING THE ORDER PASSEDBY THE DEPUTY COMMISSIONER OF INCOME TAX, CIRCLE -2(1)(2), BENGALURU.	PREAMBLE
+         THIS APPEAL COMING ON FOR HEARING, THIS DAY,S. SUJATHA, J., DELIVERED THE FOLLOWING:                             J U D G M E N T	PREAMBLE
+ Mr. K.V.Aravind, Adv. for Appellants  Revenue.	NONE
+Mr. S.Sharath, Adv. Mr. Chythanya K.K., Adv. for Respondent  Assessee.	NONE
+ This Appeal is filed by the Revenue purportedly raising substantial questions of law arising from the Order of the Income Tax Appellate Tribunal, `B' Bench, Bangalore, in IT [TP] A No.1275/Bang/2012 dated 17.06.2016 relating to the Assessment Year 2007-08. 2.	FAC
+This Appeal has been admitted on 17.01.2018 to consider the following substantial questions of law: M/s Electronics for Imaging India Pvt. Ltd. 3/12 "1.Whether on the facts and in the circumstances of the case, the Tribunal is right in law in directing the TPO to exclude M/s.Avani Cimcom Technologies Ltd, M/s. Celestial Labs Ltd, Accel Transmatic Ltd, KALS Infomration Systems Ltd, M/s Thridware Solutions Ltd, M/s.Helios & Matheson Information Technology Ltd, Megasoft Ltd, E-zest Solutions Ltd from list of comparables by following its earlier order which has not finality and without appreciating the materials brought on record by TPO and FAR Analysis?	ISSUE
+ 2. Whether on the facts and in the circumstances of the case, the Tribunal is right in law in directing the TPO to exclude comparable namely, Mindtree Ltd, IGate Global solutions Ltd, Infosys Technologies Ltd, Wipro Ltd, Flextronics Software Systems Ltd, Persistent Systems Ltd, Sasken Communication technologies Ltd and Tata Elxsi Ltd by following its earlier decision which has not reached finality even when the TPO had rightly chosen the same after applying all the required tests?" 3.	ISSUE
+The learned Tribunal, after discussing the rival contentions of both the Appellants-Revenue and M/s Electronics for Imaging India Pvt. Ltd. 4/12 Respondent-Assessee, has returned the findings as under: "12.	RLC
+We have given a careful consideration to the rival submissions.	RLC
+At the outset, it was submitted by the parties before us that the very same 26 comparables had been chosen by the TPO for determining the ALP in the case of software services providing company viz., Trilogy E-Business Software India Pvt. Ltd.	RLC
+It was also accepted by the parties that in the case of that company, this Tribunal in ITA No.1054/Bang/2011 by its order dated 23.11.2012 considered the comparability of the comparables chosen by the TPO.	RLC
+It was agreed by the parties that the aforesaid decision, which incidentally is also for the A.Y. 2007-08, will apply to the case of the assessee in this appeal also.	RLC
+It was also accepted by the parties that some of the comparables chosen by the TPO have also been considered by the Mumbai Bench of the Tribunal in the case of Telcordia Technologies India Pvt. Ltd., ITA No.7821/Mum/2011; and by the Bangalore Bench of the Tribunal in the case of 24/7 Customer Com Pvt. Ltd., ITA No.227/Bang/2010.	RLC
+In this background, we shall now examine the 26 comparables chosen by the TPO and also consider M/s Electronics for Imaging India Pvt. Ltd. 5/12 as to what will be the comparables that can be considered for the purpose of determining the ALP.	RLC
+We may also add that M/s. Helios and Matherson Ltd., was chosen as a comparable by the Assessee in his TP study but has now seeking to exclude the same from the list of comparables and in this regard has raised additional ground of appeal before us.	RLC
+The learned counsel has placed reliance on the decision of the Special Bench ITAT in the case of Quark Systems Pvt. Ltd., [2010] 38 SOT 307 [Chd.] [SB] for the proposition that there cannot be estoppel in Transfer Pricing issues and an Assessee can take a stand that a company chosen by it as comparable is in fact not comparable.	RLC
+Keeping in mind the decision of the Special Bench referred to above, we admit the additional ground for adjudication.	RLC
+ 13. As far as the 8 comparable at Sl.no.9, 11, 12, 13, 15, 17, 18 & 19 is concerned, it was the submission of the learned counsel for the Assessee that those companies may be rejected as comparable by applying the turnover filter of Rs.200 Crores in view of the decision of the Tribunal in assessee's own case for AY 2006-07 and also in the case of Trilogy E-Business Software India P. Ltd., [ITA No.1338/Bang/2010] for same assessment year.	RLC
+It is not in dispute that the turnover of these M/s Electronics for Imaging India Pvt. Ltd. 6/12 companies are more than Rs.200 crores.	RLC
+The turnover of the assessee in the present case is Rs.147,02,41,787.	RLC
+It has been held by this Tribunal in the case of Trilogy E-Business Software India Pvt.Ltd., [supra] that companies with a turnover of more than Rs.200 crores cannot be taken as comparables while determining the ALP in the case of companies having turnover of less than Rs.200 crores.	RLC
+The following are the relevant observations of the Tribunal in this regard.	RLC
+ "xxxxx" 14.	NONE
+Respectfully following the decision of the Tribunal referred to above, we hold that the 8 comparable companies chosen by the TPO given in the chart in the earlier paragraphs of this have to be excluded as comparables for the purpose of determining the ALP of the impugned transaction in this appeal.	ANALYSIS
+15. 2 Comparables at Sl.No.14, 22 of the chart given in the earlier paragraph of comparable chosen by the TPO viz., Accel Transmatic Ltd. and KALS Information Systems Ltd. (Seg.) have been held to be functionally dissimilar to that of a pure software service provider in the decision of the Tribunal in assessee's own case for AYb 2006-07 and also in M/s Electronics for Imaging India Pvt. Ltd. 7/12 the case of Triology E-Business Software India P.Ltd (ITA No.1338/Bang/2010) for same assessment year.	ANALYSIS
+The relevant observations of these two comparable companies in the case of Triology E- Business Software India Pvt. Ltd.(supra) are as follows: - xxxxxxxxx 16.	ANALYSIS
+In view of the aforesaid decision of the Tribunal, comparable at Sl. No.14 and 22 of the Chart given at Para-12 of this order is directed to be excluded from the list of comparables.	ANALYSIS
+17. As far as comparable at Sl.No.23 of the list of comparable companies chosen by the TPO listed in para-12 of this order viz., Lucid Software Ltd. from the list of comparables chosen by the TPO is concerned	ANALYSIS
+, we find that the Mumbai Bench of the Tribunal in the case of Telcordia Technologies India Pvt. Ltd. (supra) while dealing with the case of software service provider like the assessee, considered the comparability of Lucid Software Ltd.with similar software services provider and the Tribunal held as follows: - xxxxx M/s Electronics for Imaging India Pvt. Ltd. 8/12 18.	ANALYSIS
+In view of the aforesaid decision of the Mumbai Bench of the Tribunal, which is also in relation to A.Y. 2007-08, we are of the view that the said company Sl. No.23 of the list of comparable listed by the TPO at para-12 of this order is to be excluded as a comparable while determining the ALP of the international transaction impugned in this appeal.	ANALYSIS
+19. As far as comparables at Sl.Nos.16 & 21 viz., Avani Cimcon Technologies Ltd. And Celestial Labs Ltd.,	ANALYSIS
+of the chart of comparable chosen by the TPO listed in para-12 of this order, this Tribunal in the case of Trilogy E-Business Software India Pvt. Ltd.(supra) has taken a view that these companies are not comparable to the software service provider companies.	ANALYSIS
+The following are the relevant observations of the Tribunal in this regard:- xxxxxxxxxxx 20.	ANALYSIS
+In view of the aforesaid decision of the Tribunal, comparables at Sl. Nos. 16 and 21 of the list of comparables chosen by the TPO listed in the earlier paragraph of this order have to be excluded for the purpose of comparison while determining the ALP of the impugned transaction in this appeal."	ANALYSIS
+ M/s Electronics for Imaging India Pvt. Ltd. 9/12 4.	NONE
+The controversy involved herein is no more res integra in view of the decision of this Court in I.T.A.Nos.536/2015 c/w 537/2015 dated 25.06.2018 (Prl.Commissioner of Income Tax & Anr. v- M/s Softbrands India Pvt. Ltd.,) wherein it has been observed that unless the finding of the Tribunal is found ex facie perverse, the Appeal u/s. 260-A of the Act, is not maintainable.	PRE_RELIED
+The relevant portion of the Judgment is quoted below for ready reference: "Conclusion: 55.  A substantial quantum of international trade and transactions depends upon the fair and quick judicial dispensation in such cases.	PRE_RELIED
+Had it been a case of substantial question of interpretation of provisions of Double Taxation Avoidance Treaties (DTAA), interpretation of provisions of the Income Tax Act or Overriding Effect of the Treaties over the Domestic Legislations or the questions like Treaty Shopping, Base Erosion M/s Electronics for Imaging India Pvt. Ltd. 10/12 and Profit Shifting (BEPS), Transfer of Shares in Tax Havens (like in the case of Vodafone etc.), if based on relevant facts, such substantial questions of law could be raised before the High Court under Section 260-A of the Act, the Courts could have embarked upon such exercise of framing and answering such substantial question of law.On the other hand, the appeals of the present tenor as to whether the comparables have been rightly picked up or not, Filters for arriving at the correct list of comparables have been rightly applied or not, do not in our considered opinion, give rise to any substantial question of law. 56.	PRE_RELIED
+We are therefore of the considered opinion that the present appeals filed by the Revenue do not give rise to any substantial question of law and the suggested substantial questions of law do not meet the requirements of Section 260-A of the Act and thus the appeals filed by the Revenue are found to be devoid of merit and the same are liable to be dismissed.	PRE_RELIED
+ M/s Electronics for Imaging India Pvt. Ltd. 11/12 57.	PRE_RELIED
+We make it clear that the same yardsticks and parameters will have to be applied, even if such appeals are filed by the Assessees, because, there may be cases where the Tribunal giving its own reasons and findings has found certain comparables to be good comparables to arrive at an `Arm's Length Price' in the case of the assessees with which the assessees may not be satisfied and have filed such appeals before this Court.	PRE_RELIED
+Therefore we clarify that mere dissatisfaction with the findings of facts arrived at by the learned Tribunal is not at all a sufficient reason to invoke Section 260-A of the Act before this Court.	PRE_RELIED
+ 58. The appeals filed by the Revenue are therefore dismissed with no order as to costs."	PRE_RELIED
+5. In the circumstances, having heard the learned Counsel appearing for both the sides, We are of the considered opinion that no substantial question of law arises for consideration in the present case.	RATIO
+ M/s Electronics for Imaging India Pvt. Ltd. 12/12	NONE
+Hence, the Appeal filed by the Appellant-Revenue is liable to be dismissed and is accordingly dismissed.	RPC
+No costs.	RPC
+ Sd/- JUDGE Sd/- JUDGE ln. 	NONE

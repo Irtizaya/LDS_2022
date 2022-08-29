@@ -1,0 +1,44 @@
+*     IN THE HIGH COURT OF DELHI AT NEW DELHI	PREAMBLE
++     ITA 318/2007                                    Date of decision: 4th November, 2009	PREAMBLE
+THE COMMISSIONER OF INCOME TAX, DELHI-II                                       ..... Appellant                   Through:	PREAMBLE
+Mr. Sanjeev Sabharwal, Adv.	PREAMBLE
+                  versus      	PREAMBLE
+KSA TECHNOPAK (INDIA) (PVT.) LTD. ......	PREAMBLE
+Respondent                         Through:	PREAMBLE
+   Mr. P.K. Sahu, Adv. with                                     Mr. Prashant Shukla, Adv.	PREAMBLE
+% CORAM:      HON'BLE MR. JUSTICE A.K.SIKRI      HON'BLE MR. JUSTICE SIDDHARTH MRIDUL      1.   	PREAMBLE
+Whether reporters of local papers may be allowed to see           the judgment?	PREAMBLE
+2.   To be referred to the Reporter or not?	PREAMBLE
+3.   Whether the judgment should be reported in           the Digest?                           JUDGMENT	PREAMBLE
+ A.K.SIKRI, J. (ORAL)	NONE
+1.         In the income tax return filed by the assessee for the assessment year 1997-98, the assessee had shown income received from two sources i.e. domestic income as well as receipts of consultancy from foreign clients earned as foreign exchange.	FAC
+Insofar as, latter category of income is concerned, the assessee also claimed benefit of Section 80-O of the Income Tax Act namely exemption to the extent of 50% of such receipts from tax as per this provision existing.	FAC
+The Assessing Officer while processing the return for assessment noticed that the expenses shown by the assessee in earning the foreign exchange on account of consultancy receipts were much less.	FAC
+ 2.           We may note that the assessee had shown consultancy receipts in foreign exchange convertible to Indian Rs.1,11,63,213/- and claiming deduction of Rs.48,28,471/- under Section 80-O of the Income Tax Act.	FAC
+The expenses on the foreign income on account of bank charges, foreign travelling expenses, salaries etc. were shown at a figure of Rs.14,37,643/-.	FAC
+   According to the Assessing Officer the expenses stated to have been incurred on the foreign business were much less as compared to the receipts since the exemption under Section 80-O is allowed after deduction of the expenditure   over the receipts, the Assessing Officer was of the opinion that the expenses incurred are suppressed to claim higher exemption.	FAC
+In these circumstances, the Assessing Officer was of the opinion that the entire expenditure incurred, whether domestic or foreign earnings, should be proportionately apportioned to the foreign earnings as well.	FAC
+ To arrive at      a figure of expenditure to be attributed to foreign earnings, he adopted the following formula: “Total profit from business   x    Related receipts brought profession                         into India in convertible foreign exchange total receipts from business/profession ……A” 3.         	FAC
+The assessee challenged this order by filing appeal before the CIT(A).	FAC
+The assessee in this appeal itself accepted that some of the expenses incurred in India could be attributed to the foreign receipts and conceded that the assessee will have no objection if such expenses are apportioned.	FAC
+However, the plea of the assessee was that the approach of the Assessing Officer in taking into consideration the total expenditure incurred and apportioning the same by applying the aforesaid formula was not correct.	FAC
+As per the assessee, the expenses which were exclusively incurred on domestic business, as well as foreign receipts were to be apportioned in entirety respectively and it is only in respect of other expenses which should be treated as common expenses for foreign exchange as well as domestic earning had to be apportioned.	FAC
+This method was accepted by the CIT(A).	FAC
+The CIT(A) found that the total expenses incurred by the assessee were Rs.2,09,33,800/- and the bifurcation thereof is as under:-	RLC
+Recovered from the Indian customers:     37,24,318	RLC
+Recovered from the foreign customers: 16,42,963 Indian projects relocation expenses:     60,08,752 Other expenses:                          95,57,767 ____________ 2,09,33,800 ____________ 4.          	RLC
+He treated the expenses recovered from Indian customers as well as expenses incurred on Indian projects to be the domestic expenses.	RLC
+Other expenses to the tune of Rs.95,57,767/- were treated as common expenses and it is these expenses which were divided between the foreign business receipts and Indian business receipts by applying the same formula as devised by the Assessing Officer.	RLC
+5.           	FAC
+The Revenue filed appeal against this order, which has been rejected by the Tribunal.	FAC
+6.           	ARG_PETITIONER
+Mr.    Sabharwal,   learned   counsel   appearing    for    the Revenue could not find fault with the approach of the CIT(A) in separating the expenses which were exclusively incurred on Indian business and foreign business respectively and only those expenses which were common in objection.	ARG_PETITIONER
+His submission, however, was that no detail was given in respect of the Indian projects relocation expenses which were treated as domestic expenses.	ARG_PETITIONER
+7.           	ANALYSIS
+After reading the order of the CIT(A), we can safely infer that the CIT(A) has taken these figures from the books of accounts of the assessee.	ANALYSIS
+     Secondly, if there was any objection to the aforesaid Indian projects relocation expenses or to the justification and genuineness of the Indian projects relocation expenses, it was for the Revenue to challenge the same especially in the appeal preferred before the Income Tax Appellate Tribunal.	ANALYSIS
+However, no such ground was raised before the Tribunal.	ANALYSIS
+8.           	RATIO
+We, therefore, are of the opinion that it is a pure finding of fact recorded by the CIT(A), which has been accepted by the Income Tax Appellate Tribunal (ITAT) as well (since it was un-challenged that Indian projects relocation expenses to the tune of Rs.60,08,752/- were incurred by the assessee which could be treated exclusively as domestic expenses and were, therefore, not to be taken into account for apportioning the same between the foreign expenses and domestic expenses).	RATIO
+ 9.         We thus find that no question of law arises and accordingly this appeal is dismissed.	RPC
+ A.K. SIKRI, J. SIDDHARTH MRIDUL, J.November 04, 2009 dn	NONE

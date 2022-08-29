@@ -1,0 +1,213 @@
+R.M(Pr.ivAatMe SBecrEetRarKy) AR  	PREAMBLE
+IN THE HIGH COURT OF JUDICATURE AT BOMBAY	PREAMBLE
+O.O.C.J.                                       	PREAMBLE
+WRIT PETITION NO. 3386 OF 2018                                  Times	PREAMBLE
+Global	PREAMBLE
+Broadcasting	PREAMBLE
+Company Ltd	PREAMBLE
+.. Petitioner                                               	PREAMBLE
+Versus                                  	PREAMBLE
+Union of India & Ors.                 	PREAMBLE
+.. Respondents                                                                       	PREAMBLE
+...................                                   	PREAMBLE
+Mr. Jehangir Mistri, Sr. Counsel a/w Mr. Harsh Kapadia for the	PREAMBLE
+                                      Petitioner                                   Mr. P. C. Chhotaray a/w Mr. P.A. Narayanan for Respondent Nos. 2                                      to 4                                                                                    ...................                                       CORAM : AKIL KURESHI &                                                           SARANG V. KOTWAL, JJ.                                       	PREAMBLE
+DATE : MARCH 15, 2019.	PREAMBLE
+ORAL JUDGMENT	PREAMBLE
+ (Per Akil Kureshi, J.) 1.	NONE
+The petitioner has challenged an order dated 15.10.2018 as at Annexure "M" to the petition passed by the Transfer Pricing Officer ("TPO" for short) under Section 92CA(3) of the Income Tax Act, 1961 ("the Act" for short).	FAC
+2. Brief facts are as under:- 2.1  	FAC
+Petitioner - Times Global Broadcasting Company Ltd is a company registered under the Companies Act, 1956 and his a wholly owned subsidiary of Benett, Coleman and Company Ltd (hereinafter referred to as "BCCL").	FAC
+The petitioner is engaged in the business of distribution of television channels for the Times Group entities.	FAC
+It also provides support services to Times Group entities in the area of finance, legal, human resources, commercial, administration and technical and broadcasting.	FAC
+With effect from 1.4.2014, the petitioner demerged one of its business undertakings into BCCL.	FAC
+The scheme of demerger was approved by the High Court at Bombay by an order dated 16.1.2015.	FAC
+Consequently, the business pertaining to "Times Now" television channel of the petitioner got vested in BCCL.	FAC
+All assets and liabilities pertaining to demerged undertaking were also transferred to BCCL at the book value as on 31.3.2014.	FAC
+The difference between assets and liabilities was then adjusted against the brought forward profit and loss account balance as on 31.3.2014.	FAC
+However, no expenditure or income was charged to the profit and loss account for the financial year as per the scheme of demerger approved by the High Court.	FAC
+2.2     	FAC
+For the assessment year 2015-16, the petitioner filed return of income on 28.11.2015 declaring total income of Rs. 5.90 crores (rounded off).	FAC
+In the said return, the petitioner had reported following two specified domestic transactions:-	FAC
+Sr.     Nature of	FAC
+Related          Amount          Method No.     transaction                 	FAC
+party          (Rs. in Crs)   adopted for benchmarking 1 Payment of subscription               	FAC
+BCCL       	FAC
+39.45 Transaction	FAC
+Net Margin fees earned from distribution       ZENL        9.73 Method ('TNMM') services Key Managerial                3.00 Other Method (Rule 10AB) 2 Payment to Key Management           Personnel Personnel 52.19 Total	FAC
+The petitioner would point out that under the distribution services, the petitioner distributes television channels owned by BCCL and Zoom Entertainment Network Ltd ('ZENL' for short), either directly or through its distribution network.	FAC
+Upon distribution, it receives subscription fees, retains 8% of the fees as its service income and remits the balance to BCCL and ZENL based on their respective revenue share.	FAC
+Likewise, under support services, the petitioner manages back office operations of its group companies, including BCCL and ZENL.	FAC
+For this work, the petitioner is compensated at a cost plus 10% mark-up basis.	FAC
+2.3 According to the petitioner, the distribution services involved a payment to related parties and accordingly, in terms of Section 92E of the Act, such transaction was reported in the prescribed form '3CEB'.	ARG_PETITIONER
+According to the petitioner, the support services resulted into an income in the hands of the petitioner and therefore, the same could not be considered a specified domestic transaction and was accordingly, not reported.	ARG_PETITIONER
+ 2.4  In order to determine the arm's length of the specified domestic transaction, the petitioner had adopted TNMM as the 'Most Appropriate Method'.	ARG_PETITIONER
+The petitioner presented data to contend that the payment of subscription fee to the related party was at arm's length.	ARG_PETITIONER
+ 2.5  Return of income filed by the petitioner was selected for scrutiny.	FAC
+The Assessing Officer made a reference to the TPO for determining the arm's length price of the specified domestic transactions reported in from "3CEB".	FAC
+The petitioner appeared before the TPO in response to the notice issued and besides others, took a contention that in view of the express omission of clause (i) to Section 92BA of the Act without any saving clause, reference itself was not competent.	FAC
+Further correspondence ensued between TPO and the petitioner company during which the TPO also desired to take within the sweep of transfer pricing study, the petitioner's transactions of the adjustment of assets on demerger of its unit.	FAC
+It may be recorded that the petitioner opposed such proposal for making transfer pricing adjustment on merits without specifically raising the objection of jurisdiction of the TPO to examine the said transaction in absence of a specific reference by the Assessing Officer.	FAC
+Be that as it may, the TPO passed the impugned order on 15.10.2018 in which he provided for a total adjustment of Rs. 84.09 crores.	FAC
+This comprised of the arm's length price adjustment of Rs. 26.55 crores made on the specified domestic transaction as reported in from 3CEB towards payment of subscription fees and arm's length price adjustment of Rs. 57.54 crores made on the specified domestic transaction not reported in form 3CEB towards what revenue contends was payment of creditors in demerger process.	FAC
+We may, however, record that the petitioner does not even accept that there was any such payment in the process of demerger.	FAC
+2.6       	FAC
+With respect to the adjustment towards payment of subscription fees, the TPO carried out detailed analysis and examination, considered the petitioner's submissions and arrived at said figure of Rs. 26.55 crore in following manner:- Description                        Amount in Rs.Total	FAC
+Operating Revenue of the Distribution Segment                              53,91,00,265	FAC
+Total Operating Expenses of the Distribution Segment                             80,49,04,800	FAC
+Operating Profit Operating Margins                                                              (26,58,04,535) Operating Margins of Comparables	FAC
+(49.30%)	FAC
+ALP adjustment with reference to variance in margins @ (49.25%) of                    (0.05%)	FAC
+Operating	FAC
+Revenue	FAC
+26,55,06,880	FAC
+With respect to suo motu adjustment towards payment of creditors in demerger process, in order to arrive at the figure of Rs. 57.54 crores, he made following observations:- " In this instant case of assessee, the Creditors of assessee which are transferred to Holding Company and also admittedly an Associates Enterprise in a non-cash transaction of demerger represents both revenue as well as capital items as per the breakup provided by assessee in its submissions.	FAC
+Therefore, the same are within the ambit of "Any Expenditure" as provided under Section 92BA of the Act and arms length price of the transactions is required to be computed in accordance with provisions of the Act.	FAC
+ The amount of outstanding creditors pertaining to the demerged unit of assessee is Nil and its books as on 31.5.2015 and hence,this amounts to a payment as envisaged under the provisions of Section 92BA of the Act.	FAC
+7.7 As per the provisions of Section 92C of the Act, the arm's length price in relation to a specified domestic transaction shall be determined by any of the methods, being the most appropriate method, having regard to the nature of transaction or class of transaction or class of associated persons or functions performed by such persons or such other relevant factors as the Board may prescribe.	FAC
+The assessee has however not done the transfer pricing study of the above stated transactions nor applied any method to determine Arm's Length Price of the transactions.	FAC
+7.8 As per provisions of section 92E of the Act, every person who has entered into an international transaction or specified domestic transaction during a previous year shall obtain a report from an accountant and furnish such report on or before the specified date in the prescribed form duly signed and verified in the prescribed manner by such accountant and setting forth such particulars as may be prescribed.	ANALYSIS
+The assessee is required to report the Specified Domestic Transaction in column No. 22 of Form 3CEB filed.	ANALYSIS
+However, no such reporting was made in the form No. 3CEB filed in respect of other SDT's already discussed above.	ANALYSIS
+ 7.9 In view of the above discussed legal position and facts of the case and gross amount of creditors paid amounting to Rs.57,54,00,000/- as reconciled by assessee in the course of proceedings failed to report these transactions in the report filed in Form No. 3CEB and also failed to maintain and furnish proper details for determination of ALP for the transactions.	ANALYSIS
+The gross consideration paid being the value of asset transferred against these creditors is Rs. 62,31,00,000/- as reconciled by assessee in the course of proceedings.	ANALYSIS
+The assessee has however did not submit the fair market valuation and its cost of acquisition of the assets adjusted against the creditors despite repeated opportunities availed.	ANALYSIS
+Therefore, any excess payment over the book value of the creditors could not be taken into account in determination of the ALP of the creditors so paid or adjusted.	ANALYSIS
+ 7.10	ANALYSIS
+The assessee having squared off the creditors in its books through book entires, the provisions of Section 40A(3A) are triggered and thus, allowable expenditure representing these creditors paid will be Nil as it becomes deemed income of the assessee as per the said provisions of the Act.	ANALYSIS
+Accordingly, the Arms Length price of the transactions is determined at Nil by using this method considering the same to be "other method" recognized under the Act.	ANALYSIS
+An adjustment of Rs. 57,54,00,000/- is accordingly made to the total income of assessee representing ALP adjustment of the creators tranferred through demerger.	ANALYSIS
+ The AO may also alternatively and without prejudice to the above adjustment bring the above amount to tax u/s. 40A(3A) of the Act.	ANALYSIS
+ (Adjustment - Rs. 57,54,00,000/-) 7.11	ANALYSIS
+The penalty proceedings u/s. 271AA, u/s. 271BA and 271G of the Act for non-compliance to the provisions of Section 92C, 92D and 92E of the Act in respect of above stated International Transaction with AE's are being separately initiated or intimated to the AO as the case may be.	ANALYSIS
+ 7.12 AO is also requested to initiate penalty proceedings u/s. 271(1) (c) of the Act in respect of other adjustments made to total income on account of furnishing inaccurate particulars of taxable income.	ANALYSIS
+8. TPO's conclusions: In view of the above following adjustment is made in ALP. Adjustment to taxable income: SR.           Adjustments on account of                     Amount in Rs.                                                                              26,55,06,880 NO.                                                                      57,54,00,000 1    ALP adjustment made on SDT's reported in the form                   84,09,06,880 3CEB towards payment of subscription fees. 2    ALP adjustment made on SDT's not reported in the form 3CEB towards payment of creditors in the Demerger Process Total Adjustments made 2.7       	ANALYSIS
+The petitioner has challenged both these adjustments on various grounds.	ANALYSIS
+With respect to adjustment of Rs. 57.54 crores towards payment of creditors in demerger process, the case of the petitioner is that in absence of any specific reference by the Assessing Officer of this transaction, it was not competent for the TPO to make any such sue motu adjustment.	ANALYSIS
+It was contended that even on merits, the adjustment is wholly impermissible, since in the process, no expenditure was made by the assessee, the transaction would not be covered under Section 92BA(i) of the Act.	ANALYSIS
+With respect to the adjustment towards payment of subscription fees, the case of the petitioner is that the same was made without proper notice.	ANALYSIS
+It is even otherwise ex facie bad and is against the judgments of the High Court.	ANALYSIS
+2.8  The case of the Revenue in brief is that the TPO can examine any specified domestic transaction even if not specifically referred by the Assessing Officer.	ANALYSIS
+The petitioner had not reported the transaction in question though it was a specified domestic transaction.	ANALYSIS
+TPO, therefore, correctly examined the same after putting the petitioner to notice.	ANALYSIS
+ With respect to adjustment towards payment of subscription fees, the case of the department is that the TPO has undertaken a detail analysis, the same is subject to opposition by the petitioner before the Revenue Authorities.	ANALYSIS
+ This Court should not entertain a challenge on this ground and the petitioner be relegated to appeal route.	ANALYSIS
+3. Before deciding the rival contentions, we may record that learned counsel Mr. Chhotaray for the department had raised an objection to the very maintainability of this petition contending that the petition is filed at a premature stage.	ANALYSIS
+His argument was that whatever be the nature of the order passed by the TPO, the petitioner must be reletgated to the departmental proceedings and thereafter, appeal.	ANALYSIS
+At this stage, the Court should not examine the legality or otherwise of the report of the TPO.	ANALYSIS
+ 4. We would first deal with this preliminary objection of the department.	ANALYSIS
+It is well settled through series of judgments of the High Courts and Supreme Court that writ jurisdiction of the High Courts in exercise of powers under Article 226 of Constitution of India is extremely wide.	ANALYSIS
+If a jurisdictional error is pointed out or it is shown that an authority has acted wholly without jurisdiction, the Court can, without relegating the petitioner to the departmental or even statutory remedies, strike down exercise of such powers.	ANALYSIS
+In case of Calcutta Discount Co Ltd Vs. ITO & Anr.1, the Constitution Bench of the Supreme Court in the context of a notice of reopening of assessment issued by the Assessing Officer had held and observed that, though the writ of prohibition or certiorary will not issue against an executive authority, the High Courts have power to issue in a fit case an order prohibiting an executive authority from acting 1 41 ITR 191 without jurisdiction.	ANALYSIS
+Where such action of an executive authority acting without jurisdiction subjects or is likely to subject a person to lengthy proceedings and unnecessary harassment, the High Courts, it is well settled, will issue appropriate orders or directions to prevent such consequences.	ANALYSIS
+The existence of such alternative remedy is not however always a sufficient reason for refusing a party quick relief by a writ or order prohibiting an authority acting without jurisdiction from continuing such action.	ANALYSIS
+It was further observed that, when the Constitution confers on the High Courts the power to give relief it becomes the duty of the courts to give such relief in fit cases and the courts would be failing to perform their duty if relief is refused without adequate reasons.	ANALYSIS
+It is not necessary to refer to large number of authorities on the point in this context.	ANALYSIS
+Therefore, if we find that the action of the TPO or a part of it which can be severed from the rest was wholly without jurisdiction, we would not hesitate in striking down such order or part thereof merely because the statute provides certain appeal remedies to the aggrieved assessee.	ANALYSIS
+ 5. In this background, we may first advert to the transfer pricing adjustment in relation to the payment of creditors in demerger process.	ANALYSIS
+We may recall, admitted position is that the petitioner, holding a belief that this transaction was not a specified domestic transaction, had not reported the same in the form 3CEB.	ANALYSIS
+The reference made by the Assessing Officer to the TPO was confined to those specified domestic transactions reported by the petitioner.	ANALYSIS
+Consequently, undisputed fact that emerges from the record is that this transaction was not part of the reference made by the Assessing Officer.	ANALYSIS
+In this context, the question arises whether the TPO could have on his own, suo motu examined the transaction and made transfer pricing adjustment in his order.	ANALYSIS
+ 6. Chapter X of the Act	ANALYSIS
+pertains to special provisions relating to avoidance of tax.	ANALYSIS
+Section 92 contained in the said chapter pertains to computation of income from international transaction having regard to arm's length price.	ANALYSIS
+As is well known, when these transfer pricing provisions were initially introduced in the Act, only international transactions were brought within fold of transfer pricing mechanism.	ANALYSIS
+Subsequently, several amendments were made in the provisions contained in Chapter X by Finance Act, 2012 bringing within the fold of transfer pricing mechanism certain domestic transactions.	ANALYSIS
+Sub-section (2A) inserted in Section 92 of the Act by Finance Act 2012 w.e.f. 1.4.2013 provides that any allowance for an expenditure or interest or allocation of any cost or expense or any income in relation to the specified domestic transaction shall be computed having regard to the arm's length price.	ANALYSIS
+Clause (ii) of Section 92F defines the term 'arm's length price'.	ANALYSIS
+The meaning of term 'associated enterprise' is provided in Section 92A. Section 92BA pertains to meaning of specified domestic transaction.	ANALYSIS
+Clause (i) thereof provided that for the purpose of the said Section and Sections 92, 92C, 92D and 92E specified domestic transaction in case of an assessee would mean any expenditure in respect of which payment has been made or is to be made to a person, referred to in clause (b) of sub- section (2) of Section 40A. 7. Section 92CA of the Act pertains to reference to Transfer Pricing Officer.	ANALYSIS
+Relevant portion of this Section reads as under:- (1) Where any person, being the assessee, has entered into an international transaction [or specified domestic transaction] in any previous year, and the Assessing Officer considers it necessary or expedient so to do	ANALYSIS
+, he may, with the previous approval of the [Principal Commissioner or] Commissioner, refer the computation of the arm's length price in relation to the said international transaction or specified domestic transaction under section 92C to the Transfer Pricing Officer.	ANALYSIS
+ (2) Where a reference is made under sub-section (1), the Transfer Pricing Officer shall serve a notice on the assessee requiring him to produce or cause to be produced on a date to be specified therein, any evidence on which the assessee may rely in support of the computation made by him of the arm's length price in relation to the international transaction [or specified domestic transaction] referred to in sub-section (1). 	ANALYSIS
+[(2A) Where any other international transaction [other than an international transaction referred under sub-section (1)], comes to the notice of the Transfer Pricing Officer during the course of the proceedings before him, the provisions of this Chapter shall apply as if such other international transaction is an international transaction referred to him under sub-section (1).]	ANALYSIS
+[(2B) Where in respect of an international transaction, the assessee has not furnished the report under section 92E and such transaction comes to the notice of the Transfer Pricing Officer during the course of the proceeding before him, the provisions of this Chapter shall apply as if such transaction is an international transaction referred to him under sub-section (1).]	ANALYSIS
+[(2C) Nothing contained in sub-section (2B) shall empower the Assessing Officer either to assess or reassess under section 147 or pass an order enhancing the assessment or reducing a refund already made or otherwise increasing the liability of the assessee under section 154, for any assessment year, proceedings for which have been completed before the 1st day of July, 2012.]	ANALYSIS
+(3) On the date specified in the notice under sub-section (2), or as soon thereafter as may be, after hearing such evidence as the assessee may produce, including any information or documents referred to in sub-section (3) of section 92D and after considering such evidence as the Transfer Pricing Officer may require on any specified points and after taking into account all relevant materials which he has gathered, the Transfer Pricing Officer shall, by order in writing, determine the arm's length price in relation to the international transaction [or specified domestic transaction] in accordance with sub-section (3) of section 92C and send a copy of his order to the Assessing Officer and to the assessee.	ANALYSIS
+[(3A) Where a reference was made under sub-section (1) before the 1st day of June, 2007 but the order under sub-section (3) has not been made by the Transfer Pricing Officer before the said date, or a reference under sub-section (1) is made on or after the 1st day of June, 2007, an order under sub-section (3) may be made at any time before sixty days prior to the date on which the period of limitation referred to in section 153, or as the case may be, in section 153Bfor making the order of assessment or reassessment or recomputation or fresh assessment, as the case may be, expires:]	ANALYSIS
+[Provided that in the circumstances referred to in clause (ii) or clause (x) of Explanation 1 to section 153, if the period of limitation available to the Transfer Pricing Officer for making an order is less than sixty days, such remaining period shall be extended to sixty days and the aforesaid period of limitation shall be deemed to have been extended accordingly.]	ANALYSIS
+[(4) On receipt of the order under sub-section (3), the Assessing Officer shall proceed to compute the total income of the assessee under sub-section (4) of section 92C in conformity with the arm's length price as so determined by the Transfer Pricing Officer.]	ANALYSIS
+8. Section 92E requires every person who has entered into an international transaction or a specified domestic tranasaction during a previous year to obtain a report from an accountant and furnish the report on or before the specified date in the prescribed form and verified in specified manner containing particulars as may be prescribed.	ANALYSIS
+ 9. Analysis of above noted statutory provisions would show that under sub-section (1) of Section 92CA, where any person has entered into an international transaction or specified domestic transaction in any previous year and the Assessing Officer considers it necessary or expedient so to do, he may, with the previous approval of the Principal Commissioner or Commissioner refer the computation of arm's length price in relation to such transaction under Section 92C to the TPO.	ANALYSIS
+Two things may be noted at this stage.	ANALYSIS
+The group of words "or specified domestic transaction" were added to the said sub-section by Finance Act 2012 w.e.f. 1.4.2013.	ANALYSIS
+Secondly, the reference that the Assessing Officer may make to the TPO in this sub-section would be with the previous approval of the Principal Commissioner or Commissioner.	ANALYSIS
+ 10. As per sub-section (2) of Section 92CA, where a reference is made under sub-section (1), the TPO shall serve a notice to the assessee calling for details in relation to international transaction or specified domestic transaction.	ANALYSIS
+Here also, the group of words "or specified domestic transaction" were inserted by Finance Act 2012 w.e.f.1.4.2013.	ANALYSIS
+Sub-section (2A) provides that where any other international transaction other than an international transaction referred to in sub-section (1) comes to the notice of the TPO during the course of the proceedings before him, the provisions of the said chapter would apply as if such other international transaction was an international transaction referred to him under sub-section (1). 11.	ANALYSIS
+Sub-section (2A) was inserted by Finance Act 2011 w.e.f. 1.6.2011 and sub-section (2B) was inserted by Finance Act, 2012 with retrospective effect from 1.6.2002.	ANALYSIS
+These two sub-sections have been introduced by the legislature in order to overcome the limitation of the TPO to examine an international transaction which has either not been reported by the Assessing Officer under sub-section (1) or which the assessee has omitted to report as required under Section 92E.	ANALYSIS
+Sub-section (2B) of Section 92CA would cover a situation where the assessee does not report such transaction but it comes to the notice of the TPO during the court of the proceedings before him.	ANALYSIS
+In such a situation, he can examine as if the same has been referred to him under sub-section (1).	ANALYSIS
+Sub-section (2A) would cover a situation where an international transaction has not been referred to TPO by the Assessing Officer which comes to his notice during the course of the proceedings before him.	ANALYSIS
+In such a situation, he would examine the transaction as if such international transaction is a transaction referred to him under sub-section (1).	ANALYSIS
+The common feature of both these sub-sections is that they take within the sweep only an international transaction.	ANALYSIS
+Conspicuous by absence is the reference to any specified domestic transaction.	ANALYSIS
+ 12. One thing therefore, that can be safely concluded is that the legislature while making amendments in various provisions contained in Chapter X of the Act, covering the cases of specified domestic transactions in transfer pricing mechanism, did not make any such corresponding change in sub-sections (2A) or (2B) of Section 92CA.	ANALYSIS
+We may recall, sub-section (2A) was inserted by Finance Act of 2011.	ANALYSIS
+Therefore, when under Finance Act of 2012, the specified domestic transactions were being made subject to transfer pricing mechanism, there was no reason for the legislature, if so thought necessary, to include a reference to specified domestic transaction under sub-section (2A).	ANALYSIS
+More significant indication of the conscious legislative process is the fact that sub-section (2B) was inserted under the same Finance Act of 2012 by which the specified domestic transactions became subject matter of transfer pricing mechanism.	ANALYSIS
+We must, therefore, presume that the legislature consciously decided not to include a reference to a specified domestic transaction under sub-section (2A) and (2B) of Section 92CA. 13.	ANALYSIS
+It is indisputable that by virtue of sub-sections (2A) and (2B) of Section 92CA, in case of an international transaction, the TPO would have an authority to examine any international transaction which comes to his notice during the proceedings, whether a reference in this respect was made by the Assessing Officer or not and whether the assessee had reported such transaction under Section 92E of the Act or not.	ANALYSIS
+However, in view of specific non-inclusion of the specified domestic transaction under the said sub- sections, in so far as the domestic transactions are concerned, the situation would be vastly different.	ANALYSIS
+ 14. In plain terms, in absence of sub-sections (2A) and (2B) of Section 92CA, the TPO would get jurisdiction to examine a transaction whether it is international or specified domestic transaction, only upon reference being made by the Assessing Officer under sub-section (1) of Section 92CA of the Act.	ANALYSIS
+Sub-section (2) of Section 92CA provides that where a reference is made under sub-section (1), the TPO would serve a notice to the assessee requiring him to furnish details in relation to international transaction or specified domestic transaction referred to in sub-section (1).	ANALYSIS
+Thus, the jurisdiction of the TPO to issue a notice to the assessee would be in relation to international transaction or specified domestic transaction for which reference is made by the Assessing Officer under sub-section (1).	ANALYSIS
+It is precisely for this reason that sub-sections (2A) and (2B) provide a deeming fiction where they provide that in case of an international transaction not referred to the TPO or an international transaction not reported by the assessee, which comes to his notice during the proceedings, the provision of the Chapter would apply as if such international transaction was one referred to in sub-section (1).	ANALYSIS
+In absence of this deeming fiction, it would not be open for the TPO to exercise the powers under the said chapter in relation to the transaction not referred to him.	ANALYSIS
+The reference to be made by the Assessing Officer	ANALYSIS
+is not an empty formality.	ANALYSIS
+Said reference has to be made only on approval of the Principal Commissioner or Commissioner.	ANALYSIS
+Legislature, requires the Assessing Officer to obtain an approval from senior Revenue Authority before a reference is made.	ANALYSIS
+Such requirement cannot be jettisoned by the TPO exercising sue motu jurisdiction over the transaction not reported to him.	ANALYSIS
+ 15. This Court in case of Vodafone India Services Pvt Ltd Vs. Union of India & Ors.2 considered a question whether the TPO could have considered a transaction coming to his notice during the course of the proceedings before him, though not referred to him by the Assessing Officer in a case which arose prior to 1.6.2011 when sub-section (2A) was inserted in Section 92CA of the Act.	ANALYSIS
+In this context, the Court held and observed as under:- "28.	ANALYSIS
+Sub-section (2A) undoubtedly confers fresh jurisdiction upon and extends the jurisdiction of the TPO.	ANALYSIS
+Prior thereto, the TPO was not entitled to deal with or consider international transactions which came to his notice without the same being referred to him by the AO.	ANALYSIS
+        Prior to sub-section (2A) being introduced with effect from 1st June, 2011, the TPO was entitled to determine the arm's length price in relation to an international transaction only upon the same being 2 [2013] 359 ITR 133 (Bom) referred to him for computation by the AO with the previous approval of the Commissioner." 16.	ANALYSIS
+Even the Central Board of Direct Taxes ("CBDT" for short) has dealt with this situation similarly.	ANALYSIS
+In an instruction 3 of 2003 dated 20.5.2013, following clarification was made:- (ii) Role of Transfer Pricing Officer :	ANALYSIS
+The role of the TPO begins after a reference is received from the Assessing Officer.	ANALYSIS
+In terms of Section 92CA, this role is limited to the determination of arm's length price in relation to the international transaction(s) referred to him by the Assessing Officer.	ANALYSIS
+If during the course of proceedings before him, it is found that there are certain other transactions; while have not been referred to him by the Assessing Officer, he will have to take up the matter with the Assessing Officer so that a fresh reference is received with regard to such transactions.	ANALYSIS
+It may be noted that the reference to the TPO is transaction and enterprise specific." 	ANALYSIS
+In later Instruction No. 15/2015 dated 16.10.2015, it was clarified as under:- "4. Role of Transfer Pricing Officer 4.1	ANALYSIS
+The role of the TPO begins after a reference is received from the AO.	ANALYSIS
+In terms of Section 92CA of the Act, this role is limited to the determination of the ALP in relation to international transaction(s) referred to him by the AO.	ANALYSIS
+However, if any other international transaction comes to the notice of the TPO during the course of the proceedings before him, then he is empowered to determine the ALP of such other international transactions also by virtue of sub-sections (2A) and (2B) of Section 92CA of the Act.	ANALYSIS
+The transfer price has to be determined by the TPO in terms of Section 92C of the Act." 17.	ANALYSIS
+Inescapable conclusion that we have reached is that in relation to a specified domestic transaction, the TPO can under take transfer pricing study only in relation to those transactions which are referred to him under sub-section (1) of Section 92C of the Act.	ANALYSIS
+Sub-section (2A) and (2B) of Section 92C are confined to international transactions and with the aid of any interpretive process, the said provision cannot be applied to empower the TPO to examine any specified domestic transaction not referred to him by the Assessing Officer under sub-section (1).	ANALYSIS
+Any other view would be doing violence to the plain language of the statute.	ANALYSIS
+ 18. Learned counsel for the Revenue is correct in pointing out that in the present case, the assessee did not report such transaction at all and therefore, the Assessing Officer had no occasion to notice such transaction as specified domestic transaction.	ANALYSIS
+His reference, therefore, was necessarily confined to the reported transactions.	ANALYSIS
+The TPO noticed this anomaly, he proceeded to determine the arm's length price after full opportunity of hearing to the petitioner.	ANALYSIS
+ 19. Even in such a situation, the statute does not permit the TPO to assume the jurisdiction to determine the arm's length price of a specified domestic transaction not reported to him.	ANALYSIS
+There may be number of cases where the assessee may bonafide hold a belief that certain transaction is not a specified domestic transaction and therefore, would not report the same under Section 92E of the Act.	ANALYSIS
+Whether bonafide or not, not making a report by the assessee of a specified domestic transaction would not leave the revenue without remedy.	ANALYSIS
+As clarified by CBDT in the instructions dated 20.5.2013, it is always open for the TPO who notices such transaction during the course of the proceedings before him to call for a reference by the Assessing Officer.	ANALYSIS
+If the Assessing Officer does make a report, only then TPO can undertake further steps as envisaged under sub-section (2) and other sub-sections of Section 92CA.	ANALYSIS
+As noted, the statute is sufficiently clear.	ANALYSIS
+The legislature while expanding the scope of the transfer pricing study by the TPO to a transaction not referred him or not reported by the Assessing Officer, under sub-section (2A) and (2B) of Section 92CA, has confined the applicability thereof only to international transactions.	ANALYSIS
+The TPO exercising such powers suo motu in relation to a specified domestic transaction would be transgressing his jurisdiction and in the process would render the requirement of sub-section (1) of Section 92CA redundant.	ANALYSIS
+As noted, the reference that the Assessing Officer can make to the TPO would have the approval of the Principal Commissioner or the Commissioner.	ANALYSIS
+ 20. Under these circumstances, in relation to the transaction of payment to creditors in demerger process, the TPO had no jurisdiction to make any adjustments.	ANALYSIS
+Under these circumstances and even otherwise, we are not inclined to examine the adjustment on merits though it was argued before us by the learned counsel for the petitioner.	ANALYSIS
+ 21. Coming to the adjustment made by the TPO towards payment of subscription fees, even though the petitioner may have certain arguable points, that by itself, would not enable us to bypass the entire statutory scheme of assessment, appeal and revision.	ANALYSIS
+Once the TPO makes his report, the provisions are made in the statute how such report would be acted upon	ANALYSIS
+. The petitioner would have full innings to oppose the contents of such report and take such challenge in the appeal in case the petitioner fails at the first stage.	ANALYSIS
+When a statute that too, fiscal statute makes detail provisions for assessment, appeals and revisions, ordinarily the Court would not examine the issues on merits bypassing such statutory remedies.	ANALYSIS
+Reference in this respect can be made to the decision of the Supreme Court in the case of CIT Vs. Chhabil Dass Agarwal3.	ANALYSIS
+In the said judgment taking note of the larger number of decisions of the Supreme Court in context of exercising writ jurisdiction when statutory appeal remedies are available, it was observed as under:- "19.	ANALYSIS
+Thus, while it can be said that this Court has recognized some exceptions to the rule of alternative remedy, i.e., where the statutory authority has not acted in accordance with the provisions of the enactment in question, or in defiance of the fundamental principles of judicial procedure, or has resorted to invoke the provisions which are repealed, or when an order has been passed in total violation of the principles of natural justice, the proposition laid down in Thansingh Nathmal's case, Titagarh Paper Mills' case and other similar judgments that the High Court will not entertain a petition under Article 226 of the Constitution if an effective alternative remedy is available to the aggrieved person or the statute under which the action complained of has been taken itself contains a mechanism for 3 [2013] 357 (SC) redressal of grievance still holds the field.	ANALYSIS
+Therefore, when a statutory forum is created by law for redressal of grievances, a writ petition should not be entertained ignoring the statutory dispensation.	ANALYSIS
+ All the contentions on merits raised by the learned counsel for the petitioner in relation to this adjustment require minute examination of documents and materials on record and accounts.	RATIO
+Even the contention of breach of natural justice is not possible of summary consideration.	RATIO
+The TPO had issued several notices during the proceedings.	RATIO
+Whether precise query was raised in relation to the adjustment ultimately suggested would require minute and detailed examination of documents on record, an exercise we are not inclined to undertake in this petition.	RATIO
+When the Act provides for statutory appeals and further appeal to the High Court on substantial question of law, such exercise, we would be well advised not to undertake in a writ petition.	RATIO
+ 22. In view of the above discussion, the impugned order of the TPO is quashed in so far as it provides adjustment of the arm's length price towards payment of creditors in demerger process of a sum of Rs. 57.54 crores.	RPC
+Rest of the impugned order stands as it is.	RPC
+ 23. The petition is disposed of accordingly.	RPC
+ [ SARANG V. KOTWAL, J. ]      [ AKIL KURESHI, J ]	NONE
