@@ -1,0 +1,13 @@
+2022-06-21 16:14:36.981: Fold 0 of 1
+2022-06-21 16:14:36.987: Starting training 0 for fold 0... 
+2022-06-21 16:14:37.003: device: cuda:0
+2022-06-21 16:14:37.007: fold: 0
+2022-06-21 16:14:37.009: train batches: 245
+2022-06-21 16:14:37.011: dev batches: 30
+2022-06-21 16:14:37.014: test batches: 30
+2022-06-21 16:14:41.596: Model: BertHSLN
+2022-06-21 16:14:47.045: Number of model parameters: 170269207
+2022-06-21 16:14:47.050: Number of model parameters bert: 0
+2022-06-21 16:14:47.052: Number of model parameters word_lstm: 9265792
+2022-06-21 16:14:47.054: Number of model parameters attention_pooling: 306400
+2022-06-21 16:14:47.057: Number of model parameters sentence_lstm: 142504000
